@@ -1,0 +1,347 @@
+[
+    {
+        "title": "Tuần 11: Không thầy đố mày làm nên",
+        "start": "2025-11-17",
+        "end": "2025-11-21",
+        "monday": [
+            {
+                "name": "HĐTN",
+                "session": "Sáng",
+                "lesson": "Sinh hoạt dưới cờ: Biểu diễn văn nghệ chào mừng ngày Nhà giáo Việt Nam 20/11. ",
+                "equipment": {
+                    "has": "x",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Toán",
+                "session": "Sáng",
+                "lesson": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 2",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Tiếng Anh",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Tiếng Anh",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Tiếng Anh",
+                "session": "Chiều",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "GDTC",
+                "session": "Chiều",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "GDTC",
+                "session": "Chiều",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            }
+        ],
+        "tuesday": [
+            {
+                "name": "Khoa học",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Khoa học",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Mỹ thuật",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Toán",
+                "session": "Sáng",
+                "lesson": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 2",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Tiếng Anh",
+                "session": "Chiều",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Tiếng Việt",
+                "session": "Chiều",
+                "lesson": "Đọc: Sáng tháng Năm",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Tiếng Việt",
+                "session": "Chiều",
+                "lesson": "Đọc: Sáng tháng Năm",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            }
+        ],
+        "wednesday": [
+            {
+                "name": "Tiếng Việt",
+                "session": "Sáng",
+                "lesson": "Đọc: Sáng tháng Năm",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Âm nhạc",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Công Nghệ",
+                "session": "Sáng",
+                "lesson": "Bài 4: Trồng cây cảnh trong chậu - tiết 1",
+                "equipment": {
+                    "has": "x",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "HĐTN",
+                "session": "Sáng",
+                "lesson": "Sinh hoạt dưới cờ: Biểu diễn văn nghệ chào mừng ngày Nhà giáo Việt Nam 20/11. ",
+                "equipment": {
+                    "has": "x",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Tiếng Việt",
+                "session": "Chiều",
+                "lesson": "Đọc: Sáng tháng Năm",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "LS-ĐL",
+                "session": "Chiều",
+                "lesson": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 1)",
+                "equipment": {
+                    "has": "x",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Toán",
+                "session": "Chiều",
+                "lesson": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 2",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            }
+        ],
+        "thursday": [
+            {
+                "name": "Toán",
+                "session": "Sáng",
+                "lesson": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 2",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Tiếng Việt",
+                "session": "Sáng",
+                "lesson": "Đọc: Sáng tháng Năm",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Đạo Đức",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            },
+            {
+                "name": "Tin Học",
+                "session": "Sáng",
+                "lesson": "",
+                "equipment": {
+                    "has": "",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": true
+            }
+        ],
+        "friday": [
+            {
+                "name": "Toán",
+                "session": "Sáng",
+                "lesson": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 2",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Tiếng Việt",
+                "session": "Sáng",
+                "lesson": "Đọc: Sáng tháng Năm",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "Tiếng Việt",
+                "session": "Sáng",
+                "lesson": "Đọc: Sáng tháng Năm",
+                "equipment": {
+                    "has": "",
+                    "selfMade": "x"
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "LS-ĐL",
+                "session": "Sáng",
+                "lesson": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 1)",
+                "equipment": {
+                    "has": "x",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": false
+            },
+            {
+                "name": "HĐTN",
+                "session": "Sáng",
+                "lesson": "Sinh hoạt dưới cờ: Biểu diễn văn nghệ chào mừng ngày Nhà giáo Việt Nam 20/11. ",
+                "equipment": {
+                    "has": "x",
+                    "selfMade": ""
+                },
+                "adjustments": "",
+                "isBold": false
+            }
+        ]
+    }
+]
