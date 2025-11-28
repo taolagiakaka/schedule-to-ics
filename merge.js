@@ -152,6 +152,7 @@ function generateMergedSchedule(startDate, numberOfWeeks) {
                 weekData[dayName].push({
                     name: subject,
                     session: entry.session,
+                    period: entry.periodIndex,
                     lesson: lessonName,
                     equipment: equipment,
                     adjustments: '',

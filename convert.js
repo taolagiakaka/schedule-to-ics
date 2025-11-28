@@ -13,9 +13,15 @@ const raw = fs.readFileSync(jsonPath, 'utf8');
 const data = JSON.parse(raw);
 
 // CONFIG
-const SESSION_TIME = {
-    Sáng: { start: '07:00', end: '09:00' },
-    Chiều: { start: '13:30', end: '15:30' },
+const PERIOD_TIME = {
+    1: { start: '07:30', end: '08:05' },
+    2: { start: '08:10', end: '08:45' },
+    3: { start: '09:10', end: '09:45' },
+    4: { start: '09:50', end: '10:25' },
+    5: { start: '10:25', end: '11:00' },
+    6: { start: '14:00', end: '14:35' },
+    7: { start: '14:40', end: '15:15' },
+    8: { start: '15:45', end: '16:20' },
 };
 
 const DAY_MAP = {
@@ -27,7 +33,10 @@ const DAY_MAP = {
 };
 
 // Tạo calendar
-const calendar = ical({ name: 'School Schedule' });
+const calendar = ical({
+    name: 'School Schedule',
+    timezone: 'Asia/Ho_Chi_Minh',
+});
 
 // helper
 function makeDate(dateStr, timeStr) {
@@ -44,13 +53,19 @@ function processDay(weekStart, dayName, lessons) {
     const dateStr = date.toISOString().slice(0, 10);
 
     lessons.forEach(item => {
-        const time = SESSION_TIME[item.session];
+        const time = PERIOD_TIME[item.period];
         if (!time) return;
+
+        let summary = `${item.name} (${item.session})`;
+        // Highlight if isBold is false (meaning it has specific content)
+        if (item.isBold === false) {
+            summary = `★ ${summary}`;
+        }
 
         calendar.createEvent({
             start: makeDate(dateStr, time.start),
             end: makeDate(dateStr, time.end),
-            summary: `${item.name} (${item.session})`,
+            summary: summary,
             description: item.lesson || '',
         });
     });
