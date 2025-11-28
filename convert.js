@@ -14,14 +14,14 @@ const data = JSON.parse(raw);
 
 // CONFIG
 const PERIOD_TIME = {
-    1: { start: '07:30', end: '08:05' },
-    2: { start: '08:10', end: '08:45' },
-    3: { start: '09:10', end: '09:45' },
-    4: { start: '09:50', end: '10:25' },
-    5: { start: '10:25', end: '11:00' },
-    6: { start: '14:00', end: '14:35' },
-    7: { start: '14:40', end: '15:15' },
-    8: { start: '15:45', end: '16:20' },
+    1: { start: '07:00', end: '08:00' },
+    2: { start: '08:00', end: '09:00' },
+    3: { start: '09:00', end: '10:00' },
+    4: { start: '10:00', end: '11:00' },
+    5: { start: '11:00', end: '12:00' },
+    6: { start: '13:00', end: '14:00' },
+    7: { start: '14:00', end: '15:00' },
+    8: { start: '15:00', end: '16:00' },
 };
 
 const DAY_MAP = {
