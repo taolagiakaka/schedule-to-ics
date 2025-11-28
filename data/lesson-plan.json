@@ -1,0 +1,4047 @@
+{
+    "literature": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Đọc: Những ngày hè tươi đẹp"
+        },
+        {
+            "id": 2,
+            "week": 1,
+            "name": "Đọc: Những ngày hè tươi đẹp"
+        },
+        {
+            "id": 3,
+            "week": 1,
+            "name": "LTVC: Danh từ "
+        },
+        {
+            "id": 4,
+            "week": 1,
+            "name": "Viết: Nhận diện bài văn kể chuyện "
+        },
+        {
+            "id": 5,
+            "week": 1,
+            "name": "Đọc: Đoá hoa đồng thoại"
+        },
+        {
+            "id": 6,
+            "week": 1,
+            "name": "Nói và nghe: Trao đổi về việc xây dựng tủ sách lớp em"
+        },
+        {
+            "id": 7,
+            "week": 1,
+            "name": "Viết: Lập dàn ý cho bài văn kể chuyện"
+        },
+        {
+            "id": 8,
+            "week": 2,
+            "name": "Đọc: Gieo ngày mới"
+        },
+        {
+            "id": 9,
+            "week": 2,
+            "name": "Đọc: mở rộng Sinh hoạt câu lạc bộ đọc sách, Chủ điểm: Tuổi nhỏ làm việc nhỏ"
+        },
+        {
+            "id": 10,
+            "week": 2,
+            "name": "LTVC: Danh từ chung, danh từ riêng"
+        },
+        {
+            "id": 11,
+            "week": 2,
+            "name": "Viết: Viết: đoạn mở bài và đoạn kết bài cho bài văn kể chuyện"
+        },
+        {
+            "id": 12,
+            "week": 2,
+            "name": "Đọc: Lên nương"
+        },
+        {
+            "id": 13,
+            "week": 2,
+            "name": "LTVC: Luyện tập về danh từ"
+        },
+        {
+            "id": 14,
+            "week": 2,
+            "name": "Viết: Viết bài văn kể chuyện"
+        },
+        {
+            "id": 15,
+            "week": 3,
+            "name": "Đọc: Cô bé ấy đã lớn"
+        },
+        {
+            "id": 16,
+            "week": 3,
+            "name": "Đọc: Cô bé ấy đã lớn"
+        },
+        {
+            "id": 17,
+            "week": 3,
+            "name": "LTVC: Động từ"
+        },
+        {
+            "id": 18,
+            "week": 3,
+            "name": "Viết: Tìm ý và viết đoạn văn cho bài văn kể chuyện"
+        },
+        {
+            "id": 19,
+            "week": 3,
+            "name": "Đọc: Những người thiếu niên anh hùng"
+        },
+        {
+            "id": 20,
+            "week": 3,
+            "name": "Nói và nghe: Kể về một hoạt động đền ơn đáp nghĩa hoặc một hoạt động thiện nguyện"
+        },
+        {
+            "id": 21,
+            "week": 3,
+            "name": "Viết: Trả bài văn kể chuyện"
+        },
+        {
+            "id": 22,
+            "week": 4,
+            "name": "Đọc: Sắc màu"
+        },
+        {
+            "id": 23,
+            "week": 4,
+            "name": "Đọc: mở rộng Sinh hoạt câu lạc bộ đọc sách, Chủ điểm: Tuổi nhỏ làm việc nhỏ"
+        },
+        {
+            "id": 24,
+            "week": 4,
+            "name": "LTVC: Luyện tập về động từ"
+        },
+        {
+            "id": 25,
+            "week": 4,
+            "name": "Viết: Viết: bài văn kể chuyện"
+        },
+        {
+            "id": 26,
+            "week": 4,
+            "name": "Đọc: Mùa thu"
+        },
+        {
+            "id": 27,
+            "week": 4,
+            "name": "LTVC: Mở rộng vốn từ Đoàn kết"
+        },
+        {
+            "id": 28,
+            "week": 4,
+            "name": "Viết: Viết đơn"
+        },
+        {
+            "id": 29,
+            "week": 5,
+            "name": "Đọc: Về thăm bà"
+        },
+        {
+            "id": 30,
+            "week": 5,
+            "name": "Đọc: Về thăm bà"
+        },
+        {
+            "id": 31,
+            "week": 5,
+            "name": "LTVC: Luyện tập về động từ"
+        },
+        {
+            "id": 32,
+            "week": 5,
+            "name": "Viết: Trả bài văn kể chuyện"
+        },
+        {
+            "id": 33,
+            "week": 5,
+            "name": "Đọc: Ca dao về tình yêu thương"
+        },
+        {
+            "id": 34,
+            "week": 5,
+            "name": "Nói và nghe: Kể về một việc làm thể hiện tình cảm của em với người thân"
+        },
+        {
+            "id": 35,
+            "week": 5,
+            "name": "Viết: Nhận diện bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 36,
+            "week": 6,
+            "name": "Đọc: Quả ngọt cuối mùa"
+        },
+        {
+            "id": 37,
+            "week": 6,
+            "name": "Đọc: mở rộng Sinh hoạt câu lạc bộ đọc sách, Chủ điểm: Mảnh ghép yêu thương"
+        },
+        {
+            "id": 38,
+            "week": 6,
+            "name": "LTVC: Luyện tập về động từ"
+        },
+        {
+            "id": 39,
+            "week": 6,
+            "name": "Viết: Lập dàn ý cho bài văn thuật lại sự việc"
+        },
+        {
+            "id": 40,
+            "week": 6,
+            "name": "Đọc: Thân thương xứ Vàm"
+        },
+        {
+            "id": 41,
+            "week": 6,
+            "name": "LTVC: Tính từ"
+        },
+        {
+            "id": 42,
+            "week": 6,
+            "name": "Viết: Viết đoạn văn cho bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 43,
+            "week": 7,
+            "name": "Đọc: Một li sữa"
+        },
+        {
+            "id": 44,
+            "week": 7,
+            "name": "Đọc: Một li sữa"
+        },
+        {
+            "id": 45,
+            "week": 7,
+            "name": "LTVC: Luyện tập về tính từ"
+        },
+        {
+            "id": 46,
+            "week": 7,
+            "name": "Viết: Viết: đoạn mở bài và đoạn kết bài cho bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 47,
+            "week": 7,
+            "name": "Đọc: Vì Hoàng Sa - Trường Sa thân yêu"
+        },
+        {
+            "id": 48,
+            "week": 7,
+            "name": "Nói và nghe: Thảo luận về việc hỗ trợ học sinh có hoàn cảnh khó khăn"
+        },
+        {
+            "id": 49,
+            "week": 7,
+            "name": "Viết: Viết bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 50,
+            "week": 8,
+            "name": "Đọc: Gió vườn"
+        },
+        {
+            "id": 51,
+            "week": 8,
+            "name": "Đọc: mở rộng Sinh hoạt câu lạc bộ đọc sách: Chủ điểm Mảnh ghép yêu thương"
+        },
+        {
+            "id": 52,
+            "week": 8,
+            "name": "LTVC: Luyện tập về tính từ"
+        },
+        {
+            "id": 53,
+            "week": 8,
+            "name": "Viết: Viết: báo cáo thảo luận nhóm"
+        },
+        {
+            "id": 54,
+            "week": 8,
+            "name": "Đọc: Cây trái trong vườn Bác"
+        },
+        {
+            "id": 55,
+            "week": 8,
+            "name": "LTVC: Mở rộng vốn từ Nhân hậu"
+        },
+        {
+            "id": 56,
+            "week": 8,
+            "name": "Viết: Trả bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 57,
+            "week": 9,
+            "name": "Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọc hiểu: Tiếng Chim"
+        },
+        {
+            "id": 58,
+            "week": 9,
+            "name": "Viết: Tiết 2: - Nghe-viết: Ngôi nhà nơi đầu ngọn gió \n- Ôn luyện quy tắc viết hoa tên cơ quan, tổ chức"
+        },
+        {
+            "id": 59,
+            "week": 9,
+            "name": "Nói và nghe: Tiết 3: Ôn luyện Nói và nghe: : Nói về một hoạt động trải nghiệm thú vị của em ở trường "
+        },
+        {
+            "id": 60,
+            "week": 9,
+            "name": "LTVC: Tiết 4: Ôn luyện từ và câu: Danh từ, động từ, tính từ"
+        },
+        {
+            "id": 61,
+            "week": 9,
+            "name": "Viết: Tiết 5: Ôn luyện viết: Viết: bài văn kể lại một câu chuyện đã nghe, đã học có nhân vật là đồ vật hoặc con vật"
+        },
+        {
+            "id": 62,
+            "week": 9,
+            "name": "Viết: Tiết 6: Đánh giá Giữa học kì I"
+        },
+        {
+            "id": 63,
+            "week": 9,
+            "name": "Viết: Tiết 7: Đánh giá Giữa học kì I"
+        },
+        {
+            "id": 64,
+            "week": 10,
+            "name": "Đọc: Yết Kiêu"
+        },
+        {
+            "id": 65,
+            "week": 10,
+            "name": "Đọc: Yết Kiêu"
+        },
+        {
+            "id": 66,
+            "week": 10,
+            "name": "LTVC: Luyện tập về Tính từ "
+        },
+        {
+            "id": 67,
+            "week": 10,
+            "name": "Viết: Luyện tập lập dàn ý cho bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 68,
+            "week": 10,
+            "name": "Đọc: Mạc Đĩnh Chi"
+        },
+        {
+            "id": 69,
+            "week": 10,
+            "name": "Nói và nghe: Nói về một anh hùng hoặc một tài năng nhỏ tuổi"
+        },
+        {
+            "id": 70,
+            "week": 10,
+            "name": "Viết: Luyện tập viết đoạn văn cho bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 71,
+            "week": 11,
+            "name": "Đọc: Sáng tháng Năm"
+        },
+        {
+            "id": 72,
+            "week": 11,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Những người tài trí"
+        },
+        {
+            "id": 73,
+            "week": 11,
+            "name": "LTVC: Luyện tập về danh từ, động từ, tính từ"
+        },
+        {
+            "id": 74,
+            "week": 11,
+            "name": "Viết: Luyện viết viết bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 75,
+            "week": 11,
+            "name": "Đọc: Trống đồng Đông Sơn"
+        },
+        {
+            "id": 76,
+            "week": 11,
+            "name": "LTVC: Từ điển"
+        },
+        {
+            "id": 77,
+            "week": 11,
+            "name": "Viết: Viết giấy mời"
+        },
+        {
+            "id": 78,
+            "week": 12,
+            "name": "Đọc: Ai tài giỏi nhất"
+        },
+        {
+            "id": 79,
+            "week": 12,
+            "name": "Đọc: Ai tài giỏi nhất"
+        },
+        {
+            "id": 80,
+            "week": 12,
+            "name": "LTVC: Biện pháp nhân hóa"
+        },
+        {
+            "id": 81,
+            "week": 12,
+            "name": "Viết: Trả bài văn thuật lại một sự việc"
+        },
+        {
+            "id": 82,
+            "week": 12,
+            "name": "Đọc: Kì quan đê biển"
+        },
+        {
+            "id": 83,
+            "week": 12,
+            "name": "Nói và nghe: Thuyết trình về trí tuệ và tài năng của con người"
+        },
+        {
+            "id": 84,
+            "week": 12,
+            "name": "Viết: Nhận diện bài văn viết thư"
+        },
+        {
+            "id": 85,
+            "week": 13,
+            "name": "Đọc: Chuyện cổ tích về loài người"
+        },
+        {
+            "id": 86,
+            "week": 13,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Những người tài trí"
+        },
+        {
+            "id": 87,
+            "week": 13,
+            "name": "LTVC: Luyện tập về nhân hóa"
+        },
+        {
+            "id": 88,
+            "week": 13,
+            "name": "Viết: Viết: thư cho người thân"
+        },
+        {
+            "id": 89,
+            "week": 13,
+            "name": "Đọc: Những mùa hoa trên cao nguyên đá"
+        },
+        {
+            "id": 90,
+            "week": 13,
+            "name": "LTVC: Mở rộng vốn từ: Tài trí "
+        },
+        {
+            "id": 91,
+            "week": 13,
+            "name": "Viết: Viết thư cho bạn bè"
+        },
+        {
+            "id": 92,
+            "week": 14,
+            "name": "Đọc: Ở Vương quốc Tương Lai"
+        },
+        {
+            "id": 93,
+            "week": 14,
+            "name": "Đọc: Ở Vương quốc Tương Lai"
+        },
+        {
+            "id": 94,
+            "week": 14,
+            "name": "LTVC: Luyện tập về nhân hóa"
+        },
+        {
+            "id": 95,
+            "week": 14,
+            "name": "Viết: Viết: đoạn văn tưởng tượng"
+        },
+        {
+            "id": 96,
+            "week": 14,
+            "name": "Đọc: Cậu bé ham học hỏi"
+        },
+        {
+            "id": 97,
+            "week": 14,
+            "name": "Nói và nghe: Nghe - kể câu chuyện về ước mơ"
+        },
+        {
+            "id": 98,
+            "week": 14,
+            "name": "Viết: Luyện tập viết đoạn văn tưởng tượng"
+        },
+        {
+            "id": 99,
+            "week": 15,
+            "name": "Đọc: Thuyền trưởng và bầy ong"
+        },
+        {
+            "id": 100,
+            "week": 15,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Những ước mơ xanh"
+        },
+        {
+            "id": 101,
+            "week": 15,
+            "name": "LTVC: Luyện tập về nhân hóa"
+        },
+        {
+            "id": 102,
+            "week": 15,
+            "name": "Viết: Luyện tập viết đoạn văn tưởng tượng"
+        },
+        {
+            "id": 103,
+            "week": 15,
+            "name": "Đọc: Cây táo đã nảy mầm"
+        },
+        {
+            "id": 104,
+            "week": 15,
+            "name": "LTVC: Luyện tập về nhân hóa"
+        },
+        {
+            "id": 105,
+            "week": 15,
+            "name": "Viết: Viết đoạn văn nêu tình cảm, cảm xúc"
+        },
+        {
+            "id": 106,
+            "week": 16,
+            "name": "Đọc: Hái trăng trên đỉnh núi"
+        },
+        {
+            "id": 107,
+            "week": 16,
+            "name": "Đọc: Hái trăng trên đỉnh núi"
+        },
+        {
+            "id": 108,
+            "week": 16,
+            "name": "LTVC: Luyện tập sử dụng từ ngữ"
+        },
+        {
+            "id": 109,
+            "week": 16,
+            "name": "Viết: Luyện tập viết đoạn văn nêu tình cảm, cảm xúc"
+        },
+        {
+            "id": 110,
+            "week": 16,
+            "name": "Đọc: Hướng dẫn tham gia cuộc thi vẽ"
+        },
+        {
+            "id": 111,
+            "week": 16,
+            "name": "Nói và nghe: Giới thiệu một sản phẩm thực hiện ở trường"
+        },
+        {
+            "id": 112,
+            "week": 16,
+            "name": "Viết: Viết đoạn văn nêu lí do thích một câu chuyện"
+        },
+        {
+            "id": 113,
+            "week": 17,
+            "name": "Đọc: Nếu chúng mình có phép lạ"
+        },
+        {
+            "id": 114,
+            "week": 17,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Những ước mơ xanh"
+        },
+        {
+            "id": 115,
+            "week": 17,
+            "name": "LTVC: Luyện tập sử dụng từ ngữ"
+        },
+        {
+            "id": 116,
+            "week": 17,
+            "name": "Viết: Luyện tập viết đoạn văn nêu lí do thích một câu chuyện"
+        },
+        {
+            "id": 117,
+            "week": 17,
+            "name": "Đọc: Những giai điệu gió"
+        },
+        {
+            "id": 118,
+            "week": 17,
+            "name": "LTVC: Mở rộng vốn từ: Ước mơ"
+        },
+        {
+            "id": 119,
+            "week": 17,
+            "name": "Viết: Luyện tập viết đoạn văn nêu lí do thích một câu chuyện"
+        },
+        {
+            "id": 120,
+            "week": 18,
+            "name": "Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọc hiểu: Con suối nhỏ"
+        },
+        {
+            "id": 121,
+            "week": 18,
+            "name": "Viết: Tiết 2: - Nghe-viết: Xuân trên đảo Bạch Long Vĩ - Ôn luyện quy tắc viết hoa tên cơ quan, tổ chức"
+        },
+        {
+            "id": 122,
+            "week": 18,
+            "name": "Nói và nghe: Tiết 3: Ôn luyện Nói và nghe: : Kể lại một kỉ niệm đẹp của em với gia đình, bạn bè hoặc thầy cô giáo"
+        },
+        {
+            "id": 123,
+            "week": 18,
+            "name": "LTVC: Tiết 4: Ôn luyện từ và câu: Danh từ, động từ, tính từ; nhân hóa"
+        },
+        {
+            "id": 124,
+            "week": 18,
+            "name": "Viết: Tiết 5: Ôn luyện viết: Thuật lại một ngày hội được tổ chức ở trường em"
+        },
+        {
+            "id": 125,
+            "week": 18,
+            "name": "Viết: Tiết 6: Đánh giá Cuối học kì I"
+        },
+        {
+            "id": 126,
+            "week": 18,
+            "name": "Viết: Tiết 7: Đánh giá Cuối học kì I"
+        },
+        {
+            "id": 127,
+            "week": 19,
+            "name": "Đọc: Cuộc phiêu lưu của bồ công anh"
+        },
+        {
+            "id": 128,
+            "week": 19,
+            "name": "Đọc: Cuộc phiêu lưu của bồ công anh"
+        },
+        {
+            "id": 129,
+            "week": 19,
+            "name": "LTVC: Câu"
+        },
+        {
+            "id": 130,
+            "week": 19,
+            "name": "Viết: Nhận diện bài văn miêu tả cây cối"
+        },
+        {
+            "id": 131,
+            "week": 19,
+            "name": "Đọc: Bác sĩ của nhân dân"
+        },
+        {
+            "id": 132,
+            "week": 19,
+            "name": "Nói và nghe: Nghe - kể câu chuyện về lòng nhân ái"
+        },
+        {
+            "id": 133,
+            "week": 19,
+            "name": "Viết: Quan sát, tìm ý cho bài văn miêu tả cây cối"
+        },
+        {
+            "id": 134,
+            "week": 20,
+            "name": "Đọc: Xôn xao mùa hè"
+        },
+        {
+            "id": 135,
+            "week": 20,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Cuộc sống mến yêu"
+        },
+        {
+            "id": 136,
+            "week": 20,
+            "name": "LTVC: Thành phần chính của câu"
+        },
+        {
+            "id": 137,
+            "week": 20,
+            "name": "Viết: Lập dàn ý cho bài văn tả cây cối"
+        },
+        {
+            "id": 138,
+            "week": 20,
+            "name": "Đọc: Trong ánh bình minh"
+        },
+        {
+            "id": 139,
+            "week": 20,
+            "name": "LTVC: Luyện tập về chủ ngữ"
+        },
+        {
+            "id": 140,
+            "week": 20,
+            "name": "Viết: Viết đoạn văn mở bài cho bài văn miêu tả cây cối"
+        },
+        {
+            "id": 141,
+            "week": 21,
+            "name": "Đọc: Điều ước của vua Mi-đát"
+        },
+        {
+            "id": 142,
+            "week": 21,
+            "name": "Đọc: Điều ước của vua Mi-đát"
+        },
+        {
+            "id": 143,
+            "week": 21,
+            "name": "LTVC: Luyện tập về chủ ngữ"
+        },
+        {
+            "id": 144,
+            "week": 21,
+            "name": "Viết: Viết: đoạn văn cho bài văn miêu tả cây cối"
+        },
+        {
+            "id": 145,
+            "week": 21,
+            "name": "Đọc: Món ngon mùa nước nổi"
+        },
+        {
+            "id": 146,
+            "week": 21,
+            "name": "Nói và nghe: Nói về một tấm gương lạc quan, yêu cuộc sống"
+        },
+        {
+            "id": 147,
+            "week": 21,
+            "name": "Viết: Viết đoạn kết bài cho bài văn miêu tả cây cối"
+        },
+        {
+            "id": 148,
+            "week": 22,
+            "name": "Đọc: Bè xuôi Sông La"
+        },
+        {
+            "id": 149,
+            "week": 22,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Cuộc sống mến yêu"
+        },
+        {
+            "id": 150,
+            "week": 22,
+            "name": "LTVC: Luyện tập về vị ngữ"
+        },
+        {
+            "id": 151,
+            "week": 22,
+            "name": "Viết: Viết: bài văn miêu tả cây cối"
+        },
+        {
+            "id": 152,
+            "week": 22,
+            "name": "Đọc: Mùa hoa phố Hội"
+        },
+        {
+            "id": 153,
+            "week": 22,
+            "name": "LTVC: Mở rộng vốn từ: Cái đẹp"
+        },
+        {
+            "id": 154,
+            "week": 22,
+            "name": "Viết: Luyện tập quan sát, tìm ý cho bài văn miêu tả cây cối"
+        },
+        {
+            "id": 155,
+            "week": 23,
+            "name": "Đọc: Sự tích bánh chưng, bánh giầy"
+        },
+        {
+            "id": 156,
+            "week": 23,
+            "name": "Đọc: Sự tích bánh chưng, bánh giầy"
+        },
+        {
+            "id": 157,
+            "week": 23,
+            "name": "LTVC: Luyện tập về vị ngữ"
+        },
+        {
+            "id": 158,
+            "week": 23,
+            "name": "Viết: Luyện tập lập dàn ý cho bài văn miêu tả cây cối"
+        },
+        {
+            "id": 159,
+            "week": 23,
+            "name": "Đọc: Độc đáo Tháp Chăm"
+        },
+        {
+            "id": 160,
+            "week": 23,
+            "name": "Nói và nghe: Giới thiệu một cảnh đẹp"
+        },
+        {
+            "id": 161,
+            "week": 23,
+            "name": "Viết: Trả bài văn miêu tả cây cối"
+        },
+        {
+            "id": 162,
+            "week": 24,
+            "name": "Đọc: Dòng sông mặc áo"
+        },
+        {
+            "id": 163,
+            "week": 24,
+            "name": "Đọc: mở rộng SHCLB đọc sách; Chủ điểm: Việt Nam quê hương em"
+        },
+        {
+            "id": 164,
+            "week": 24,
+            "name": "LTVC: Luyện tập về thành phần chính của câu"
+        },
+        {
+            "id": 165,
+            "week": 24,
+            "name": "Viết: Luyện tập viết đoạn văn cho bài văn miêu tả cây cối"
+        },
+        {
+            "id": 166,
+            "week": 24,
+            "name": "Đọc: Buổi sáng ở Hòn Gai"
+        },
+        {
+            "id": 167,
+            "week": 24,
+            "name": "LTVC: Câu chủ đề"
+        },
+        {
+            "id": 168,
+            "week": 24,
+            "name": "Viết: Luyện tập viết bài văn miêu tả cây cối"
+        },
+        {
+            "id": 169,
+            "week": 25,
+            "name": "Đọc: Hoa cúc áo"
+        },
+        {
+            "id": 170,
+            "week": 25,
+            "name": "Đọc: Hoa cúc áo"
+        },
+        {
+            "id": 171,
+            "week": 25,
+            "name": "LTVC: Luyện tập về câu chủ đề"
+        },
+        {
+            "id": 172,
+            "week": 25,
+            "name": "Viết: Luyện tập viết đoạn văn nêu tình cảm, cảm xúc"
+        },
+        {
+            "id": 173,
+            "week": 25,
+            "name": "Đọc: Một kì quan thế giới"
+        },
+        {
+            "id": 174,
+            "week": 25,
+            "name": "Nói và nghe: Nói về một việc làm góp phần bảo vệ môi trường"
+        },
+        {
+            "id": 175,
+            "week": 25,
+            "name": "Viết: Luyện tập viết đoạn văn nêu tình cảm, cảm xúc."
+        },
+        {
+            "id": 176,
+            "week": 26,
+            "name": "Đọc: Chợ Tết"
+        },
+        {
+            "id": 177,
+            "week": 26,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Việt Nam quê hương em"
+        },
+        {
+            "id": 178,
+            "week": 26,
+            "name": "LTVC: Dấu gạch ngang"
+        },
+        {
+            "id": 179,
+            "week": 26,
+            "name": "Viết: Trả bài văn miêu tả cây cối"
+        },
+        {
+            "id": 180,
+            "week": 26,
+            "name": "Đọc: Về lại Gò Công"
+        },
+        {
+            "id": 181,
+            "week": 26,
+            "name": "LTVC: Mở rộng vốn từ: Quê hương"
+        },
+        {
+            "id": 182,
+            "week": 26,
+            "name": "Viết: Viết hướng dẫn làm hoặc sử dụng một sản phẩm"
+        },
+        {
+            "id": 183,
+            "week": 27,
+            "name": "Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọc hiểu: Leng keng Đà Lạt"
+        },
+        {
+            "id": 184,
+            "week": 27,
+            "name": "Viết: Tiết 2: -Nghe - viết: Nha Trang - Ôn luyện quy tắc viết hoa tên cơ quan, tổ chức"
+        },
+        {
+            "id": 185,
+            "week": 27,
+            "name": "Nói và nghe: Tiết 3: Ôn luyện Nói và nghe: : Nói những điều em thấy yêu thích về trường, lớp mình"
+        },
+        {
+            "id": 186,
+            "week": 27,
+            "name": "LTVC: Tiết 4: Ôn luyện từ và câu: Câu chủ đề; thành phần chính của câu; lựa chọn, sử dụng từ ngữ; dấu gạch ngang"
+        },
+        {
+            "id": 187,
+            "week": 27,
+            "name": "Viết: Tiết 5: Ôn luyện viết: Viết: bài văn tả một cây ăn quả mà em thích"
+        },
+        {
+            "id": 188,
+            "week": 27,
+            "name": "Viết: Tiết 6: Đánh giá Giữa học kì II"
+        },
+        {
+            "id": 189,
+            "week": 27,
+            "name": "Viết: Tiết 7: Đánh giá Giữa học kì II"
+        },
+        {
+            "id": 190,
+            "week": 28,
+            "name": "Đọc: Cậu bé gặt gió"
+        },
+        {
+            "id": 191,
+            "week": 28,
+            "name": "Đọc: Cậu bé gặt gió"
+        },
+        {
+            "id": 192,
+            "week": 28,
+            "name": "LTVC: Dấu ngoặc kép"
+        },
+        {
+            "id": 193,
+            "week": 28,
+            "name": "Viết: Nhận diện bài văn miêu tả con vật"
+        },
+        {
+            "id": 194,
+            "week": 28,
+            "name": "Đọc: Kì lạ thế giới thực vật ở Nam Mỹ"
+        },
+        {
+            "id": 195,
+            "week": 28,
+            "name": "Nói và nghe: Nói về vai trò của cây xanh"
+        },
+        {
+            "id": 196,
+            "week": 28,
+            "name": "Viết: Quan sát, tìm ý cho bài văn miêu tả con vật"
+        },
+        {
+            "id": 197,
+            "week": 29,
+            "name": "Đọc: Từ Cu-ba"
+        },
+        {
+            "id": 198,
+            "week": 29,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Thế giới quanh ta"
+        },
+        {
+            "id": 199,
+            "week": 29,
+            "name": "LTVC: Dấu ngoặc đơn"
+        },
+        {
+            "id": 200,
+            "week": 29,
+            "name": "Viết: Lập dàn ý cho bài văn miêu tả con vật"
+        },
+        {
+            "id": 201,
+            "week": 29,
+            "name": "Đọc: Thảo nguyên bao la"
+        },
+        {
+            "id": 202,
+            "week": 29,
+            "name": "LTVC: Luyện tập về dấu câu"
+        },
+        {
+            "id": 203,
+            "week": 29,
+            "name": "Viết: Viết đoạn văn cho bài văn miêu tả con vật"
+        },
+        {
+            "id": 204,
+            "week": 30,
+            "name": "Đọc: Biển và rừng cây dưới lòng đất"
+        },
+        {
+            "id": 205,
+            "week": 30,
+            "name": "Đọc: Biển và rừng cây dưới lòng đất"
+        },
+        {
+            "id": 206,
+            "week": 30,
+            "name": "LTVC: Trạng ngữ"
+        },
+        {
+            "id": 207,
+            "week": 30,
+            "name": "Viết: Luyện tập viết đoạn văn cho bài văn miêu tả con vật"
+        },
+        {
+            "id": 208,
+            "week": 30,
+            "name": "Đọc: Một biểu tượng của Ô-xtrây-li-a"
+        },
+        {
+            "id": 209,
+            "week": 30,
+            "name": "Nói và nghe: Giới thiệu về một công trình kiến trúc"
+        },
+        {
+            "id": 210,
+            "week": 30,
+            "name": "Viết: Viết đoạn mở bài và đoạn kết bài cho bài văn miêu tả con vật"
+        },
+        {
+            "id": 211,
+            "week": 31,
+            "name": "Đọc: Rừng mơ"
+        },
+        {
+            "id": 212,
+            "week": 31,
+            "name": "Đọc: mở rộng SHCBL đọc sách Chủ điểm: Thế giới quanh ta"
+        },
+        {
+            "id": 213,
+            "week": 31,
+            "name": "LTVC: Trạng ngữ chỉ thời gian, nơi chốn"
+        },
+        {
+            "id": 214,
+            "week": 31,
+            "name": "Viết: Viết bài văn miêu tả con vật"
+        },
+        {
+            "id": 215,
+            "week": 31,
+            "name": "Đọc: Kì diệu Ma-rốc"
+        },
+        {
+            "id": 216,
+            "week": 31,
+            "name": "LTVC: Mở rộng vốn từ: Du lịch"
+        },
+        {
+            "id": 217,
+            "week": 31,
+            "name": "Viết: Viết bài văn miêu tả con vật"
+        },
+        {
+            "id": 218,
+            "week": 32,
+            "name": "Đọc: Cá heo ở biển Trường Sa"
+        },
+        {
+            "id": 219,
+            "week": 32,
+            "name": "Đọc: Cá heo ở biển Trường Sa"
+        },
+        {
+            "id": 220,
+            "week": 32,
+            "name": "LTVC: Trạng ngữ chỉ mục đích, nguyên nhân"
+        },
+        {
+            "id": 221,
+            "week": 32,
+            "name": "Viết: Luyện tập lập dàn ý cho bài văn miêu tả con vật"
+        },
+        {
+            "id": 222,
+            "week": 32,
+            "name": "Đọc: Vòng tay bè bạn"
+        },
+        {
+            "id": 223,
+            "week": 32,
+            "name": "Nói và nghe: Tranh luận theo chủ đề: Thời gian là vốn quý"
+        },
+        {
+            "id": 224,
+            "week": 32,
+            "name": "Viết: Trả bài văn miêu tả con vật"
+        },
+        {
+            "id": 225,
+            "week": 33,
+            "name": "Đọc: Nàng tiên Ốc"
+        },
+        {
+            "id": 226,
+            "week": 33,
+            "name": "Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Vòng tay thân ái"
+        },
+        {
+            "id": 227,
+            "week": 33,
+            "name": "LTVC: Trạng ngữ chỉ phương tiện"
+        },
+        {
+            "id": 228,
+            "week": 33,
+            "name": "Viết: Luyện tập viết đoạn văn cho bài văn miêu tả con vật"
+        },
+        {
+            "id": 229,
+            "week": 33,
+            "name": "Đọc: Nghe hạt dẻ hát"
+        },
+        {
+            "id": 230,
+            "week": 33,
+            "name": "LTVC: Luyện tập về trạng ngữ"
+        },
+        {
+            "id": 231,
+            "week": 33,
+            "name": "Viết: Luyện tập viết bài văn miêu tả con vật"
+        },
+        {
+            "id": 232,
+            "week": 34,
+            "name": "Đọc: Quà tặng của chim non"
+        },
+        {
+            "id": 233,
+            "week": 34,
+            "name": "Đọc: Quà tặng của chim non"
+        },
+        {
+            "id": 234,
+            "week": 34,
+            "name": "LTVC: Mở rộng vốn từ: Kết nối"
+        },
+        {
+            "id": 235,
+            "week": 34,
+            "name": "Viết: Viết hướng dẫn thực hiện một công việc"
+        },
+        {
+            "id": 236,
+            "week": 34,
+            "name": "Đọc: Thành phố nối hai châu lục"
+        },
+        {
+            "id": 237,
+            "week": 34,
+            "name": "Nói và nghe: Nghe-kể câu chuyện về một chuyện thám hiểm"
+        },
+        {
+            "id": 238,
+            "week": 34,
+            "name": "Viết: Trả bài văn miêu tả con vật"
+        },
+        {
+            "id": 239,
+            "week": 35,
+            "name": "Ôn tập cuối năm (7 tiết)"
+        },
+        {
+            "id": 240,
+            "week": 35,
+            "name": "Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọc hiểu: Chiều thu quê em"
+        },
+        {
+            "id": 241,
+            "week": 35,
+            "name": "Viết: Tiết 2: - Nghe-viết: Đất lành chim đậu\n- Ôn luyện quy tắc viết hoa tên cơ quan, tổ chức"
+        },
+        {
+            "id": 242,
+            "week": 35,
+            "name": "Nói và nghe: Tiết 3: Ôn luyện Nói và nghe: : Tranh luận, bày tỏ ý kiến về câu nói; Sức khỏe là vốn quý của con người"
+        },
+        {
+            "id": 243,
+            "week": 35,
+            "name": "LTVC: Tiết 4: Ôn luyện từ và câu: Thành phần chính của câu; trạng ngữ; lựa chọn, sử dụng từ ngữ; dấu câu"
+        },
+        {
+            "id": 244,
+            "week": 35,
+            "name": "Viết: Tiết 5: Ôn luyện Viết: : Viết: bài văn tả một con vật hoặc loài vật thông minh mà em biết"
+        },
+        {
+            "id": 245,
+            "week": 35,
+            "name": "Viết: Tiết 6: Đánh giá cuối năm học"
+        }
+    ],
+    "math": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Bài 1: Ôn tập các số đến 100 000 - tiết 1"
+        },
+        {
+            "id": 2,
+            "week": 1,
+            "name": "Bài 1: Ôn tập các số đến 100 000 - tiết 2"
+        },
+        {
+            "id": 3,
+            "week": 1,
+            "name": "Bài 1: Ôn tập các số đến 100 000 - tiết 3"
+        },
+        {
+            "id": 4,
+            "week": 1,
+            "name": "Bài 2: Ôn tập các phép cộng, phép trừ - tiết 1"
+        },
+        {
+            "id": 5,
+            "week": 1,
+            "name": "Bài 2: Ôn tập các phép cộng, phép trừ - tiết 2"
+        },
+        {
+            "id": 6,
+            "week": 2,
+            "name": "Bài 2: Ôn tập các phép cộng, phép trừ - tiết 3"
+        },
+        {
+            "id": 7,
+            "week": 2,
+            "name": "Bài 3: Ôn tập phép nhân, phép chia - tiết 1"
+        },
+        {
+            "id": 8,
+            "week": 2,
+            "name": "Bài 3: Ôn tập phép nhân, phép chia - tiết 2"
+        },
+        {
+            "id": 9,
+            "week": 2,
+            "name": "Bài 3: Ôn tập phép nhân, phép chia - tiết 3"
+        },
+        {
+            "id": 10,
+            "week": 2,
+            "name": "Bài 4: Số chẵn, số lẻ - tiết 1"
+        },
+        {
+            "id": 11,
+            "week": 3,
+            "name": "Bài 4: Số chẵn, số lẻ - tiết 2"
+        },
+        {
+            "id": 12,
+            "week": 3,
+            "name": "Bài 5: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 13,
+            "week": 3,
+            "name": "Bài 5: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 14,
+            "week": 3,
+            "name": "Bài 6: Bài toán liên quan đến rút về đơn vị - tiết 1"
+        },
+        {
+            "id": 15,
+            "week": 3,
+            "name": "Bài 6: Bài toán liên quan đến rút về đơn vị - tiết 2"
+        },
+        {
+            "id": 16,
+            "week": 4,
+            "name": "Bài 7: Bài toán liên quan đến rút về đơn vị (tiếp theo) - tiết 1"
+        },
+        {
+            "id": 17,
+            "week": 4,
+            "name": "Bài 7: Bài toán liên quan đến rút về đơn vị (tiếp theo) - tiết 2"
+        },
+        {
+            "id": 18,
+            "week": 4,
+            "name": "Bài 8: Bài toán giải bằng ba bước tính - tiết 1"
+        },
+        {
+            "id": 19,
+            "week": 4,
+            "name": "Bài 8: Bài toán giải bằng ba bước tính - tiết 2"
+        },
+        {
+            "id": 20,
+            "week": 4,
+            "name": "Bài 9: Ôn tập biểu thức số"
+        },
+        {
+            "id": 21,
+            "week": 5,
+            "name": "Bài 10: Biểu thức có chứa chữ - tiết 1"
+        },
+        {
+            "id": 22,
+            "week": 5,
+            "name": "Bài 10: Biểu thức có chứa chữ - tiết 2"
+        },
+        {
+            "id": 23,
+            "week": 5,
+            "name": "Bài 11: Biểu thức có chứa chữ (tiếp theo)"
+        },
+        {
+            "id": 24,
+            "week": 5,
+            "name": "Bài 12: Biểu thức có chứa chữ (tiếp theo)"
+        },
+        {
+            "id": 25,
+            "week": 5,
+            "name": "Bài 13: Tính chất giao hoán, tính chất kết hợp của phép cộng - tiết1"
+        },
+        {
+            "id": 26,
+            "week": 6,
+            "name": "Bài 13: Tính chất giao hoán, tính chất kết hợp của phép cộng - t2"
+        },
+        {
+            "id": 27,
+            "week": 6,
+            "name": "Bài 14: Tính chất giao hoán, tính chất kết hợp của phép nhân - t1"
+        },
+        {
+            "id": 28,
+            "week": 6,
+            "name": "Bài 14: Tính chất giao hoán, tính chất kết hợp của phép nhân - t2"
+        },
+        {
+            "id": 29,
+            "week": 6,
+            "name": "Bài 15: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 30,
+            "week": 6,
+            "name": "Bài 15: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 31,
+            "week": 7,
+            "name": "Bài 16: Dãy số liệu - tiết 1"
+        },
+        {
+            "id": 32,
+            "week": 7,
+            "name": "Bài 16: Dãy số liệu - tiết 2"
+        },
+        {
+            "id": 33,
+            "week": 7,
+            "name": "Bài 17: Biểu đồ cột - tiết 1"
+        },
+        {
+            "id": 34,
+            "week": 7,
+            "name": "Bài 17: Biểu đồ cột - tiết 2"
+        },
+        {
+            "id": 35,
+            "week": 7,
+            "name": "Bài 17: Biểu đồ cột - tiết 3"
+        },
+        {
+            "id": 36,
+            "week": 8,
+            "name": "Bài 18: Số lần lặp lại của một sự kiện - tiết 1"
+        },
+        {
+            "id": 37,
+            "week": 8,
+            "name": "Bài 18: Số lần lặp lại của một sự kiện - tiết 2"
+        },
+        {
+            "id": 38,
+            "week": 8,
+            "name": "Bài 19: Tìm số trung bình cộng - tiết 1"
+        },
+        {
+            "id": 39,
+            "week": 8,
+            "name": "Bài 19: Tìm số trung bình cộng - tiết 2"
+        },
+        {
+            "id": 40,
+            "week": 8,
+            "name": "Bài 20: Đề-xi-mét vuông - tiết 1"
+        },
+        {
+            "id": 41,
+            "week": 9,
+            "name": "Bài 20: Đề-xi-mét vuông - tiết 2"
+        },
+        {
+            "id": 42,
+            "week": 9,
+            "name": "Bài 21: Mét vuông - tiết 1"
+        },
+        {
+            "id": 43,
+            "week": 9,
+            "name": "Bài 21: Mét vuông - tiết 2"
+        },
+        {
+            "id": 44,
+            "week": 9,
+            "name": "Bài 22: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 45,
+            "week": 9,
+            "name": "Bài 22: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 46,
+            "week": 10,
+            "name": "Bài 22: Em làm được những gì? - tiết 3"
+        },
+        {
+            "id": 47,
+            "week": 10,
+            "name": "Bài 23: Thực hành và trải nghiệm - tiết 1"
+        },
+        {
+            "id": 48,
+            "week": 10,
+            "name": "Bài 23: Thực hành và trải nghiệm - tiết 2"
+        },
+        {
+            "id": 49,
+            "week": 10,
+            "name": "Kiểm tra giữa học kì I"
+        },
+        {
+            "id": 50,
+            "week": 10,
+            "name": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 1"
+        },
+        {
+            "id": 51,
+            "week": 11,
+            "name": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 2"
+        },
+        {
+            "id": 52,
+            "week": 11,
+            "name": "Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 3"
+        },
+        {
+            "id": 53,
+            "week": 11,
+            "name": "Bài 25: Triệu, lớp triệu - tiết 1"
+        },
+        {
+            "id": 54,
+            "week": 11,
+            "name": "Bài 25: Triệu, lớp triệu - tiết 2"
+        },
+        {
+            "id": 55,
+            "week": 11,
+            "name": "Bài 26: Đọc, viết các số tự nhiên trong hệ thập phân- tiết 1"
+        },
+        {
+            "id": 56,
+            "week": 12,
+            "name": "Bài 26:  Đọc, viết các số tự nhiên trong hệ thập phân - tiết 2"
+        },
+        {
+            "id": 57,
+            "week": 12,
+            "name": "Bài 27: So sánh và xếp thứ tự các số tự nhiên - tiết 1"
+        },
+        {
+            "id": 58,
+            "week": 12,
+            "name": "Bài 27: So sánh và xếp thứ tự các số tự nhiên - tiết 2"
+        },
+        {
+            "id": 59,
+            "week": 12,
+            "name": "Bài 28: Dãy số tự nhiên  "
+        },
+        {
+            "id": 60,
+            "week": 12,
+            "name": "Bài 29: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 61,
+            "week": 13,
+            "name": "Bài 29: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 62,
+            "week": 13,
+            "name": "Bài 30: Đo góc – Góc nhọn, góc tù, góc bẹt - tiết 1"
+        },
+        {
+            "id": 63,
+            "week": 13,
+            "name": "Bài 30: Đo góc – Góc nhọn, góc tù, góc bẹt - tiết 2"
+        },
+        {
+            "id": 64,
+            "week": 13,
+            "name": "Bài 31: Hai đường thẳng vuông góc  "
+        },
+        {
+            "id": 65,
+            "week": 13,
+            "name": "Bài 32: Hai đường thẳng song song - tiết 1"
+        },
+        {
+            "id": 66,
+            "week": 14,
+            "name": "Bài 32: Hai đường thẳng song song - tiết 2"
+        },
+        {
+            "id": 67,
+            "week": 14,
+            "name": "Bài 33. Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 68,
+            "week": 14,
+            "name": "Bài 33. Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 69,
+            "week": 14,
+            "name": "Bài 34: Giây - tiết 1"
+        },
+        {
+            "id": 70,
+            "week": 14,
+            "name": "Bài 34: Giây - tiết 2"
+        },
+        {
+            "id": 71,
+            "week": 15,
+            "name": "Bài 35: Thế kỉ - tiết 1"
+        },
+        {
+            "id": 72,
+            "week": 15,
+            "name": "Bài 35: Thế kỉ - tiết 2"
+        },
+        {
+            "id": 73,
+            "week": 15,
+            "name": "Bài 36: Yến, tạ, tấn - tiết 1"
+        },
+        {
+            "id": 74,
+            "week": 15,
+            "name": "Bài 36: Yến, tạ, tấn - tiết 2"
+        },
+        {
+            "id": 75,
+            "week": 15,
+            "name": "Bài 37: Em làm được những gì? - Tiết 1"
+        },
+        {
+            "id": 76,
+            "week": 16,
+            "name": "Bài 37: Em làm được những gì? - Tiết 2"
+        },
+        {
+            "id": 77,
+            "week": 16,
+            "name": "Bài 38: Ôn tập học kì I - tiết 1"
+        },
+        {
+            "id": 78,
+            "week": 16,
+            "name": "Bài 38: Ôn tập học kì I - tiết 2"
+        },
+        {
+            "id": 79,
+            "week": 16,
+            "name": "Bài 38: Ôn tập học kì I - tiết 3"
+        },
+        {
+            "id": 80,
+            "week": 16,
+            "name": "Bài 38: Ôn tập học kì I - tiết 4"
+        },
+        {
+            "id": 81,
+            "week": 17,
+            "name": "Bài 38: Ôn tập học kì I - tiết 5"
+        },
+        {
+            "id": 82,
+            "week": 17,
+            "name": "Bài 38: Ôn tập học kì I - tiết 6"
+        },
+        {
+            "id": 83,
+            "week": 17,
+            "name": "Bài 38: Ôn tập học kì I - tiết 7"
+        },
+        {
+            "id": 84,
+            "week": 17,
+            "name": "Bài 38: Ôn tập học kì I - tiết 8"
+        },
+        {
+            "id": 85,
+            "week": 17,
+            "name": "Bài 38: Ôn tập học kì I - tiết 9"
+        },
+        {
+            "id": 86,
+            "week": 18,
+            "name": "Bài 38: Ôn tập học kì I - tiết 10"
+        },
+        {
+            "id": 87,
+            "week": 18,
+            "name": "Bài 39: Thực hành và trải nghiệm - tiết 1"
+        },
+        {
+            "id": 88,
+            "week": 18,
+            "name": "Bài 39: Thực hành và trải nghiệm - tiết 2"
+        },
+        {
+            "id": 89,
+            "week": 18,
+            "name": "Bài 39: Thực hành và trải nghiệm - tiết 3"
+        },
+        {
+            "id": 90,
+            "week": 18,
+            "name": "Kiểm tra học kì I"
+        },
+        {
+            "id": 91,
+            "week": 19,
+            "name": "Bài 40: Phép cộng các số tự nhiên - tiết 1"
+        },
+        {
+            "id": 92,
+            "week": 19,
+            "name": "Bài 40: Phép cộng các số tự nhiên - tiết 2"
+        },
+        {
+            "id": 93,
+            "week": 19,
+            "name": "Bài 41: Phép trừ cá số tự nhiên - tiết 1"
+        },
+        {
+            "id": 94,
+            "week": 19,
+            "name": "Bài 41: Phép trừ cá số tự nhiên - tiết 2"
+        },
+        {
+            "id": 95,
+            "week": 19,
+            "name": "Bài 42: Tìm hai số khi biết tổng và hiệu của hai số đó - tiết 1"
+        },
+        {
+            "id": 96,
+            "week": 20,
+            "name": "Bài 42: Tìm hai số khi biết tổng và hiệu của hai số đó - tiết 2"
+        },
+        {
+            "id": 97,
+            "week": 20,
+            "name": "Bài 43: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 98,
+            "week": 20,
+            "name": "Bài 43: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 99,
+            "week": 20,
+            "name": "Bài 44: Nhân với số có một chữ số "
+        },
+        {
+            "id": 100,
+            "week": 20,
+            "name": "Bài 45: Nhân với 10,100,1000,… Chia cho 10,100,1000,…"
+        },
+        {
+            "id": 101,
+            "week": 21,
+            "name": "Bài 46: Nhân các số có tận cùng là chữ số 0"
+        },
+        {
+            "id": 102,
+            "week": 21,
+            "name": "Bài 47: Nhân với số có hai chữ số - tiết 1"
+        },
+        {
+            "id": 103,
+            "week": 21,
+            "name": "Bài 47: Nhân với số có hai chữ số - tiết 2"
+        },
+        {
+            "id": 104,
+            "week": 21,
+            "name": "Bài 48: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 105,
+            "week": 21,
+            "name": "Bài 48: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 106,
+            "week": 22,
+            "name": "Bài 49: Chia cho số có một chữ số"
+        },
+        {
+            "id": 107,
+            "week": 22,
+            "name": "Bài 50: Chia hai số có tận cùng là chữ số 0"
+        },
+        {
+            "id": 108,
+            "week": 22,
+            "name": "Bài 51: Ước lượng thương trong phép chia - tiết 1"
+        },
+        {
+            "id": 109,
+            "week": 22,
+            "name": "Bài 51: Ước lượng thương trong phép chia - tiết 2"
+        },
+        {
+            "id": 110,
+            "week": 22,
+            "name": "Bài 52: Chia cho số có hai chữ số - tiết 1"
+        },
+        {
+            "id": 111,
+            "week": 23,
+            "name": "Bài 52: Chia cho số có hai chữ số - tiết 2"
+        },
+        {
+            "id": 112,
+            "week": 23,
+            "name": "Bài 52: Chia cho số có hai chữ số - tiết 3"
+        },
+        {
+            "id": 113,
+            "week": 23,
+            "name": "Bài 52: Chia cho số có hai chữ số - tiết 4"
+        },
+        {
+            "id": 114,
+            "week": 23,
+            "name": "Bài 53: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 115,
+            "week": 23,
+            "name": "Bài 53: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 116,
+            "week": 24,
+            "name": "Bài 54: Hình bình hành - tiết 1"
+        },
+        {
+            "id": 117,
+            "week": 24,
+            "name": "Bài 54: Hình bình hành - tiết 2"
+        },
+        {
+            "id": 118,
+            "week": 24,
+            "name": "Bài 55: Hình thoi - tiết 1"
+        },
+        {
+            "id": 119,
+            "week": 24,
+            "name": "Bài 55: Hình thoi - tiết 2"
+        },
+        {
+            "id": 120,
+            "week": 24,
+            "name": "Bài 56: Xếp hình, vẽ hình - tiết 1"
+        },
+        {
+            "id": 121,
+            "week": 25,
+            "name": "Bài 56: Xếp hình, vẽ hình - tiết 2"
+        },
+        {
+            "id": 122,
+            "week": 25,
+            "name": "Bài 56: Xếp hình, vẽ hình - tiết 3"
+        },
+        {
+            "id": 123,
+            "week": 25,
+            "name": "Bài 57: Mi-li-mét vuông - tiết 1"
+        },
+        {
+            "id": 124,
+            "week": 25,
+            "name": "Bài 57: Mi-li-mét vuông - tiết 2"
+        },
+        {
+            "id": 125,
+            "week": 25,
+            "name": "Bài 58: Em làm được những gì? - Tiết 1"
+        },
+        {
+            "id": 126,
+            "week": 26,
+            "name": "Bài 58: Em làm được những gì? - Tiết 2"
+        },
+        {
+            "id": 127,
+            "week": 26,
+            "name": "Bài 59: Thực hành và trải nghiệm - tiết 1"
+        },
+        {
+            "id": 128,
+            "week": 26,
+            "name": "Bài 59: Thực hành và trải nghiệm - tiết 2"
+        },
+        {
+            "id": 129,
+            "week": 26,
+            "name": "Kiểm tra giữa học kì II"
+        },
+        {
+            "id": 130,
+            "week": 26,
+            "name": "Bài 60: Phân số - tiết 1"
+        },
+        {
+            "id": 131,
+            "week": 27,
+            "name": "Bài 60: Phân số - tiết 2"
+        },
+        {
+            "id": 132,
+            "week": 27,
+            "name": "Bài 61: Phân số và phép chia số tự nhiên - tiết 1"
+        },
+        {
+            "id": 133,
+            "week": 27,
+            "name": "Bài 61: Phân số và phép chia số tự nhiên - tiết 2"
+        },
+        {
+            "id": 134,
+            "week": 27,
+            "name": "Bài 62: Phân số bằng nhau - tiết 1"
+        },
+        {
+            "id": 135,
+            "week": 27,
+            "name": "Bài 62: Phân số bằng nhau - tiết 2"
+        },
+        {
+            "id": 136,
+            "week": 28,
+            "name": "Bài 63: Rút gọn phân số - tiết 1"
+        },
+        {
+            "id": 137,
+            "week": 28,
+            "name": "Bài 63: Rút gọn phân số - tiết 2"
+        },
+        {
+            "id": 138,
+            "week": 28,
+            "name": "Bài 64: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 139,
+            "week": 28,
+            "name": "Bài 64: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 140,
+            "week": 28,
+            "name": "Bài 65: Quy đồng mẫu số các phân số - tiết 1"
+        },
+        {
+            "id": 141,
+            "week": 29,
+            "name": "Bài 65: Quy đồng mẫu số các phân số - tiết 2"
+        },
+        {
+            "id": 142,
+            "week": 29,
+            "name": "Bài 66: So sánh hai phân số - tiết 1"
+        },
+        {
+            "id": 143,
+            "week": 29,
+            "name": "Bài 66: So sánh hai phân số - tiết 2"
+        },
+        {
+            "id": 144,
+            "week": 29,
+            "name": "Bài 67: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 145,
+            "week": 29,
+            "name": "Bài 67: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 146,
+            "week": 30,
+            "name": "Bài 68: Cộng hai phân số cùng mẫu số"
+        },
+        {
+            "id": 147,
+            "week": 30,
+            "name": "Bài 69: Cộng hai phân số khác mẫu số"
+        },
+        {
+            "id": 148,
+            "week": 30,
+            "name": "Bài 70: Em làm được những gì?"
+        },
+        {
+            "id": 149,
+            "week": 30,
+            "name": "Bài 71: Trừ hai phân số cùng mẫu số"
+        },
+        {
+            "id": 150,
+            "week": 30,
+            "name": "Bài 72: Trừ hai phân số khác mẫu số"
+        },
+        {
+            "id": 151,
+            "week": 31,
+            "name": "Bài 73: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 152,
+            "week": 31,
+            "name": "Bài 73: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 153,
+            "week": 31,
+            "name": "Bài 74: Phép nhân phân số - tiết 1"
+        },
+        {
+            "id": 154,
+            "week": 31,
+            "name": "Bài 74: Phép nhân phân số - tiết 2"
+        },
+        {
+            "id": 155,
+            "week": 31,
+            "name": "Bài 75: Phép chia hai phân số - tiết 1"
+        },
+        {
+            "id": 156,
+            "week": 32,
+            "name": "Bài 75: Phép chia hai phân số - tiết 2"
+        },
+        {
+            "id": 157,
+            "week": 32,
+            "name": "Bài 76: Tìm phân số của một số - tiết 1"
+        },
+        {
+            "id": 158,
+            "week": 32,
+            "name": "Bài 76: Tìm phân số của một số - tiết 2"
+        },
+        {
+            "id": 159,
+            "week": 32,
+            "name": "Bài 77: Em làm được những gì? - tiết 1"
+        },
+        {
+            "id": 160,
+            "week": 32,
+            "name": "Bài 77: Em làm được những gì? - tiết 2"
+        },
+        {
+            "id": 161,
+            "week": 33,
+            "name": "Bài 77: Em làm được những gì? - tiết 3"
+        },
+        {
+            "id": 162,
+            "week": 33,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 1"
+        },
+        {
+            "id": 163,
+            "week": 33,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 2"
+        },
+        {
+            "id": 164,
+            "week": 33,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 3"
+        },
+        {
+            "id": 165,
+            "week": 33,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 4"
+        },
+        {
+            "id": 166,
+            "week": 34,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 5"
+        },
+        {
+            "id": 167,
+            "week": 34,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 6"
+        },
+        {
+            "id": 168,
+            "week": 34,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 7"
+        },
+        {
+            "id": 169,
+            "week": 34,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 8"
+        },
+        {
+            "id": 170,
+            "week": 34,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 9"
+        },
+        {
+            "id": 171,
+            "week": 35,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 10"
+        },
+        {
+            "id": 172,
+            "week": 35,
+            "name": "Bài 78: Ôn tập cuối năm - tiết 11"
+        },
+        {
+            "id": 173,
+            "week": 35,
+            "name": "Bài 79: Thực hành và trải nghiệm - tiết 1"
+        },
+        {
+            "id": 174,
+            "week": 35,
+            "name": "Bài 79: Thực hành và trải nghiệm - tiết 2"
+        },
+        {
+            "id": 175,
+            "week": 35,
+            "name": "Kiểm tra cuối năm"
+        }
+    ],
+    "english": [],
+    "science": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Bài 1. Một số tính chất và vai trò của nước  - tiết 1"
+        },
+        {
+            "id": 2,
+            "week": 1,
+            "name": "Bài 1. Một số tính chất và vai trò của nước  - tiết 2"
+        },
+        {
+            "id": 3,
+            "week": 2,
+            "name": "Bài 2. Sự chuyển thể của nước - tiết 1"
+        },
+        {
+            "id": 4,
+            "week": 2,
+            "name": "Bài 2. Sự chuyển thể của nước - tiết 2"
+        },
+        {
+            "id": 5,
+            "week": 3,
+            "name": "Bài 3. Ô nhiễm và bảo vệ nguồn nước - tiết 1"
+        },
+        {
+            "id": 6,
+            "week": 3,
+            "name": "Bài 3. Ô nhiễm và bảo vệ nguồn nước - tiết 2"
+        },
+        {
+            "id": 7,
+            "week": 4,
+            "name": "Bài 4. Thành phần và tính chất của không khí - tiết 1"
+        },
+        {
+            "id": 8,
+            "week": 4,
+            "name": "Bài 4. Thành phần và tính chất của không khí - tiết 2"
+        },
+        {
+            "id": 9,
+            "week": 5,
+            "name": "Bài 5. Gió, bão - tiết 1 "
+        },
+        {
+            "id": 10,
+            "week": 5,
+            "name": "Bài 5. Gió, bão - tiết 2"
+        },
+        {
+            "id": 11,
+            "week": 6,
+            "name": "Bài 6. Ô nhiễm không khí và bảo vệ môi trường không khí - tiết 1"
+        },
+        {
+            "id": 12,
+            "week": 6,
+            "name": "Bài 6. Ô nhiễm không khí và bảo vệ môi trường không khí - tiết 2"
+        },
+        {
+            "id": 13,
+            "week": 7,
+            "name": "Bài 7. Ôn tập chủ đề Chất "
+        },
+        {
+            "id": 14,
+            "week": 7,
+            "name": "Bài 8. Nguồn sáng và sự truyền ánh sáng - tiết 1"
+        },
+        {
+            "id": 15,
+            "week": 8,
+            "name": "Bài 8. Nguồn sáng và sự truyền ánh sáng - tiết 2"
+        },
+        {
+            "id": 16,
+            "week": 8,
+            "name": "Bài 9. Ánh sáng với đời sống - tiết 1"
+        },
+        {
+            "id": 17,
+            "week": 9,
+            "name": "Bài 9. Ánh sáng với đời sống - tiết 2"
+        },
+        {
+            "id": 18,
+            "week": 9,
+            "name": "Bài 10. Âm thanh - tiết 1"
+        },
+        {
+            "id": 19,
+            "week": 10,
+            "name": "Bài 10. Âm thanh - tiết 2"
+        },
+        {
+            "id": 20,
+            "week": 10,
+            "name": "Bài 11. Âm thanh trong đời sống - tiết 1"
+        },
+        {
+            "id": 21,
+            "week": 11,
+            "name": "Bài 11. Âm thanh trong đời sống - tiết 2"
+        },
+        {
+            "id": 22,
+            "week": 11,
+            "name": "Bài 12. Nhiệt độ và nhiệt kế - tiết 1"
+        },
+        {
+            "id": 23,
+            "week": 12,
+            "name": "Bài 12. Nhiệt độ và nhiệt kế - tiết 2"
+        },
+        {
+            "id": 24,
+            "week": 12,
+            "name": "Bài 13. Sự truyền nhiệt và vật dẫn nhiệt - tiết 1"
+        },
+        {
+            "id": 25,
+            "week": 13,
+            "name": "Bài 13. Sự truyền nhiệt và  vật dẫn nhiệt - tiết 2"
+        },
+        {
+            "id": 26,
+            "week": 13,
+            "name": "Bài 14. Ôn tập chủ đề Năng lượng "
+        },
+        {
+            "id": 27,
+            "week": 14,
+            "name": "Bài 15. Thực vật cần gì để sống và phát triển? - tiết 1"
+        },
+        {
+            "id": 28,
+            "week": 14,
+            "name": "Bài 15. Thực vật cần gì để sống và phát triển? - tiết 2"
+        },
+        {
+            "id": 29,
+            "week": 15,
+            "name": "Bài 15. Thực vật cần gì để sống và phát triển? - tiết 3"
+        },
+        {
+            "id": 30,
+            "week": 15,
+            "name": "Bài 16. Nhu cầu sống của động vật - tiết 1"
+        },
+        {
+            "id": 31,
+            "week": 16,
+            "name": "Bài 16. Nhu cầu sống của động vật - tiết 2"
+        },
+        {
+            "id": 32,
+            "week": 16,
+            "name": "Bài 16. Nhu cầu sống của động vật - tiết 3"
+        },
+        {
+            "id": 33,
+            "week": 17,
+            "name": "Bài 17. Chăm sóc cây trồng và vật nuôi - tiết 1"
+        },
+        {
+            "id": 34,
+            "week": 17,
+            "name": "Bài 17. Chăm sóc cây trồng và vật nuôi - tiết 2"
+        },
+        {
+            "id": 35,
+            "week": 18,
+            "name": "Bài 18. Ôn tập chủ đề Thực vật và động vật "
+        },
+        {
+            "id": 36,
+            "week": 18,
+            "name": "Ôn tập cuối kỳ I"
+        },
+        {
+            "id": 37,
+            "week": 19,
+            "name": "Kiểm tra cuối kỳ I"
+        },
+        {
+            "id": 38,
+            "week": 19,
+            "name": "Bài 19. Sự đa dạng của nấm "
+        },
+        {
+            "id": 39,
+            "week": 20,
+            "name": "Bài 20. Nấm ăn và nấm men trong đời sống - tiết 1 "
+        },
+        {
+            "id": 40,
+            "week": 20,
+            "name": "Bài 20. Nấm ăn và nấm men trong đời sống - tiết 2 "
+        },
+        {
+            "id": 41,
+            "week": 21,
+            "name": "Bài 21.  Nấm có hại và cách bảo quản thực phẩm - tiết 1 "
+        },
+        {
+            "id": 42,
+            "week": 21,
+            "name": "Bài 21.  Nấm có hại và cách bảo quản thực phẩm - tiết 2  "
+        },
+        {
+            "id": 43,
+            "week": 22,
+            "name": "Bài 21.  Nấm có hại và cách bảo quản thực phẩm - tiết 3 "
+        },
+        {
+            "id": 44,
+            "week": 22,
+            "name": "Bài 22. Ôn tập chủ đề Nấm  "
+        },
+        {
+            "id": 45,
+            "week": 23,
+            "name": "Bài 23. Các nhóm chất dinh dưỡng có trong thức ăn - tiết 1"
+        },
+        {
+            "id": 46,
+            "week": 23,
+            "name": "Bài 23. Các nhóm chất dinh dưỡng có trong thức ăn - tiết 2"
+        },
+        {
+            "id": 47,
+            "week": 24,
+            "name": "Bài 24. Giá trị dinh dưỡng có trong thức ăn - tiết 1"
+        },
+        {
+            "id": 48,
+            "week": 24,
+            "name": "Bài 24. Giá trị dinh dưỡng có trong thức ăn - tiết 2"
+        },
+        {
+            "id": 49,
+            "week": 25,
+            "name": "Bài 25.  Ăn, uống khoa học để cơ thể khoẻ mạnh - tiết 1"
+        },
+        {
+            "id": 50,
+            "week": 25,
+            "name": "Bài 25.  Ăn, uống khoa học để cơ thể khoẻ mạnh - tiết 2"
+        },
+        {
+            "id": 51,
+            "week": 26,
+            "name": "Bài 25.  Ăn, uống khoa học để cơ thể khoẻ mạnh - tiết 3"
+        },
+        {
+            "id": 52,
+            "week": 26,
+            "name": "Bài 26. Thực phẩm an toàn - tiết 1  "
+        },
+        {
+            "id": 53,
+            "week": 27,
+            "name": "Bài 26. Thực phẩm an toàn - tiết 2  "
+        },
+        {
+            "id": 54,
+            "week": 27,
+            "name": "Bài 27.  Một số bệnh liên quan đến dinh dưỡng - tiết 1"
+        },
+        {
+            "id": 55,
+            "week": 28,
+            "name": "Bài 27.  Một số bệnh liên quan đến dinh dưỡng - tiết 2"
+        },
+        {
+            "id": 56,
+            "week": 28,
+            "name": "Bài 28. Phòng tránh đuối nước- tiết 1"
+        },
+        {
+            "id": 57,
+            "week": 29,
+            "name": "Bài 28. Phòng tránh đuối nước- tiết 2"
+        },
+        {
+            "id": 58,
+            "week": 29,
+            "name": "Bài 28. Phòng tránh đuối nước- tiết 3"
+        },
+        {
+            "id": 59,
+            "week": 30,
+            "name": "Bài 29. Ôn tập chủ đề Con người và sức khoẻ - tiết 1"
+        },
+        {
+            "id": 60,
+            "week": 30,
+            "name": "Bài 29. Ôn tập chủ đề Con người và sức khoẻ - tiết 2"
+        },
+        {
+            "id": 61,
+            "week": 31,
+            "name": "Bài 30. Chuỗi thức ăn trong tự nhiên - tiết 1"
+        },
+        {
+            "id": 62,
+            "week": 31,
+            "name": "Bài 30. Chuỗi thức ăn trong tự nhiên - tiết 2"
+        },
+        {
+            "id": 63,
+            "week": 32,
+            "name": "Bài 30. Chuỗi thức ăn trong tự nhiên - tiết 3"
+        },
+        {
+            "id": 64,
+            "week": 32,
+            "name": "Bài 31. Vai trò của thực vật trong chuỗi thức ăn - tiết 1"
+        },
+        {
+            "id": 65,
+            "week": 33,
+            "name": "Bài 31. Vai trò của thực vật trong chuỗi thức ăn - tiết 2"
+        },
+        {
+            "id": 66,
+            "week": 33,
+            "name": "Bài 31. Vai trò của thực vật trong chuỗi thức ăn - tiết 3"
+        },
+        {
+            "id": 67,
+            "week": 34,
+            "name": "Bài 32. Ôn tập chủ đề  Sinh vật và môi trường - tiết 1"
+        },
+        {
+            "id": 68,
+            "week": 34,
+            "name": "Bài 32. Ôn tập chủ đề  Sinh vật và môi trường - tiết 2"
+        },
+        {
+            "id": 69,
+            "week": 35,
+            "name": "Ôn tập cuối năm"
+        },
+        {
+            "id": 70,
+            "week": 35,
+            "name": "Kiểm tra cuối năm"
+        }
+    ],
+    "history": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Bài 1: Làm quen với phương tiện học tập môn Lịch sử và Địa lí (Tiết 1)"
+        },
+        {
+            "id": 2,
+            "week": 1,
+            "name": "Bài 1: Làm quen với phương tiện học tập môn Lịch sử và Địa lí (Tiết 2)"
+        },
+        {
+            "id": 3,
+            "week": 2,
+            "name": "Bài 2: Thiên nhiên và con người địa phương (Tiết 1)"
+        },
+        {
+            "id": 4,
+            "week": 2,
+            "name": "Bài 2: Thiên nhiên và con người địa phương (Tiết 2)"
+        },
+        {
+            "id": 5,
+            "week": 3,
+            "name": "Bài 3: Lịch sử và văn hóa truyền thống địa phương (Tiết 1)"
+        },
+        {
+            "id": 6,
+            "week": 3,
+            "name": "Bài 3: Lịch sử và văn hóa truyền thống địa phương (Tiết 2)"
+        },
+        {
+            "id": 7,
+            "week": 4,
+            "name": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Tiết 1)"
+        },
+        {
+            "id": 8,
+            "week": 4,
+            "name": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Tiết 2)"
+        },
+        {
+            "id": 9,
+            "week": 5,
+            "name": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Tiết 3)"
+        },
+        {
+            "id": 10,
+            "week": 5,
+            "name": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ (Tiết 1)"
+        },
+        {
+            "id": 11,
+            "week": 6,
+            "name": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ (Tiết 2)"
+        },
+        {
+            "id": 12,
+            "week": 6,
+            "name": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ (Tiết 3)"
+        },
+        {
+            "id": 13,
+            "week": 7,
+            "name": "Bài 6: Một số nét văn hóa ở vùng Trung du và miền núi Bắc Bộ (Tiết 1)"
+        },
+        {
+            "id": 14,
+            "week": 7,
+            "name": "Bài 6: Một số nét văn hóa ở vùng Trung du và miền núi Bắc Bộ (Tiết 2)"
+        },
+        {
+            "id": 15,
+            "week": 8,
+            "name": "Bài 7: Đền Hùng và lễ Giỗ Tổ Hùng Vương (Tiết 1)"
+        },
+        {
+            "id": 16,
+            "week": 8,
+            "name": "Bài 7: Đền Hùng và lễ Giỗ Tổ Hùng Vương (Tiết 2)"
+        },
+        {
+            "id": 17,
+            "week": 9,
+            "name": "Ôn tập và đánh giá Giữa HKI"
+        },
+        {
+            "id": 18,
+            "week": 9,
+            "name": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 1)"
+        },
+        {
+            "id": 19,
+            "week": 10,
+            "name": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 2)"
+        },
+        {
+            "id": 20,
+            "week": 10,
+            "name": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 3)"
+        },
+        {
+            "id": 21,
+            "week": 11,
+            "name": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 1)"
+        },
+        {
+            "id": 22,
+            "week": 11,
+            "name": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 2)"
+        },
+        {
+            "id": 23,
+            "week": 12,
+            "name": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 3)"
+        },
+        {
+            "id": 24,
+            "week": 12,
+            "name": "Bài 10: Một số nét văn hóa ở làng quê vùng Đồng bằng Bắc Bộ (Tiết 1)"
+        },
+        {
+            "id": 25,
+            "week": 13,
+            "name": "Bài 10: Một số nét văn hóa ở làng quê vùng Đồng bằng Bắc Bộ (Tiết 2)"
+        },
+        {
+            "id": 26,
+            "week": 13,
+            "name": "Bài 11: Sông Hồng và văn minh sông Hồng (Tiết 1)"
+        },
+        {
+            "id": 27,
+            "week": 14,
+            "name": "Bài 11: Sông Hồng và văn minh sông Hồng (Tiết 2)"
+        },
+        {
+            "id": 28,
+            "week": 14,
+            "name": "Bài 12: Thăng Long – Hà Nội (Tiết 1)"
+        },
+        {
+            "id": 29,
+            "week": 15,
+            "name": "Bài 12: Thăng Long – Hà Nội (Tiết 2)"
+        },
+        {
+            "id": 30,
+            "week": 15,
+            "name": "Bài 12: Thăng Long – Hà Nội (Tiết 3)"
+        },
+        {
+            "id": 31,
+            "week": 16,
+            "name": "Bài 13: Văn Miếu – Quốc Tử Giám "
+        },
+        {
+            "id": 32,
+            "week": 16,
+            "name": "Ôn tập Học kì I"
+        },
+        {
+            "id": 33,
+            "week": 17,
+            "name": "Kiểm tra Học kì I"
+        },
+        {
+            "id": 34,
+            "week": 17,
+            "name": "Bài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 1)"
+        },
+        {
+            "id": 35,
+            "week": 18,
+            "name": "Bài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 2)"
+        },
+        {
+            "id": 36,
+            "week": 18,
+            "name": "Bài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 3)"
+        },
+        {
+            "id": 37,
+            "week": 19,
+            "name": "Bài 15 : Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung (Tiết 1)"
+        },
+        {
+            "id": 38,
+            "week": 19,
+            "name": "Bài 15 : Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung (Tiết 2)"
+        },
+        {
+            "id": 39,
+            "week": 20,
+            "name": "Bài 15 : Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung (Tiết 3)"
+        },
+        {
+            "id": 40,
+            "week": 20,
+            "name": "Bài 16 : Một số nét văn hóa ở vùng Duyên hải miền Trung  (Tiết 1)"
+        },
+        {
+            "id": 41,
+            "week": 21,
+            "name": "Bài 16 : Một số nét văn hóa ở vùng Duyên hải miền Trung (Tiết 2)"
+        },
+        {
+            "id": 42,
+            "week": 21,
+            "name": "Bài 17: Cố đô Huế (Tiết 1)"
+        },
+        {
+            "id": 43,
+            "week": 22,
+            "name": "Bài 17: Cố đô Huế (Tiết 2)"
+        },
+        {
+            "id": 44,
+            "week": 22,
+            "name": "Bài 18: Phố cổ Hội An (Tiết 1)"
+        },
+        {
+            "id": 45,
+            "week": 23,
+            "name": "Bài 18: Phố cổ Hội An (Tiết 2)"
+        },
+        {
+            "id": 46,
+            "week": 23,
+            "name": "Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 1)"
+        },
+        {
+            "id": 47,
+            "week": 24,
+            "name": "Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 2)"
+        },
+        {
+            "id": 48,
+            "week": 24,
+            "name": "Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 3)"
+        },
+        {
+            "id": 49,
+            "week": 25,
+            "name": "Bài 20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên  (Tiết 1)"
+        },
+        {
+            "id": 50,
+            "week": 25,
+            "name": "Bài 20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên  (Tiết 2)"
+        },
+        {
+            "id": 51,
+            "week": 26,
+            "name": "Bài 20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên (Tiết 3) "
+        },
+        {
+            "id": 52,
+            "week": 26,
+            "name": "Bài 21: Một số nét văn hóa và lịch sử của đồng bào Tây Nguyên (Tiết 1)"
+        },
+        {
+            "id": 53,
+            "week": 27,
+            "name": "Bài 21: Một số nét văn hóa và lịch sử của đồng bào Tây Nguyên (Tiết 2)"
+        },
+        {
+            "id": 54,
+            "week": 27,
+            "name": "Ôn tập và đánh giá Giữa HKII"
+        },
+        {
+            "id": 55,
+            "week": 28,
+            "name": "Bài 22: Lễ hội Cồng chiêng Tây Nguyên"
+        },
+        {
+            "id": 56,
+            "week": 28,
+            "name": "Bài 23: Thiên nhiên vùng Nam Bộ (Tiết 1)"
+        },
+        {
+            "id": 57,
+            "week": 29,
+            "name": "Bài 23: Thiên nhiên vùng Nam Bộ (Tiết 2)"
+        },
+        {
+            "id": 58,
+            "week": 29,
+            "name": "Bài 23: Thiên nhiên vùng Nam Bộ (Tiết 3)"
+        },
+        {
+            "id": 59,
+            "week": 30,
+            "name": "Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 1)"
+        },
+        {
+            "id": 60,
+            "week": 30,
+            "name": "Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 2)"
+        },
+        {
+            "id": 61,
+            "week": 31,
+            "name": "Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 3)"
+        },
+        {
+            "id": 62,
+            "week": 31,
+            "name": "Bài 25: Một số nét văn hóa và truyền thống cách mạng ở vùng Nam Bộ (Tiết 1)"
+        },
+        {
+            "id": 63,
+            "week": 32,
+            "name": "Bài 25: Một số nét văn hóa và truyền thống cách mạng ở vùng Nam Bộ (Tiết 2)"
+        },
+        {
+            "id": 64,
+            "week": 32,
+            "name": "Bài 26: Thành phố Hồ Chí Minh (Tiết 1)"
+        },
+        {
+            "id": 65,
+            "week": 33,
+            "name": "Bài 26: Thành phố Hồ Chí Minh (Tiết 2)"
+        },
+        {
+            "id": 66,
+            "week": 33,
+            "name": "Bài 26: Thành phố Hồ Chí Minh (Tiết 3)"
+        },
+        {
+            "id": 67,
+            "week": 34,
+            "name": "Bài 27: Địa đạo Củ Chi"
+        },
+        {
+            "id": 68,
+            "week": 34,
+            "name": "Ôn tập Cuối năm (Tiết 1)"
+        },
+        {
+            "id": 69,
+            "week": 35,
+            "name": "Ôn tập Cuối năm (Tiết 2)"
+        },
+        {
+            "id": 70,
+            "week": 35,
+            "name": "Kiểm tra Cuối năm"
+        }
+    ],
+    "civicEducation": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Người lao động quanh em (tiết 1)"
+        },
+        {
+            "id": 2,
+            "week": 2,
+            "name": "Người lao động quanh em (tiết 2)"
+        },
+        {
+            "id": 3,
+            "week": 3,
+            "name": "Em biết ơn người lao động (tiết 1)"
+        },
+        {
+            "id": 4,
+            "week": 4,
+            "name": "Em biết ơn người lao động (tiết 2)"
+        },
+        {
+            "id": 5,
+            "week": 5,
+            "name": "Em biết ơn người lao động (tiết 3)"
+        },
+        {
+            "id": 6,
+            "week": 6,
+            "name": "Em cảm thông, giúp đỡ người gặp khó khăn (tiết 1)"
+        },
+        {
+            "id": 7,
+            "week": 7,
+            "name": "Em cảm thông, giúp đỡ người gặp khó khăn (tiết 2)"
+        },
+        {
+            "id": 8,
+            "week": 8,
+            "name": "Em cảm thông, giúp đỡ người gặp khó khăn (tiết 3)"
+        },
+        {
+            "id": 9,
+            "week": 9,
+            "name": "Em yêu lao động (tiết 1)"
+        },
+        {
+            "id": 10,
+            "week": 10,
+            "name": "Em yêu lao động (tiết 2)"
+        },
+        {
+            "id": 11,
+            "week": 11,
+            "name": "Em yêu lao động (tiết 3)"
+        },
+        {
+            "id": 12,
+            "week": 12,
+            "name": "Em tịch cực tham gia lao động (tiết 1)"
+        },
+        {
+            "id": 13,
+            "week": 13,
+            "name": "Em tịch cực tham gia lao động (tiết 2)"
+        },
+        {
+            "id": 14,
+            "week": 14,
+            "name": "Em tôn trọng tài sản của người khác (tiết 1)"
+        },
+        {
+            "id": 15,
+            "week": 15,
+            "name": "Em tôn trọng tài sản của người khác (tiết 2)"
+        },
+        {
+            "id": 16,
+            "week": 16,
+            "name": "Em tôn trọng tài sản của người khác (tiết 3)"
+        },
+        {
+            "id": 17,
+            "week": 17,
+            "name": "Ôn tập tổng hợp học kì I"
+        },
+        {
+            "id": 18,
+            "week": 18,
+            "name": "Em bảo vệ của công (tiết 1)"
+        },
+        {
+            "id": 19,
+            "week": 19,
+            "name": "Em bảo vệ của công (tiết 2)"
+        },
+        {
+            "id": 20,
+            "week": 20,
+            "name": "Em bảo vệ của công (tiết 3)"
+        },
+        {
+            "id": 21,
+            "week": 21,
+            "name": "Em thiết lập quan hệ bạn bè (tiết 1)"
+        },
+        {
+            "id": 22,
+            "week": 22,
+            "name": "Em thiết lập quan hệ bạn bè (tiết 2)"
+        },
+        {
+            "id": 23,
+            "week": 23,
+            "name": "Em thiết lập quan hệ bạn bè (tiết 3)"
+        },
+        {
+            "id": 24,
+            "week": 24,
+            "name": "Em duy trì quan hệ bạn bè (tiết 1)"
+        },
+        {
+            "id": 25,
+            "week": 25,
+            "name": "Em duy trì quan hệ bạn bè (tiết 2)"
+        },
+        {
+            "id": 26,
+            "week": 26,
+            "name": "Em duy trì quan hệ bạn bè (tiết 3)"
+        },
+        {
+            "id": 27,
+            "week": 27,
+            "name": "Em quý trọng đồng tiền (tiết 1)"
+        },
+        {
+            "id": 28,
+            "week": 28,
+            "name": "Em quý trọng đồng tiền (tiết 2)"
+        },
+        {
+            "id": 29,
+            "week": 29,
+            "name": "Em quý trọng đồng tiền (tiết 3)"
+        },
+        {
+            "id": 30,
+            "week": 30,
+            "name": "Quyền trẻ em (tiết 1)"
+        },
+        {
+            "id": 31,
+            "week": 31,
+            "name": "Quyền trẻ em (tiết 2)"
+        },
+        {
+            "id": 32,
+            "week": 32,
+            "name": "Bổn phận của trẻ em (tiết 1)"
+        },
+        {
+            "id": 33,
+            "week": 33,
+            "name": "Bổn phận của trẻ em (tiết 2)"
+        },
+        {
+            "id": 34,
+            "week": 34,
+            "name": "Ôn tập tổng hợp học kì II (tiết 1)"
+        },
+        {
+            "id": 35,
+            "week": 35,
+            "name": "Ôn tập tổng hợp học kì II (tiết 2)"
+        }
+    ],
+    "art": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Bài 1: Tranh xé dán giấy màu"
+        },
+        {
+            "id": 2,
+            "week": 2,
+            "name": "Bài 1: Tranh xé dán giấy màu"
+        },
+        {
+            "id": 3,
+            "week": 3,
+            "name": "Bài 2: Phong cảnh quê em"
+        },
+        {
+            "id": 4,
+            "week": 4,
+            "name": "Bài 2: Phong cảnh quê em"
+        },
+        {
+            "id": 5,
+            "week": 5,
+            "name": "Bài 1: Tranh vẽ với các hình nối tiếp"
+        },
+        {
+            "id": 6,
+            "week": 6,
+            "name": "Bài 1: Tranh vẽ với các hình nối tiếp"
+        },
+        {
+            "id": 7,
+            "week": 7,
+            "name": "Bài 2: Không gian trong thư viện"
+        },
+        {
+            "id": 8,
+            "week": 8,
+            "name": "Bài 2: Không gian trong thư viện"
+        },
+        {
+            "id": 9,
+            "week": 9,
+            "name": "Bài 3: Tranh chân dung nhân vật"
+        },
+        {
+            "id": 10,
+            "week": 10,
+            "name": "Bài 3: Tranh chân dung nhân vật"
+        },
+        {
+            "id": 11,
+            "week": 11,
+            "name": "Bài 1: Sản phẩm mĩ thuật với các lớp cảnh"
+        },
+        {
+            "id": 12,
+            "week": 12,
+            "name": "Bài 1: Sản phẩm mĩ thuật với các lớp cảnh"
+        },
+        {
+            "id": 13,
+            "week": 13,
+            "name": "Bài 2: Tranh chấm màu"
+        },
+        {
+            "id": 14,
+            "week": 14,
+            "name": "Bài 2: Tranh chấm màu"
+        },
+        {
+            "id": 15,
+            "week": 15,
+            "name": "Bài 3: Tạo hình động vật từ vật liệu đã qua sử dụng"
+        },
+        {
+            "id": 16,
+            "week": 16,
+            "name": "Bài 3: Tạo hình động vật từ vật liệu đã qua sử dụng"
+        },
+        {
+            "id": 17,
+            "week": 17,
+            "name": "Bài 4: Mô hình khu bảo tồn thiên nhiên"
+        },
+        {
+            "id": 18,
+            "week": 18,
+            "name": "Bài 4: Mô hình khu bảo tồn thiên nhiên"
+        },
+        {
+            "id": 19,
+            "week": 19,
+            "name": "Bài 1: Tranh vẽ về biển đảo Việt Nam"
+        },
+        {
+            "id": 20,
+            "week": 20,
+            "name": "Bài 1: Tranh vẽ về biển đảo Việt Nam"
+        },
+        {
+            "id": 21,
+            "week": 21,
+            "name": "Bài 2: Nhân vật với trang phục dân tộc"
+        },
+        {
+            "id": 22,
+            "week": 22,
+            "name": "Bài 2: Nhân vật với trang phục dân tộc"
+        },
+        {
+            "id": 23,
+            "week": 23,
+            "name": "Bài 3: Món ăn truyền thống"
+        },
+        {
+            "id": 24,
+            "week": 24,
+            "name": "Bài 3: Món ăn truyền thống"
+        },
+        {
+            "id": 25,
+            "week": 25,
+            "name": "Bài 1: Tạo hình của nhà rông"
+        },
+        {
+            "id": 26,
+            "week": 26,
+            "name": "Bài 1: Tạo hình của nhà rông"
+        },
+        {
+            "id": 27,
+            "week": 27,
+            "name": "Bài 2: Hoạt cảnh với nhân vật 3D"
+        },
+        {
+            "id": 28,
+            "week": 28,
+            "name": "Bài 2: Hoạt cảnh với nhân vật 3D"
+        },
+        {
+            "id": 29,
+            "week": 29,
+            "name": "Bài 3: Tranh vẽ hoạt động vì cộng đồng"
+        },
+        {
+            "id": 30,
+            "week": 30,
+            "name": "Bài 3: Tranh vẽ hoạt động vì cộng đồng"
+        },
+        {
+            "id": 31,
+            "week": 31,
+            "name": "Bài 1: Đồ gia dụng quen thuộc"
+        },
+        {
+            "id": 32,
+            "week": 32,
+            "name": "Bài 1: Đồ gia dụng quen thuộc"
+        },
+        {
+            "id": 33,
+            "week": 33,
+            "name": "Bài 2: Hình in với giấy gói quà"
+        },
+        {
+            "id": 34,
+            "week": 34,
+            "name": "Bài 2: Hình in với giấy gói quà"
+        },
+        {
+            "id": 35,
+            "week": 35,
+            "name": "Bài tổng kết: Mô hình bài học từ những mảnh ghép"
+        }
+    ],
+    "music": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Khám phá: Hình ảnh giấc mơ của sơn ca.\nHọc hát: Bay cao tiếng hát ước mơ (Nguyễn Nam)"
+        },
+        {
+            "id": 2,
+            "week": 2,
+            "name": "Ôn bài hát: Bay cao tiếng hát ước mơ.\nNhạc cụ tiết tấu: Thanh phách."
+        },
+        {
+            "id": 3,
+            "week": 3,
+            "name": "Lí thuyết âm nhạc: Giới thiệu khuông nhạc, vị trí các nốt trên khuông nhạc, khoá Son."
+        },
+        {
+            "id": 4,
+            "week": 4,
+            "name": "Thường thức âm nhạc: Giới thiệu nhạc cụ nước ngoài: timpani. \nNhà ga âm nhạc."
+        },
+        {
+            "id": 5,
+            "week": 5,
+            "name": "Khám phá: Hình ảnh tình bạn gắn kết hoà hợp trong âm nhạc Học hát: Tiếng hát mùa sang (Dân ca Cống Khao, lời Việt: Tô Ngọc Tú)."
+        },
+        {
+            "id": 6,
+            "week": 6,
+            "name": "Ôn hát: Tiếng hát mùa sang. \nNhạc cụ: Nhạc cụ tiết tấu\nNhạc cụ giai điệu: Giới recorder."
+        },
+        {
+            "id": 7,
+            "week": 7,
+            "name": "Đọc nhạc: Thực hành đọc nhạc Bài đọc nhạc số 1."
+        },
+        {
+            "id": 8,
+            "week": 8,
+            "name": "Thường thức âm nhạc: Giới thiệu một số hình thức biểu diển.\nNhà ga âm nhạc."
+        },
+        {
+            "id": 9,
+            "week": 9,
+            "name": "Khám phá: Hình ảnh vườn hoa Học hát: Mặt Trời bay (Nhạc và lời: Phạm Tuyên). "
+        },
+        {
+            "id": 10,
+            "week": 10,
+            "name": "Ôn bài hát: Mặt Trời bay.\nNghe nhạc: Morning mood (Edvard Grieg)"
+        },
+        {
+            "id": 11,
+            "week": 11,
+            "name": "Nhạc cụ tiết tấu: Castanet.\nNhạc cụ giai điệu: \n+ Recorder: Thế bấm nốt Si. Bài thực hành số 1. \n+ Kèn phím: Giới thiệu phím Đô. Bài thực hành số 1."
+        },
+        {
+            "id": 12,
+            "week": 12,
+            "name": "Lí thuyết âm nhạc: Dòng kẻ phụ. \nNhà ga âm nhạc"
+        },
+        {
+            "id": 13,
+            "week": 13,
+            "name": "Khám phá hình ảnh gia đình.\nHọc hát: Bàn tay mẹ. \n (Nhạc: Bùi Đình Thảo, thơ: Tạ Hữu Yên). "
+        },
+        {
+            "id": 14,
+            "week": 14,
+            "name": "Ôn bài hát: Bàn tay mẹ .\nThường thức âm nhạc: Giới thiệu nhạc sĩ Phong Nhã và tác phẩm Ai yêu Bác Hồ Chí Minh hơn thiếu niên nhi đồng. "
+        },
+        {
+            "id": 15,
+            "week": 15,
+            "name": "Đọc nhạc: Thực hành đọc nhạc Bài đọc nhạc số 2."
+        },
+        {
+            "id": 16,
+            "week": 16,
+            "name": "Trò chơi âm nhạc: Lấy cờ khoá Son. \nNhà ga âm nhạc."
+        },
+        {
+            "id": 17,
+            "week": 17,
+            "name": "Tập biểu diễn các bài hát đã học"
+        },
+        {
+            "id": 18,
+            "week": 18,
+            "name": "Tập biểu diễn các bài hát đã học"
+        },
+        {
+            "id": 19,
+            "week": 19,
+            "name": "Khám phá: Hình ảnh thiên nhiên và các sinh vật biển cả. Học hát: Miền biển quê em. (Theo điệu Lí kéo chài, lời: Lê Vinh Phúc)"
+        },
+        {
+            "id": 20,
+            "week": 20,
+            "name": "Ôn bài hát: Miền biển quê em. \nNhạc cụ:\nHướng dẫn làm nhạc cụ castanet bằng vỏ nghêu. "
+        },
+        {
+            "id": 21,
+            "week": 21,
+            "name": "Lí thuyết âm nhạc:\n Một số kí hiệu ghi chép nhạc."
+        },
+        {
+            "id": 22,
+            "week": 22,
+            "name": "Thường thức âm nhạc:\n Câu chuyện âm nhạc Nàng Tiên cá và giọng hát diệu kì.\nNhà ga âm nhạc."
+        },
+        {
+            "id": 23,
+            "week": 23,
+            "name": "Khám phá: Hình ảnh chiếc đồng hồ khổng lồ.\nHọc hát: Đồng hồ của ông tôi. (Nhạc: Henry Work, lời Việt: Trịnh Mai Trang)"
+        },
+        {
+            "id": 24,
+            "week": 24,
+            "name": "Ôn hát: Đồng hồ của ông tôi. \nNhạc cụ tiết tấu: Triangle.\nNhạc cụ giai điệu: Recorder:  Thế bấm nốt La - Bài thực hành số 2. \nKèn phím: Giới thiệu phím Rê - Bài thực hành số 2. "
+        },
+        {
+            "id": 25,
+            "week": 25,
+            "name": "Đọc nhạc: Đọc gam Đô trưởng. Thực hành đọc nhạc Bài đọc nhạc số 3."
+        },
+        {
+            "id": 26,
+            "week": 26,
+            "name": "Ôn hát: Đồng hồ của ông tôi. \nNhà ga âm nhạc."
+        },
+        {
+            "id": 27,
+            "week": 27,
+            "name": "Khám phá hình ảnh chú Cuội, ông Bụt, sự tích trầu cau.\nHọc hát: Về miền cổ tích\n (Nhạc và lời: Lê Phú Hải)"
+        },
+        {
+            "id": 28,
+            "week": 28,
+            "name": "Ôn bài hát: Về miền cổ tích.\nNghe nhạc: Vườn cổ tích."
+        },
+        {
+            "id": 29,
+            "week": 29,
+            "name": "Nhạc cụ Recorder:\n + Thế bấm nốt Son.\n + Bài thực hành số 3.\n Nhạc cụ Kèn phím: \n+ Giới thiệu phím Mi. \n+ Bài thực hành số 3. "
+        },
+        {
+            "id": 30,
+            "week": 30,
+            "name": "Thường thức âm nhạc: Giới thiệu nhạc cụ VN - Đàn T'rưng. \nNhà ga âm nhạc."
+        },
+        {
+            "id": 31,
+            "week": 31,
+            "name": "Khám phá hình ảnh các nhạc cụ nhảy múa, tương tác tạo âm thanh. \nHọc hát: Bài hát đầu tiên\n (Nhạc và lời: Thanh Sơn)"
+        },
+        {
+            "id": 32,
+            "week": 32,
+            "name": "Ôn bài hát: Bài hát đầu tiên\nNhạc cụ: \n+Hoà tấu thanh phách + recorder  +Hoà tấu tambourine + kèn phím"
+        },
+        {
+            "id": 33,
+            "week": 33,
+            "name": "Đọc nhạc: Đọc gam Đô trưởng. Thực hành đọc nhạc Bài đọc nhạc số 4."
+        },
+        {
+            "id": 34,
+            "week": 34,
+            "name": "Ôn bài hát: Bài hát đầu tiên.\nNhà ga âm nhạc."
+        },
+        {
+            "id": 35,
+            "week": 35,
+            "name": "Tập biểu diễn các bài hát đã học."
+        }
+    ],
+    "technology": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Bài 1: Hoa và cây cảnh quanh em - tiết 1"
+        },
+        {
+            "id": 2,
+            "week": 2,
+            "name": "Bài 1: Hoa và cây cảnh quanh em - tiết 2"
+        },
+        {
+            "id": 3,
+            "week": 3,
+            "name": "Bài 1: Hoa và cây cảnh quanh em - tiết 3"
+        },
+        {
+            "id": 4,
+            "week": 4,
+            "name": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 1"
+        },
+        {
+            "id": 5,
+            "week": 5,
+            "name": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 2"
+        },
+        {
+            "id": 6,
+            "week": 6,
+            "name": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 3"
+        },
+        {
+            "id": 7,
+            "week": 7,
+            "name": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 4"
+        },
+        {
+            "id": 8,
+            "week": 8,
+            "name": "Bài 3: Gieo hạt và trồng cây hoa trong chậu - tiết 1"
+        },
+        {
+            "id": 9,
+            "week": 9,
+            "name": "Bài 3: Gieo hạt và trồng cây hoa trong chậu - tiết 2"
+        },
+        {
+            "id": 10,
+            "week": 10,
+            "name": "Bài 3: Gieo hạt và trồng cây hoa trong chậu - tiết 3"
+        },
+        {
+            "id": 11,
+            "week": 11,
+            "name": "Bài 4: Trồng cây cảnh trong chậu - tiết 1"
+        },
+        {
+            "id": 12,
+            "week": 12,
+            "name": "Bài 4: Trồng cây cảnh trong chậu - tiết 2"
+        },
+        {
+            "id": 13,
+            "week": 13,
+            "name": "Bài 4: Trồng cây cảnh trong chậu - tiết 3"
+        },
+        {
+            "id": 14,
+            "week": 14,
+            "name": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 1"
+        },
+        {
+            "id": 15,
+            "week": 15,
+            "name": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 2"
+        },
+        {
+            "id": 16,
+            "week": 16,
+            "name": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 3"
+        },
+        {
+            "id": 17,
+            "week": 17,
+            "name": "Ôn tập phần 1"
+        },
+        {
+            "id": 18,
+            "week": 18,
+            "name": "Kiểm tra"
+        },
+        {
+            "id": 19,
+            "week": 19,
+            "name": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 4"
+        },
+        {
+            "id": 20,
+            "week": 20,
+            "name": "Dự án: Em trồng hoa trang trí lớp"
+        },
+        {
+            "id": 21,
+            "week": 21,
+            "name": "Bài 6: Bộ lắp ghép mô hình kĩ thuật - tiết 1"
+        },
+        {
+            "id": 22,
+            "week": 22,
+            "name": "Bài 6: Bộ lắp ghép mô hình kĩ thuật - tiết 2"
+        },
+        {
+            "id": 23,
+            "week": 23,
+            "name": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 1"
+        },
+        {
+            "id": 24,
+            "week": 24,
+            "name": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 2"
+        },
+        {
+            "id": 25,
+            "week": 25,
+            "name": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 3"
+        },
+        {
+            "id": 26,
+            "week": 26,
+            "name": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 4"
+        },
+        {
+            "id": 27,
+            "week": 27,
+            "name": "Bài 8: Đồ chơi dân gian - tiết 1"
+        },
+        {
+            "id": 28,
+            "week": 28,
+            "name": "Bài 8: Đồ chơi dân gian - tiết 2"
+        },
+        {
+            "id": 29,
+            "week": 29,
+            "name": "Bài 9: Em làm diều giấy - tiết 1"
+        },
+        {
+            "id": 30,
+            "week": 30,
+            "name": "Bài 9: Em làm diều giấy - tiết 2"
+        },
+        {
+            "id": 31,
+            "week": 31,
+            "name": "Bài 9: Em làm diều giấy - tiết 3"
+        },
+        {
+            "id": 32,
+            "week": 32,
+            "name": "Bài 9: Em làm diều giấy - tiết 4"
+        },
+        {
+            "id": 33,
+            "week": 33,
+            "name": "Dự án 2: Em làm đèn ông sao"
+        },
+        {
+            "id": 34,
+            "week": 34,
+            "name": "Ôn tập phần 2"
+        },
+        {
+            "id": 35,
+            "week": 35,
+            "name": "Kiểm tra"
+        }
+    ],
+    "hdtn": [
+        {
+            "id": 1,
+            "week": 1,
+            "name": "Sinh hoạt dưới cờ: Tham gia lễ khai giảng."
+        },
+        {
+            "id": 2,
+            "week": 1,
+            "name": "Hoạt động giáo dục theo chủ đề: Xác định những đặc điểm tự hào của bản thân; Tìm hiểu những việc làm đáng tự hào của bản thân"
+        },
+        {
+            "id": 3,
+            "week": 1,
+            "name": "Sinh hoạt lớp: Bầu chọn BCSL và trao đổi về ATGT đường bộ"
+        },
+        {
+            "id": 4,
+            "week": 2,
+            "name": "Sinh hoạt dưới cờ: Tham gia học tập nội quy nhà trường"
+        },
+        {
+            "id": 5,
+            "week": 2,
+            "name": "Hoạt động giáo dục theo chủ đề:  Lập kế hoạch phát huy và lập bảng theo dõi những việc làm đáng tự hào của bản thân"
+        },
+        {
+            "id": 6,
+            "week": 2,
+            "name": "Sinh hoạt lớp:  Báo cáo kết quả bước đầu về những việc làm đáng tự hào của bản thân em"
+        },
+        {
+            "id": 7,
+            "week": 3,
+            "name": "Sinh hoạt dưới cờ: Hoạt động vui Trung Thu"
+        },
+        {
+            "id": 8,
+            "week": 3,
+            "name": "Hoạt động giáo dục theo chủ đề: Chia sẻ trải nghiệm - tìm hiểu cách điều chỉnh cảm xúc, suy nghĩ của bản thân"
+        },
+        {
+            "id": 9,
+            "week": 3,
+            "name": "Sinh hoạt lớp: Vui tết Trung Thu ở lớp em"
+        },
+        {
+            "id": 10,
+            "week": 4,
+            "name": "Sinh hoạt dưới cờ: Văn nghệ theo chủ đề: \"Em lớn lên cùng mái trường mến yêu\""
+        },
+        {
+            "id": 11,
+            "week": 4,
+            "name": "Hoạt động giáo dục theo chủ đề: Điều chỉnh cảm xúc, suy nghĩ của bản thân trong một số tình huống; chia sẻ sự thay đổi sau khi điều chỉnh cảm xúc, suy nghĩ của bản thân"
+        },
+        {
+            "id": 12,
+            "week": 4,
+            "name": "Sinh hoạt lớp: Tham gia hoạt động tìm hiểu về Đội TNTP HCM"
+        },
+        {
+            "id": 13,
+            "week": 5,
+            "name": "Sinh hoạt dưới cờ: Chương trình \"An toàn trong cuộc sống\""
+        },
+        {
+            "id": 14,
+            "week": 5,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận hiện tình huống có nguy cơ bị xâm hại; Tìm hiểu những đối tượng, hoàn cảnh có nguy cơ gây hành động xâm hại."
+        },
+        {
+            "id": 15,
+            "week": 5,
+            "name": "Sinh hoạt lớp:  Những hậu quả khi bị xâm hại"
+        },
+        {
+            "id": 16,
+            "week": 6,
+            "name": "Sinh hoạt dưới cờ: Nghe nói chuyện về phòng tránh xâm hại thân thể"
+        },
+        {
+            "id": 17,
+            "week": 6,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận hiện tình huống có nguy cơ bị xâm hại; Chia sẻ về cách ứng phó trước nguy cơ bị xâm hại thân thể."
+        },
+        {
+            "id": 18,
+            "week": 6,
+            "name": "Sinh hoạt lớp:  Biện pháp phòng tránh bị xâm hại thân thể"
+        },
+        {
+            "id": 19,
+            "week": 7,
+            "name": "Sinh hoạt dưới cờ: Biểu diễn tiểu phẩm về phòng tránh xâm hại tinh thần"
+        },
+        {
+            "id": 20,
+            "week": 7,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện những hành vi và cách tránh bị xâm hại tinh thần"
+        },
+        {
+            "id": 21,
+            "week": 7,
+            "name": "Sinh hoạt lớp: Xử lí bị xâm hại tinh thần"
+        },
+        {
+            "id": 22,
+            "week": 8,
+            "name": "Sinh hoạt dưới cờ: Giao lưu về phòng tránh xâm hại tình dục."
+        },
+        {
+            "id": 23,
+            "week": 8,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện nguy cơ và cách phòng tránh bị xâm hại tình dục. Thực hành phòng tránh bị xâm hại tình dục. "
+        },
+        {
+            "id": 24,
+            "week": 8,
+            "name": "Sinh hoạt lớp: Diễn tập cách bảo vệ bản thân, phòng tránh bị xâm hại tình dục.  "
+        },
+        {
+            "id": 25,
+            "week": 9,
+            "name": "Sinh hoạt dưới cờ: Tham gia tháng hành động “Em là học sinh thân thiện”. "
+        },
+        {
+            "id": 26,
+            "week": 9,
+            "name": "Hoạt động giáo dục theo chủ đề: Chia sẻ những ấn tượng hoặc kỉ niệm của em và thầy cô, bạn bè. Tìm hiểu những lời nói, việc làm để duy trì và phát triển quan hệ tốt đẹp với thầy, cô giáo. "
+        },
+        {
+            "id": 27,
+            "week": 9,
+            "name": "Sinh hoạt lớp: Tìm hiểu những lời nói, việc làm để duy trì và phát triển quan hệ tốt đẹp với bạn bè.  "
+        },
+        {
+            "id": 28,
+            "week": 10,
+            "name": "Sinh hoạt dưới cờ: Chương trình “Thầy cô trong trái tim em” "
+        },
+        {
+            "id": 29,
+            "week": 10,
+            "name": "Hoạt động giáo dục theo chủ đề: Thể hiện những lời nói, việc làm duy trì và phát triển quan hệ tốt đẹp với thầy, cô giáo. Lập kế hoạch thực hiện những việc làm duy trì và phát triển quan hệ tốt đẹp với bạn bè.   "
+        },
+        {
+            "id": 30,
+            "week": 10,
+            "name": "Sinh hoạt lớp: Làm báo tường chào mừng ngày Nhà giáo Việt Nam. "
+        },
+        {
+            "id": 31,
+            "week": 11,
+            "name": "Sinh hoạt dưới cờ: Biểu diễn văn nghệ chào mừng ngày Nhà giáo Việt Nam 20/11. "
+        },
+        {
+            "id": 32,
+            "week": 11,
+            "name": "Hoạt động giáo dục theo chủ đề: Xác định một số vấn đề thường xảy ra trong quan hệ bạn bè. Tìm hiểu cách giải quyết khi có vấn đề xảy ra trong quan hệ với bạn bè.  "
+        },
+        {
+            "id": 33,
+            "week": 11,
+            "name": "Sinh hoạt lớp: Tham gia trò chơi tập thể.  "
+        },
+        {
+            "id": 34,
+            "week": 12,
+            "name": "Sinh hoạt dưới cờ: Tham gia tổng kết “Em là học sinh thân thiện”. "
+        },
+        {
+            "id": 35,
+            "week": 12,
+            "name": "Hoạt động giáo dục theo chủ đề: - Xử lí tình huống trong quan hệ với bạn bè. Chia sẻ về những thay đổi tích cực trong việc duy trì và phát triển quan hệ tốt đẹp với bạn bè, thầy cô.  "
+        },
+        {
+            "id": 36,
+            "week": 12,
+            "name": "Sinh hoạt lớp: Tham gia múa hát tập thể theo Chủ đề “Thầy cô và bạn bè”.  "
+        },
+        {
+            "id": 37,
+            "week": 13,
+            "name": "Sinh hoạt dưới cờ: Hưởng ứng tháng hành động giữ gìn “Truyền thống quê em”. "
+        },
+        {
+            "id": 38,
+            "week": 13,
+            "name": "Hoạt động giáo dục theo chủ đề: - Xác định các hành vi có văn hóa nơi công cộng. - Xử lí tình huống ứng xử có văn hóa ở nơi công cộng.   "
+        },
+        {
+            "id": 39,
+            "week": 13,
+            "name": "Sinh hoạt lớp: Chia sẻ những hành vi có văn hóa nơi công cộng.  "
+        },
+        {
+            "id": 40,
+            "week": 14,
+            "name": "Sinh hoạt dưới cờ:Truyền thống quê hương"
+        },
+        {
+            "id": 41,
+            "week": 14,
+            "name": "Hoạt động giáo dục theo chủ đề: Xác định các hoạt động kết nối cộng đồng mà em có thể tham gia. Lập kế hoạch tham gia các hoạt động kết nối cộng đồng.   "
+        },
+        {
+            "id": 42,
+            "week": 14,
+            "name": "Sinh hoạt lớp: Báo cáo những việc em đã tham gia để kết nối cộng đồng.  "
+        },
+        {
+            "id": 43,
+            "week": 15,
+            "name": "Sinh hoạt dưới cờ: Tham gia giao lưu về truyền thống quê hương. "
+        },
+        {
+            "id": 44,
+            "week": 15,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện về hoạt động đền ơn đáp nghĩa và giáo dục truyền thống quê hương. Xây dựng dự án đền ơn đáp nghĩa và giáo dục truyền thống quê hương ở địa phương.   "
+        },
+        {
+            "id": 45,
+            "week": 15,
+            "name": "Sinh hoạt lớp: Báo cáo tiến độ thực hiện dự án đền ơn đáp nghĩa và giáo dục truyền thống quê hương ở địa phương "
+        },
+        {
+            "id": 46,
+            "week": 16,
+            "name": "Sinh hoạt dưới cờ: Chào mừng ngày thành lập Quân đội nhân dân Việt Nam. "
+        },
+        {
+            "id": 47,
+            "week": 16,
+            "name": "Hoạt động giáo dục theo chủ đề: Báo cáo kết quả thực hiện dự án đền ơn đáp nghĩa và giáo dục truyền thống quê hương ở địa phương.  "
+        },
+        {
+            "id": 48,
+            "week": 16,
+            "name": "Sinh hoạt lớp: Đánh giá dự án đền ơn đáp nghĩa và giáo dục truyền thống quê hương ở địa phương.  "
+        },
+        {
+            "id": 49,
+            "week": 17,
+            "name": "Sinh hoạt dưới cờ: Hội diễn văn nghệ chào năm mới.  "
+        },
+        {
+            "id": 50,
+            "week": 17,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện việc mua sắm phù hợp với khả năng tài chính của bản thân và gia đình. Chia sẻ về lợi ích của việc tiết kiệm.   "
+        },
+        {
+            "id": 51,
+            "week": 17,
+            "name": "Sinh hoạt lớp: Những việc làm gây lãng phí trong cuộc sống hằng ngày.  "
+        },
+        {
+            "id": 52,
+            "week": 18,
+            "name": "Sinh hoạt dưới cờ: Tìm hiểu phong tục đón năm mới của địa phương. "
+        },
+        {
+            "id": 53,
+            "week": 18,
+            "name": "Hoạt động giáo dục theo chủ đề: Tìm hiểu các cách tiết kiệm tiền trong gia đình. Tìm hiểu các cách so sánh giá cả của hàng hóa.  "
+        },
+        {
+            "id": 54,
+            "week": 18,
+            "name": "Sinh hoạt lớp: Làm phiếu so sánh giá của một số mặt hàng phổ biến sử dụng trong dịp đón năm mới.  "
+        },
+        {
+            "id": 55,
+            "week": 19,
+            "name": "Sinh hoạt dưới cờ: Tìm hiểu trò chơi dân gian trong dịp năm mới. "
+        },
+        {
+            "id": 56,
+            "week": 19,
+            "name": "Hoạt động giáo dục theo chủ đề: Thực hành so sánh một số loại hàng hóa phổ biến. Thực hành lựa chọn những mặt hàng muốn mua phù hợp với khả năng tài chính của bản thân và gia đình.   "
+        },
+        {
+            "id": 57,
+            "week": 19,
+            "name": "Sinh hoạt lớp: Thực hành mua sắm trong dịp Tết.  "
+        },
+        {
+            "id": 58,
+            "week": 20,
+            "name": "Sinh hoạt dưới cờ: Tổng kết chủ đề “Năm mới và chi tiêu tiết kiệm”. "
+        },
+        {
+            "id": 59,
+            "week": 20,
+            "name": "Hoạt động giáo dục theo chủ đề: Lập kế hoạch mua sắm đồ dùng cần thiết cho cá nhân. Làm sổ theo dõi chi tiêu của bản thân.  "
+        },
+        {
+            "id": 60,
+            "week": 20,
+            "name": "Sinh hoạt lớp: Chơi trò chơi “Đi siêu thị”.  "
+        },
+        {
+            "id": 61,
+            "week": 21,
+            "name": "Sinh hoạt dưới cờ: Hưởng ứng phong trào “Phát triển bản thân”."
+        },
+        {
+            "id": 62,
+            "week": 21,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện những việc làm thể hiện sinh hoạt nền nếp. Tìm hiểu cách thực hiện sinh hoạt nền nếp ở nhà, ở trường.  "
+        },
+        {
+            "id": 63,
+            "week": 21,
+            "name": "Sinh hoạt lớp: Thực hiện nền nếp sinh hoạt ở trường.  "
+        },
+        {
+            "id": 64,
+            "week": 22,
+            "name": "Sinh hoạt dưới cờ: Hoạt động rèn luyện bản thân.  "
+        },
+        {
+            "id": 65,
+            "week": 22,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện các biểu hiện của tư duy khoa học. Xác định cách rèn luyện tư duy khoa học để phát triển bản thân  "
+        },
+        {
+            "id": 66,
+            "week": 22,
+            "name": "Sinh hoạt lớp: Báo cáo việc thực hiện quy định nền nếp sinh hoạt ở trường.  "
+        },
+        {
+            "id": 67,
+            "week": 23,
+            "name": "Sinh hoạt dưới cờ: Tổng kết phong trào phát triển bản thân."
+        },
+        {
+            "id": 68,
+            "week": 23,
+            "name": "Hoạt động giáo dục theo chủ đề: Thực hành lập sơ đồ tư duy, rèn luyện thói quen tư duy khoa học. Thực hành giải quyết vấn đề.  "
+        },
+        {
+            "id": 69,
+            "week": 23,
+            "name": "Sinh hoạt lớp: Chia sẻ kết quả rèn luyện nền nếp và thói quen tư duy khoa học.  "
+        },
+        {
+            "id": 70,
+            "week": 24,
+            "name": "Sinh hoạt dưới cờ: Chào mừng ngày Quốc tế Phụ nữ 8/3."
+        },
+        {
+            "id": 71,
+            "week": 24,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện những việc làm gắn kết yêu thương trong gia đình. Xác định một số cách tạo dựng sự gắn kết yêu thương giữa những người thân trong gia đình   "
+        },
+        {
+            "id": 72,
+            "week": 24,
+            "name": "Sinh hoạt lớp: Vẽ tranh về những việc làm tạo nên sự gắn kết yêu thương với những người trong gia đình.   "
+        },
+        {
+            "id": 73,
+            "week": 25,
+            "name": "Sinh hoạt dưới cờ: Chương trình “Lời nhắn nhủ yêu thương” "
+        },
+        {
+            "id": 74,
+            "week": 25,
+            "name": "Hoạt động giáo dục theo chủ đề: Lập kế hoạch thực hiện những việc làm tạo sự gắn kết yêu thương với những người thân trong gia đình. Thực hành thể hiện sự gắn kết yêu thương với những người thân trong gia đình"
+        },
+        {
+            "id": 75,
+            "week": 25,
+            "name": "Sinh hoạt lớp: Báo cáo kết quả thực hiện những việc làm để tạo sự gắn kết yêu thương với những người thân trong gia đình. "
+        },
+        {
+            "id": 76,
+            "week": 26,
+            "name": "Sinh hoạt dưới cờ: Giao lưu với những phụ nữ tiêu biểu của địa phương.  "
+        },
+        {
+            "id": 77,
+            "week": 26,
+            "name": "Hoạt động giáo dục theo chủ đề: Chia sẻ cảm xúc, suy nghĩ trong ứng xử với các thành viên trong gia đình. Tìm hiểu khả năng điều chỉnh cảm xúc, suy nghĩ của bản thân với các thành viên trong gia đình.   "
+        },
+        {
+            "id": 78,
+            "week": 26,
+            "name": "Sinh hoạt lớp: Chơi trò chơi “Mảnh ghép bí ẩn”.  "
+        },
+        {
+            "id": 79,
+            "week": 27,
+            "name": "Sinh hoạt dưới cờ: Biểu diễn văn nghệ về chủ đề gia đình. "
+        },
+        {
+            "id": 80,
+            "week": 27,
+            "name": "Hoạt động giáo dục theo chủ đề: Giao lưu với đại diện cha mẹ HS về việc điều chỉnh cảm xúc, suy nghĩ của bản thân.  Thực hành thể hiện sự điều chỉnh cảm xúc, suy nghĩ của bản thân với các thành viên trong gia đình. "
+        },
+        {
+            "id": 81,
+            "week": 27,
+            "name": "Sinh hoạt lớp: Hái hoa dân chủ về chủ đề “Gắn kết gia đình – Quý trọng phụ nữ”."
+        },
+        {
+            "id": 82,
+            "week": 28,
+            "name": "Sinh hoạt dưới cờ: Hưởng ứng phong trào “Môi trường xanh – Cuộc sống xanh”."
+        },
+        {
+            "id": 83,
+            "week": 28,
+            "name": "Hoạt động giáo dục theo chủ đề: Chơi trò chơi “Trồng cây”. Chia sẻ hiểu biết của em về những cảnh quan thiên nhiên ở địa phương.  Xây dựng kế hoạch tham quan và chăm sóc cảnh quan thiên nhiên ở địa phương  "
+        },
+        {
+            "id": 84,
+            "week": 28,
+            "name": "Sinh hoạt lớp: Xây dựng phiếu thu hoạch cá nhân về chuyến tham quan.  "
+        },
+        {
+            "id": 85,
+            "week": 29,
+            "name": "Sinh hoạt dưới cờ: Hoạt động “Chung tay bảo vệ môi trường”  "
+        },
+        {
+            "id": 86,
+            "week": 29,
+            "name": "Hoạt động giáo dục theo chủ đề: Giới thiệu cảnh quan thiên nhiên ở địa phương. Báo cáo việc chăm sóc và bảo vệ cảnh quan thiên nhiên  "
+        },
+        {
+            "id": 87,
+            "week": 29,
+            "name": "Sinh hoạt lớp: Tuyên truyền về chủ đề bảo vệ cảnh quan thiên nhiên.  "
+        },
+        {
+            "id": 88,
+            "week": 30,
+            "name": "Sinh hoạt dưới cờ: Tham gia “Ngày hội đọc sách”."
+        },
+        {
+            "id": 89,
+            "week": 30,
+            "name": "Hoạt động giáo dục theo chủ đề: Tìm hiểu thực trạng vệ sinh trường lớp.   "
+        },
+        {
+            "id": 90,
+            "week": 30,
+            "name": "Sinh hoạt lớp: Chia sẻ ý tưởng làm đẹp trường lớp.  "
+        },
+        {
+            "id": 91,
+            "week": 31,
+            "name": "Sinh hoạt dưới cờ: Tham gia hoạt động làm kế hoạch nhỏ. "
+        },
+        {
+            "id": 92,
+            "week": 31,
+            "name": "Hoạt động giáo dục theo chủ đề: Lập kế hoạch làm đẹp trường, lớp.  "
+        },
+        {
+            "id": 93,
+            "week": 31,
+            "name": "Sinh hoạt lớp: Thực hiện kế hoạch làm đẹp trường lớp. "
+        },
+        {
+            "id": 94,
+            "week": 32,
+            "name": "Sinh hoạt dưới cờ: Phong trào “Việc tốt quanh em”. "
+        },
+        {
+            "id": 95,
+            "week": 32,
+            "name": "Hoạt động giáo dục theo chủ đề: Nhận diện về nghề truyền thống. Xây dựng phiếu thu thập thông tin về nghề truyền thống của địa phương.  "
+        },
+        {
+            "id": 96,
+            "week": 32,
+            "name": "Sinh hoạt lớp: Giao lưu với nghệ nhân làm nghề truyền thống ở địa phương. "
+        },
+        {
+            "id": 97,
+            "week": 33,
+            "name": "Sinh hoạt dưới cờ: Tiểu phẩm “Việc làm tốt của em”"
+        },
+        {
+            "id": 98,
+            "week": 33,
+            "name": "Hoạt động giáo dục theo chủ đề: Trình bày kết quả tìm hiểu thông tin về nghề truyền thống ở địa phương.  Báo cáo kết quả trải nghiệm về nghề truyền thống ở địa phương  "
+        },
+        {
+            "id": 99,
+            "week": 33,
+            "name": "Sinh hoạt lớp: Sưu tầm sản phẩm của nghề truyền thống ở địa phương.  "
+        },
+        {
+            "id": 100,
+            "week": 34,
+            "name": "Sinh hoạt dưới cờ: Tham gia kỉ niệm ngày sinh nhật Bác Hồ. "
+        },
+        {
+            "id": 101,
+            "week": 34,
+            "name": "Hoạt động giáo dục theo chủ đề: Triển lãm sản phẩm về nghề truyền thống ở địa phương. Thiết kế sản phẩm truyền thông về nghề truyền thống ở địa phương.   "
+        },
+        {
+            "id": 102,
+            "week": 34,
+            "name": "Sinh hoạt lớp: Truyền thông về nghề truyền thống ở địa phương "
+        },
+        {
+            "id": 103,
+            "week": 35,
+            "name": "Sinh hoạt dưới cờ: Tham gia “Mùa hè vui, khỏe, an toàn”."
+        },
+        {
+            "id": 104,
+            "week": 35,
+            "name": "Hoạt động giáo dục theo chủ đề: Múa hát tập thể chia tay thầy cô với bạn bè.Làm thiệp yêu thương tặng thầy cô, bạn bè  "
+        },
+        {
+            "id": 105,
+            "week": 35,
+            "name": "Sinh hoạt lớp: Chia tay kết thúc năm học."
+        }
+    ],
+    "sport": []
+}

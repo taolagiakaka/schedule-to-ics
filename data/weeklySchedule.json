@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Thời khóa biểu 1",
+        "createdAt": "2024-09-08T10:00:00Z",
+        "entries": [
+            {
+                "subject": "HĐTN",
+                "day": 0,
+                "periodIndex": 1,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Toán",
+                "day": 0,
+                "periodIndex": 2,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Anh",
+                "day": 0,
+                "periodIndex": 3,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Anh",
+                "day": 0,
+                "periodIndex": 4,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Anh",
+                "day": 0,
+                "periodIndex": 6,
+                "session": "Chiều"
+            },
+            {
+                "subject": "GDTC",
+                "day": 0,
+                "periodIndex": 7,
+                "session": "Chiều"
+            },
+            {
+                "subject": "GDTC",
+                "day": 0,
+                "periodIndex": 8,
+                "session": "Chiều"
+            },
+            {
+                "subject": "Khoa học",
+                "day": 1,
+                "periodIndex": 1,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Khoa học",
+                "day": 1,
+                "periodIndex": 2,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Mỹ thuật",
+                "day": 1,
+                "periodIndex": 3,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Toán",
+                "day": 1,
+                "periodIndex": 4,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Anh",
+                "day": 1,
+                "periodIndex": 6,
+                "session": "Chiều"
+            },
+            {
+                "subject": "Tiếng Việt",
+                "day": 1,
+                "periodIndex": 6,
+                "session": "Chiều"
+            },
+            {
+                "subject": "Tiếng Việt",
+                "day": 1,
+                "periodIndex": 7,
+                "session": "Chiều"
+            },
+            {
+                "subject": "Tiếng Việt",
+                "day": 2,
+                "periodIndex": 1,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Âm nhạc",
+                "day": 2,
+                "periodIndex": 2,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Công Nghệ",
+                "day": 2,
+                "periodIndex": 3,
+                "session": "Sáng"
+            },
+            {
+                "subject": "HĐTN",
+                "day": 2,
+                "periodIndex": 4,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Việt",
+                "day": 2,
+                "periodIndex": 6,
+                "session": "Chiều"
+            },
+            {
+                "subject": "LS-ĐL",
+                "day": 2,
+                "periodIndex": 7,
+                "session": "Chiều"
+            },
+            {
+                "subject": "Toán",
+                "day": 2,
+                "periodIndex": 8,
+                "session": "Chiều"
+            },
+            {
+                "subject": "Toán",
+                "day": 3,
+                "periodIndex": 1,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Việt",
+                "day": 3,
+                "periodIndex": 2,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Đạo Đức",
+                "day": 3,
+                "periodIndex": 3,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tin Học",
+                "day": 3,
+                "periodIndex": 4,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Toán",
+                "day": 4,
+                "periodIndex": 1,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Việt",
+                "day": 4,
+                "periodIndex": 2,
+                "session": "Sáng"
+            },
+            {
+                "subject": "Tiếng Việt",
+                "day": 4,
+                "periodIndex": 3,
+                "session": "Sáng"
+            },
+            {
+                "subject": "LS-ĐL",
+                "day": 4,
+                "periodIndex": 4,
+                "session": "Sáng"
+            },
+            {
+                "subject": "HĐTN",
+                "day": 4,
+                "periodIndex": 5,
+                "session": "Sáng"
+            }
+        ]
+    }
+]
