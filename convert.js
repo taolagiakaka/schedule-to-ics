@@ -46,28 +46,36 @@ function makeDate(dateStr, timeStr) {
 // xử lý từng ngày
 function processDay(weekStart, dayName, lessons) {
     const index = DAY_MAP[dayName];
-    if (!index) return;
+    if (!index || lessons.length === 0) return;
 
     const date = new Date(weekStart);
     date.setDate(date.getDate() + (index - 1));
     const dateStr = date.toISOString().slice(0, 10);
 
-    lessons.forEach(item => {
-        const time = PERIOD_TIME[item.period];
-        if (!time) return;
+    // Get first and last period times
+    const firstPeriod = Math.min(...lessons.map(l => l.period));
+    const lastPeriod = Math.max(...lessons.map(l => l.period));
 
-        let summary = `${item.name} (${item.session})`;
-        // Highlight if isBold is false (meaning it has specific content)
-        if (item.isBold === false) {
-            summary = `★ ${summary}`;
-        }
+    const startTime = PERIOD_TIME[firstPeriod]?.start || '07:00';
+    const endTime = PERIOD_TIME[lastPeriod]?.end || '16:00';
 
-        calendar.createEvent({
-            start: makeDate(dateStr, time.start),
-            end: makeDate(dateStr, time.end),
-            summary: summary,
-            description: item.lesson || '',
-        });
+    // Build description with all lessons
+    const description = lessons
+        .sort((a, b) => a.period - b.period)
+        .map(item => {
+            const lessonInfo = item.lesson ? ` – ${item.lesson}` : '';
+            return `Tiết ${item.period}: ${item.name}${lessonInfo}`;
+        })
+        .join('\n');
+
+    // Create single event for the day
+    const dayNameCapitalized =
+        dayName.charAt(0).toUpperCase() + dayName.slice(1);
+    calendar.createEvent({
+        start: makeDate(dateStr, startTime),
+        end: makeDate(dateStr, endTime),
+        summary: `School Schedule - ${dayNameCapitalized}`,
+        description: description,
     });
 }
 
