@@ -43,7 +43,6 @@ function makeDate(dateStr, timeStr) {
     return new Date(`${dateStr}T${timeStr}:00`);
 }
 
-// xử lý từng ngày
 function processDay(weekStart, dayName, lessons) {
     const index = DAY_MAP[dayName];
     if (!index || lessons.length === 0) return;
@@ -59,25 +58,44 @@ function processDay(weekStart, dayName, lessons) {
     const startTime = PERIOD_TIME[firstPeriod]?.start || '07:00';
     const endTime = PERIOD_TIME[lastPeriod]?.end || '16:00';
 
-    // Build description with all lessons
-    const description = lessons
-        .sort((a, b) => a.period - b.period)
-        .map(item => {
+    // ================================
+    // 🔥 NEW: Chia sáng – chiều
+    // ================================
+    const morning = lessons
+        .filter(l => l.period >= 1 && l.period <= 5)
+        .sort((a, b) => a.period - b.period);
+
+    const afternoon = lessons
+        .filter(l => l.period >= 6)
+        .sort((a, b) => a.period - b.period);
+
+    // Function build 1 block
+    const buildBlock = (title, items) => {
+        if (items.length === 0) return '';
+        let txt = `${title}\n`;
+        items.forEach(item => {
             const lessonInfo = item.lesson ? ` – ${item.lesson}` : '';
             const prefix = item.isBold === false ? '★ ' : '';
-            return `${prefix}Tiết ${item.period}: ${item.name}${lessonInfo}`;
-        })
-        .join('\n');
+            txt += `${prefix}Tiết ${item.period}: ${item.name}${lessonInfo}\n`;
+        });
+        return txt + '\n';
+    };
 
-    // Create single event for the day
+    const description =
+        buildBlock('🌞 BUỔI SÁNG', morning) +
+        buildBlock('🌙 BUỔI CHIỀU', afternoon);
+
+    // ================================
+
     const dayNameCapitalized =
         dayName.charAt(0).toUpperCase() + dayName.slice(1);
+
     calendar.createEvent({
         start: makeDate(dateStr, startTime),
         end: makeDate(dateStr, endTime),
         allDay: true,
         summary: `Lịch Báo Giảng - ${dayNameCapitalized}`,
-        description: description,
+        description: description.trim(),
     });
 }
 
