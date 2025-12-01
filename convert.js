@@ -34,7 +34,7 @@ const DAY_MAP = {
 
 // Tạo calendar
 const calendar = ical({
-    name: 'School Schedule',
+    name: 'Lịch báo giảng',
     timezone: 'Asia/Ho_Chi_Minh',
 });
 
