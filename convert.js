@@ -64,7 +64,8 @@ function processDay(weekStart, dayName, lessons) {
         .sort((a, b) => a.period - b.period)
         .map(item => {
             const lessonInfo = item.lesson ? ` – ${item.lesson}` : '';
-            return `Tiết ${item.period}: ${item.name}${lessonInfo}`;
+            const prefix = item.isBold === false ? '★ ' : '';
+            return `${prefix}Tiết ${item.period}: ${item.name}${lessonInfo}`;
         })
         .join('\n');
 
