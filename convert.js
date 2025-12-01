@@ -74,7 +74,8 @@ function processDay(weekStart, dayName, lessons) {
     calendar.createEvent({
         start: makeDate(dateStr, startTime),
         end: makeDate(dateStr, endTime),
-        summary: `School Schedule - ${dayNameCapitalized}`,
+        allDay: true,
+        summary: `Lịch Báo Giảng - ${dayNameCapitalized}`,
         description: description,
     });
 }
