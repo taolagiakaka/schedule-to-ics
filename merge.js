@@ -146,7 +146,7 @@ function generateMergedSchedule(startDate, numberOfWeeks) {
                             : '',
                     selfMade:
                         lessonName !== '' &&
-                        ['Tiếng Việt', 'Toán'].includes(subject)
+                        ['Tiếng Việt', 'Toán', 'Tiếng Anh'].includes(subject)
                             ? 'x'
                             : '',
                 };
