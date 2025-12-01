@@ -6,9 +6,9 @@ X-WR-CALNAME:Lịch báo giảng
 TIMEZONE-ID:Asia/Ho_Chi_Minh
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
 BEGIN:VEVENT
-UID:6fbb8e43-4e12-49bc-8c44-015b3c445d13
+UID:46568db2-9f15-438d-b888-42efeb2a4d3a
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250908
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -21,44 +21,48 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  \nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:4dde4e16-ebab-4cbb-aa1a-0fac575349dd
+UID:f669761a-63ba-4d40-ada1-a1443f30137c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250909
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 1: Ôn tập các s
- ố đến 100 000 - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng An
- h\n★ Tiết 6: Tiếng Việt – Đọc: Những ngày hè tươi đẹ
- p\n★ Tiết 7: Tiếng Việt – Đọc: Những ngày hè tươi đẹ
- p
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 1. Một 
+ số tính chất và vai trò của nước  - tiết 1\n★ Tiết 2: K
+ hoa học – Bài 1. Một số tính chất và vai trò của nước 
+  - tiết 2\n★ Tiết 3: Mỹ thuật – Bài 1: Tranh xé dán giấy
+  màu\n★ Tiết 4: Toán – Bài 1: Ôn tập các số đến 100 000 
+ - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Ti
+ ếng Việt – Đọc: Những ngày hè tươi đẹp\n★ Tiết 7: Ti
+ ếng Việt – Đọc: Những ngày hè tươi đẹp
 END:VEVENT
 BEGIN:VEVENT
-UID:741320dc-8622-4b10-aa7a-fd7fc6747d76
+UID:0f6cec19-1613-4d69-a80c-0b7b84c27fd5
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250910
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Danh
-  từ \nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4: HĐTN 
- – Hoạt động giáo dục theo chủ đề: Xác định những đ
- ặc điểm tự hào của bản thân\; Tìm hiểu những việc làm
-  đáng tự hào của bản thân\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: 
- Tiếng Việt – Viết: Nhận diện bài văn kể chuyện \n★ Ti
- ết 7: LS-ĐL – Bài 1: Làm quen với phương tiện học tập mô
- n Lịch sử và Địa lí (Tiết 1)\n★ Tiết 8: Toán – Bài 1: 
- Ôn tập các số đến 100 000 - tiết 3
+  từ \n★ Tiết 2: Âm nhạc – Khám phá: Hình ảnh giấc mơ c
+ ủa sơn ca.\nHọc hát: Bay cao tiếng hát ước mơ (Nguyễn Nam)\
+ n★ Tiết 3: Công Nghệ – Bài 1: Hoa và cây cảnh quanh em - ti
+ ết 1\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đ
+ ề: Xác định những đặc điểm tự hào của bản thân\; Tì
+ m hiểu những việc làm đáng tự hào của bản thân\n\n🌙 BU
+ ỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Nhận diện bài 
+ văn kể chuyện \n★ Tiết 7: LS-ĐL – Bài 1: Làm quen với phư
+ ơng tiện học tập môn Lịch sử và Địa lí (Tiết 1)\n★ Ti
+ ết 8: Toán – Bài 1: Ôn tập các số đến 100 000 - tiết 3
 END:VEVENT
 BEGIN:VEVENT
-UID:53136faa-b650-4ec1-a2bc-60f7899470ee
+UID:e084d60a-ff96-4273-9239-4a673c8efe01
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250911
 DTEND;VALUE=DATE:20250911
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -66,13 +70,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 2: Ôn tập c
  ác phép cộng\, phép trừ - tiết 1\n★ Tiết 2: Tiếng Việt 
- – Đọc: Đoá hoa đồng thoại\nTiết 3: Đạo Đức\nTiết 4: 
- Tin Học
+ – Đọc: Đoá hoa đồng thoại\n★ Tiết 3: Đạo Đức – Ng
+ ười lao động quanh em (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:ee78364f-5ba7-4999-a791-73b85c402bbe
+UID:ed46d730-57f5-4538-9324-e13edd5f7bbe
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250912
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -88,9 +92,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 2: Ôn tập c
  đường bộ
 END:VEVENT
 BEGIN:VEVENT
-UID:66edaae2-bf11-41d8-a82d-d661ee88923a
+UID:2249acb9-6b09-4fc0-bef1-7f8bbc367065
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250915
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -103,44 +107,48 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  ếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:f6b74e71-83bf-47fb-a35d-f55ab93d58a9
+UID:817f0289-ae73-4af4-8df1-803c6f913d25
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250916
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 3: Ôn tập phép n
- hân\, phép chia - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh
- \n★ Tiết 6: Tiếng Việt – Đọc: Gieo ngày mới\n★ Tiết 7:
-  Tiếng Việt – Đọc: mở rộng Sinh hoạt câu lạc bộ đọc
-  sách\, Chủ điểm: Tuổi nhỏ làm việc nhỏ
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 2. Sự c
+ huyển thể của nước - tiết 1\n★ Tiết 2: Khoa học – Bài 
+ 2. Sự chuyển thể của nước - tiết 2\n★ Tiết 3: Mỹ thuậ
+ t – Bài 1: Tranh xé dán giấy màu\n★ Tiết 4: Toán – Bài 3: 
+ Ôn tập phép nhân\, phép chia - tiết 1\n\n🌙 BUỔI CHIỀU\nTi
+ ết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Gieo ngày m
+ ới\n★ Tiết 7: Tiếng Việt – Đọc: mở rộng Sinh hoạt câ
+ u lạc bộ đọc sách\, Chủ điểm: Tuổi nhỏ làm việc nhỏ
 END:VEVENT
 BEGIN:VEVENT
-UID:e426672c-0de4-4276-992c-f3a58f2e9fc6
+UID:5f9d50b3-66c0-4382-83a5-b18e81d77ae4
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250917
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Danh
-  từ chung\, danh từ riêng\nTiết 2: Âm nhạc\nTiết 3: Công Ngh
- ệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: 
-  Lập kế hoạch phát huy và lập bảng theo dõi những việc l
- àm đáng tự hào của bản thân\n\n🌙 BUỔI CHIỀU\n★ Tiết 
- 6: Tiếng Việt – Viết: Viết: đoạn mở bài và đoạn kết 
- bài cho bài văn kể chuyện\n★ Tiết 7: LS-ĐL – Bài 2: Thiên 
- nhiên và con người địa phương (Tiết 1)\n★ Tiết 8: Toán 
- – Bài 3: Ôn tập phép nhân\, phép chia - tiết 2
+  từ chung\, danh từ riêng\n★ Tiết 2: Âm nhạc – Ôn bài hát
+ : Bay cao tiếng hát ước mơ.\nNhạc cụ tiết tấu: Thanh phách
+ .\n★ Tiết 3: Công Nghệ – Bài 1: Hoa và cây cảnh quanh em - t
+ iết 2\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đ
+ ề:  Lập kế hoạch phát huy và lập bảng theo dõi những vi
+ ệc làm đáng tự hào của bản thân\n\n🌙 BUỔI CHIỀU\n★ T
+ iết 6: Tiếng Việt – Viết: Viết: đoạn mở bài và đoạn 
+ kết bài cho bài văn kể chuyện\n★ Tiết 7: LS-ĐL – Bài 2: T
+ hiên nhiên và con người địa phương (Tiết 1)\n★ Tiết 8: To
+ án – Bài 3: Ôn tập phép nhân\, phép chia - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:c7cf1b07-506e-41c5-afa8-bf807406a5d9
+UID:1c60a4e6-a541-44e2-9b4d-283a4df38e82
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250918
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -148,12 +156,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 3: Ôn tập p
  hép nhân\, phép chia - tiết 3\n★ Tiết 2: Tiếng Việt – Đọ
- c: Lên nương\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ c: Lên nương\n★ Tiết 3: Đạo Đức – Người lao động quan
+ h em (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:88a36193-41b0-4179-b8ea-a0db428180d1
+UID:0d7ae67b-200f-450f-86d9-4384449c0e13
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250919
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -168,9 +177,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 4: Số chẵn
  áng tự hào của bản thân em
 END:VEVENT
 BEGIN:VEVENT
-UID:832a106a-4dd8-475b-9adb-6e6f63c7cb61
+UID:cd61ed8e-683e-404a-89a3-8a8ebab6ea6d
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250922
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -183,43 +192,48 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
   GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:48c14af5-1b23-48c5-8ebe-b77e573cc5b4
+UID:7e55bbe9-69a4-4bbf-9cd6-8e9ad80996ec
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250923
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 5: Em làm được 
- những gì? - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★
-  Tiết 6: Tiếng Việt – Đọc: Cô bé ấy đã lớn\n★ Tiết 
- 7: Tiếng Việt – Đọc: Cô bé ấy đã lớn
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 3. Ô nhi
+ ễm và bảo vệ nguồn nước - tiết 1\n★ Tiết 2: Khoa học 
+ – Bài 3. Ô nhiễm và bảo vệ nguồn nước - tiết 2\n★ Ti
+ ết 3: Mỹ thuật – Bài 2: Phong cảnh quê em\n★ Tiết 4: Toán
+  – Bài 5: Em làm được những gì? - tiết 1\n\n🌙 BUỔI CHI
+ ỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Cô 
+ bé ấy đã lớn\n★ Tiết 7: Tiếng Việt – Đọc: Cô bé ấy
+  đã lớn
 END:VEVENT
 BEGIN:VEVENT
-UID:54a78933-fb18-42ee-906e-8111b3f65bdf
+UID:8aedef88-45bb-4f2c-bf26-cc4bc9f2d2bc
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250924
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Đ
- ộng từ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4: H
- ĐTN – Hoạt động giáo dục theo chủ đề: Chia sẻ trải ngh
- iệm - tìm hiểu cách điều chỉnh cảm xúc\, suy nghĩ của b
- ản thân\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết
- : Tìm ý và viết đoạn văn cho bài văn kể chuyện\n★ Tiết 
- 7: LS-ĐL – Bài 3: Lịch sử và văn hóa truyền thống địa ph
- ương (Tiết 1)\n★ Tiết 8: Toán – Bài 5: Em làm được nhữn
- g gì? - tiết 2
+ ộng từ\n★ Tiết 2: Âm nhạc – Lí thuyết âm nhạc: Giới t
+ hiệu khuông nhạc\, vị trí các nốt trên khuông nhạc\, khoá 
+ Son.\n★ Tiết 3: Công Nghệ – Bài 1: Hoa và cây cảnh quanh em 
+ - tiết 3\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ 
+ đề: Chia sẻ trải nghiệm - tìm hiểu cách điều chỉnh cảm
+  xúc\, suy nghĩ của bản thân\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: 
+ Tiếng Việt – Viết: Tìm ý và viết đoạn văn cho bài văn k
+ ể chuyện\n★ Tiết 7: LS-ĐL – Bài 3: Lịch sử và văn hóa t
+ ruyền thống địa phương (Tiết 1)\n★ Tiết 8: Toán – Bài 5
+ : Em làm được những gì? - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:e7540dcf-01a0-432b-bfae-b6a26cf52900
+UID:475a9ae6-b84a-4d0a-b6f8-7440e75aca20
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -227,13 +241,14 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 6: Bài toán 
  liên quan đến rút về đơn vị - tiết 1\n★ Tiết 2: Tiếng V
- iệt – Đọc: Những người thiếu niên anh hùng\nTiết 3: Đ
- ạo Đức\nTiết 4: Tin Học
+ iệt – Đọc: Những người thiếu niên anh hùng\n★ Tiết 3: 
+ Đạo Đức – Em biết ơn người lao động (tiết 1)\nTiết 4:
+  Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:4a82c0a4-5c49-4f1f-9da3-5915151053a0
+UID:96279017-f0e2-4f76-bc91-a6efa045aa69
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250926
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -249,9 +264,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 6: Bài toán
  ớp em
 END:VEVENT
 BEGIN:VEVENT
-UID:965845a6-acaa-434b-b217-2c25ef6ce9f5
+UID:2e7f307f-d17c-4d1c-b26a-d915f80117ae
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250929
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -265,46 +280,51 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:98b0219e-acad-4a58-9666-b2c4fab2e2ec
+UID:356fdf19-badc-4387-9a42-570667d9d80c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20250930
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 7: Bài toán liên 
- quan đến rút về đơn vị (tiếp theo) - tiết 2\n\n🌙 BUỔI C
- HIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: S
- ắc màu\n★ Tiết 7: Tiếng Việt – Đọc: mở rộng Sinh hoạ
- t câu lạc bộ đọc sách\, Chủ điểm: Tuổi nhỏ làm việc n
- hỏ
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 4. Thành
+  phần và tính chất của không khí - tiết 1\n★ Tiết 2: Khoa 
+ học – Bài 4. Thành phần và tính chất của không khí - tiế
+ t 2\n★ Tiết 3: Mỹ thuật – Bài 2: Phong cảnh quê em\n★ Ti
+ ết 4: Toán – Bài 7: Bài toán liên quan đến rút về đơn v
+ ị (tiếp theo) - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh
+ \n★ Tiết 6: Tiếng Việt – Đọc: Sắc màu\n★ Tiết 7: Tiế
+ ng Việt – Đọc: mở rộng Sinh hoạt câu lạc bộ đọc sách
+ \, Chủ điểm: Tuổi nhỏ làm việc nhỏ
 END:VEVENT
 BEGIN:VEVENT
-UID:a608b686-57c8-42da-884d-ea54604e6ed2
+UID:9dee511e-19b5-46b7-ac51-d2682fdd9373
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251001
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về động từ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ
- \n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Đi
- ều chỉnh cảm xúc\, suy nghĩ của bản thân trong một số tì
- nh huống\; chia sẻ sự thay đổi sau khi điều chỉnh cảm xúc
- \, suy nghĩ của bản thân\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiế
- ng Việt – Viết: Viết: bài văn kể chuyện\n★ Tiết 7: LS-Đ
- L – Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Ti
- ết 1)\n★ Tiết 8: Toán – Bài 8: Bài toán giải bằng ba bư
- ớc tính - tiết 1
+ ện tập về động từ\n★ Tiết 2: Âm nhạc – Thường thứ
+ c âm nhạc: Giới thiệu nhạc cụ nước ngoài: timpani. \nNhà g
+ a âm nhạc.\n★ Tiết 3: Công Nghệ – Bài 2: Vật liệu\, dụn
+ g cụ trồng hoa và cây cảnh trong chậu - tiết 1\n★ Tiết 4: 
+ HĐTN – Hoạt động giáo dục theo chủ đề: Điều chỉnh c
+ ảm xúc\, suy nghĩ của bản thân trong một số tình huống\; c
+ hia sẻ sự thay đổi sau khi điều chỉnh cảm xúc\, suy nghĩ c
+ ủa bản thân\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – 
+ Viết: Viết: bài văn kể chuyện\n★ Tiết 7: LS-ĐL – Bài 4: 
+ Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Tiết 1)\n★ Ti
+ ết 8: Toán – Bài 8: Bài toán giải bằng ba bước tính - ti
+ ết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:c41683bd-1239-4a3c-84f9-2e570b4afd1f
+UID:046de2c0-2acc-4314-b750-2aa20a10c399
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -312,12 +332,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 8: Bài toán 
  giải bằng ba bước tính - tiết 2\n★ Tiết 2: Tiếng Việt 
- – Đọc: Mùa thu\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ – Đọc: Mùa thu\n★ Tiết 3: Đạo Đức – Em biết ơn ngư
+ ời lao động (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:796a7749-17d7-4bbc-88bf-70f26ebefc3e
+UID:52bc5555-30a9-4002-97d2-d34f317b2d43
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251003
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -331,9 +352,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 9: Ôn tập b
  am gia hoạt động tìm hiểu về Đội TNTP HCM
 END:VEVENT
 BEGIN:VEVENT
-UID:ad8414e1-e1dc-440e-8cfb-1ca5596f8c58
+UID:2f2dd8ac-5690-43f0-9e10-ff730860435b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251006
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -346,43 +367,49 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:b004b000-de9b-4d0f-9289-2966d4afb744
+UID:7870d68b-4544-4070-b967-b58d394867d5
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251007
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 10: Biểu thức c
- ó chứa chữ - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n
- ★ Tiết 6: Tiếng Việt – Đọc: Về thăm bà\n★ Tiết 7: Ti
- ếng Việt – Đọc: Về thăm bà
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 5. Gió\,
+  bão - tiết 1 \n★ Tiết 2: Khoa học – Bài 5. Gió\, bão - ti
+ ết 2\n★ Tiết 3: Mỹ thuật – Bài 1: Tranh vẽ với các hình
+  nối tiếp\n★ Tiết 4: Toán – Bài 10: Biểu thức có chứa c
+ hữ - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 
+ 6: Tiếng Việt – Đọc: Về thăm bà\n★ Tiết 7: Tiếng Việt
+  – Đọc: Về thăm bà
 END:VEVENT
 BEGIN:VEVENT
-UID:5883f9e1-ed3a-462b-9d36-2008f5d3a456
+UID:aea30198-0a4b-4502-8688-1033a080b2a4
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251008
 DTEND;VALUE=DATE:20251008
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về động từ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ
- \n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nh
- ận hiện tình huống có nguy cơ bị xâm hại\; Tìm hiểu nhữ
- ng đối tượng\, hoàn cảnh có nguy cơ gây hành động xâm h
- ại.\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Tr
- ả bài văn kể chuyện\n★ Tiết 7: LS-ĐL – Bài 4: Thiên nhiê
- n vùng Trung du và miền núi Bắc Bộ (Tiết 3)\n★ Tiết 8: Toá
- n – Bài 11: Biểu thức có chứa chữ (tiếp theo)
+ ện tập về động từ\n★ Tiết 2: Âm nhạc – Khám phá: Hì
+ nh ảnh tình bạn gắn kết hoà hợp trong âm nhạc Học hát: T
+ iếng hát mùa sang (Dân ca Cống Khao\, lời Việt: Tô Ngọc Tú)
+ .\n★ Tiết 3: Công Nghệ – Bài 2: Vật liệu\, dụng cụ trồ
+ ng hoa và cây cảnh trong chậu - tiết 2\n★ Tiết 4: HĐTN – Ho
+ ạt động giáo dục theo chủ đề: Nhận hiện tình huống có
+  nguy cơ bị xâm hại\; Tìm hiểu những đối tượng\, hoàn c
+ ảnh có nguy cơ gây hành động xâm hại.\n\n🌙 BUỔI CHIỀU\n
+ ★ Tiết 6: Tiếng Việt – Viết: Trả bài văn kể chuyện\n
+ ★ Tiết 7: LS-ĐL – Bài 4: Thiên nhiên vùng Trung du và miền n
+ úi Bắc Bộ (Tiết 3)\n★ Tiết 8: Toán – Bài 11: Biểu thức 
+ có chứa chữ (tiếp theo)
 END:VEVENT
 BEGIN:VEVENT
-UID:ef0f48aa-6541-4843-8ab6-61a837e4b7b3
+UID:2019e7d7-b2cc-4960-9b55-a01ae216937d
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -390,13 +417,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 12: Biểu th
  ức có chứa chữ (tiếp theo)\n★ Tiết 2: Tiếng Việt – Đ
- ọc: Ca dao về tình yêu thương\nTiết 3: Đạo Đức\nTiết 4: 
- Tin Học
+ ọc: Ca dao về tình yêu thương\n★ Tiết 3: Đạo Đức – Em 
+ biết ơn người lao động (tiết 3)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:70856b92-d3e0-494d-a8c9-0301b42dd32a
+UID:ad4a800d-6ebc-46d0-8e94-0399e9e1003b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -413,9 +440,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 13: Tính ch
  ại
 END:VEVENT
 BEGIN:VEVENT
-UID:684ffed6-d6df-4efe-8afd-844b07e1ec0f
+UID:6b7906e1-81a3-4847-8be1-176af38c17a1
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251013
 DTEND;VALUE=DATE:20251013
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -429,34 +456,40 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:cecffe8a-aa7f-4816-af6d-fe965c42b11b
+UID:80d84d02-f22f-494f-9a06-e81c7432b807
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251014
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 14: Tính chất gia
- o hoán\, tính chất kết hợp của phép nhân - t1\n\n🌙 BUỔI C
- HIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Qu
- ả ngọt cuối mùa\n★ Tiết 7: Tiếng Việt – Đọc: mở rộ
- ng Sinh hoạt câu lạc bộ đọc sách\, Chủ điểm: Mảnh ghép 
- yêu thương
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 6. Ô nhi
+ ễm không khí và bảo vệ môi trường không khí - tiết 1\n★
+  Tiết 2: Khoa học – Bài 6. Ô nhiễm không khí và bảo vệ m
+ ôi trường không khí - tiết 2\n★ Tiết 3: Mỹ thuật – Bài 
+ 1: Tranh vẽ với các hình nối tiếp\n★ Tiết 4: Toán – Bài 
+ 14: Tính chất giao hoán\, tính chất kết hợp của phép nhân -
+  t1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng V
+ iệt – Đọc: Quả ngọt cuối mùa\n★ Tiết 7: Tiếng Việt 
+ – Đọc: mở rộng Sinh hoạt câu lạc bộ đọc sách\, Chủ 
+ điểm: Mảnh ghép yêu thương
 END:VEVENT
 BEGIN:VEVENT
-UID:a5f56c4a-63de-4a78-b1fe-044e13501a2d
+UID:a77e0c6a-179e-4286-acbd-a5deec0be490
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251015
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về động từ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ
- \n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nh
+ ện tập về động từ\n★ Tiết 2: Âm nhạc – Ôn hát: Tiế
+ ng hát mùa sang. \nNhạc cụ: Nhạc cụ tiết tấu\nNhạc cụ gi
+ ai điệu: Giới recorder.\n★ Tiết 3: Công Nghệ – Bài 2: Vật
+  liệu\, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 3\
+ n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nh
  ận hiện tình huống có nguy cơ bị xâm hại\; Chia sẻ về c
  ách ứng phó trước nguy cơ bị xâm hại thân thể.\n\n🌙 BU
  ỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Lập dàn ý cho b
@@ -466,9 +499,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
  oán\, tính chất kết hợp của phép nhân - t2
 END:VEVENT
 BEGIN:VEVENT
-UID:34d01334-a98c-4316-80a9-44dbafbe238e
+UID:3cead1ea-bace-48ff-87ff-5e77bab953ae
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251016
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -476,12 +509,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 15: Em làm đ
  ược những gì? - tiết 1\n★ Tiết 2: Tiếng Việt – Đọc: T
- hân thương xứ Vàm\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ hân thương xứ Vàm\n★ Tiết 3: Đạo Đức – Em cảm thông\,
+  giúp đỡ người gặp khó khăn (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:bb74be40-a13c-48de-87fa-f805940e1f81
+UID:d3d8d62a-3e19-4702-aa87-4e8c93ad6c10
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -496,9 +530,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 15: Em làm đ
  ện pháp phòng tránh bị xâm hại thân thể
 END:VEVENT
 BEGIN:VEVENT
-UID:70f24886-bf6a-40c0-8963-8d31aca97128
+UID:38af81c6-3fbb-4153-ae89-c71ea0b3d52b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251020
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -511,43 +545,47 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  iếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:2d78f6a5-8228-45aa-b5b1-f174d6a027c3
+UID:82fda1e3-ba89-4bac-bbd6-087c9d68d892
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251021
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 16: Dãy số liệu
-  - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: T
- iếng Việt – Đọc: Một li sữa\n★ Tiết 7: Tiếng Việt –
-  Đọc: Một li sữa
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 7. Ôn t
+ ập chủ đề Chất \n★ Tiết 2: Khoa học – Bài 8. Nguồn sá
+ ng và sự truyền ánh sáng - tiết 1\n★ Tiết 3: Mỹ thuật –
+  Bài 2: Không gian trong thư viện\n★ Tiết 4: Toán – Bài 16: D
+ ãy số liệu - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n
+ ★ Tiết 6: Tiếng Việt – Đọc: Một li sữa\n★ Tiết 7: Ti
+ ếng Việt – Đọc: Một li sữa
 END:VEVENT
 BEGIN:VEVENT
-UID:70850678-8cd6-4e35-ab69-47853ff14183
+UID:01a4f229-4e8b-4f57-8478-311971b27e88
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251022
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về tính từ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n
- ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nhậ
- n diện những hành vi và cách tránh bị xâm hại tinh thần\n\n
- 🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Viết: đo
- ạn mở bài và đoạn kết bài cho bài văn thuật lại một s
- ự việc\n★ Tiết 7: LS-ĐL – Bài 6: Một số nét văn hóa ở
-  vùng Trung du và miền núi Bắc Bộ (Tiết 1)\n★ Tiết 8: Toán
-  – Bài 17: Biểu đồ cột - tiết 1
+ ện tập về tính từ\n★ Tiết 2: Âm nhạc – Đọc nhạc: Th
+ ực hành đọc nhạc Bài đọc nhạc số 1.\n★ Tiết 3: Công N
+ ghệ – Bài 2: Vật liệu\, dụng cụ trồng hoa và cây cảnh t
+ rong chậu - tiết 4\n★ Tiết 4: HĐTN – Hoạt động giáo dục
+  theo chủ đề: Nhận diện những hành vi và cách tránh bị x
+ âm hại tinh thần\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt
+  – Viết: Viết: đoạn mở bài và đoạn kết bài cho bài vă
+ n thuật lại một sự việc\n★ Tiết 7: LS-ĐL – Bài 6: Một 
+ số nét văn hóa ở vùng Trung du và miền núi Bắc Bộ (Tiết 
+ 1)\n★ Tiết 8: Toán – Bài 17: Biểu đồ cột - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:6eaf3aca-6887-4f79-ab8e-f318658740b4
+UID:3c24700e-8c22-4a3f-b272-5d53470cd0d4
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251023
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -555,12 +593,14 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 17: Biểu đ
  ồ cột - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: Vì Hoàng 
- Sa - Trường Sa thân yêu\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ Sa - Trường Sa thân yêu\n★ Tiết 3: Đạo Đức – Em cảm th
+ ông\, giúp đỡ người gặp khó khăn (tiết 2)\nTiết 4: Tin H
+ ọc
 END:VEVENT
 BEGIN:VEVENT
-UID:99cf6397-772c-4500-af46-12b71011269d
+UID:258b3278-94ce-4fe8-b51b-07ea258b5235
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251024
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -575,9 +615,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 17: Biểu đ
  : HĐTN – Sinh hoạt lớp: Xử lí bị xâm hại tinh thần
 END:VEVENT
 BEGIN:VEVENT
-UID:f0c453e7-683c-4b95-9ac0-18596446fabb
+UID:e6ea964a-9a68-405a-a4d6-b5df225af3f4
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251027
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -590,44 +630,49 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  Tiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:149a0ae9-9c03-44e6-83df-febb674005a4
+UID:bceb3599-8b44-4d24-8d95-f9966f70859d
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251028
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 18: Số lần lặp
-  lại của một sự kiện - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6
- : Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Gió vườn\n★ 
- Tiết 7: Tiếng Việt – Đọc: mở rộng Sinh hoạt câu lạc b
- ộ đọc sách: Chủ điểm Mảnh ghép yêu thương
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 8. Nguồ
+ n sáng và sự truyền ánh sáng - tiết 2\n★ Tiết 2: Khoa học 
+ – Bài 9. Ánh sáng với đời sống - tiết 1\n★ Tiết 3: Mỹ 
+ thuật – Bài 2: Không gian trong thư viện\n★ Tiết 4: Toán –
+  Bài 18: Số lần lặp lại của một sự kiện - tiết 2\n\n
+ 🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt 
+ – Đọc: Gió vườn\n★ Tiết 7: Tiếng Việt – Đọc: mở r
+ ộng Sinh hoạt câu lạc bộ đọc sách: Chủ điểm Mảnh ghép
+  yêu thương
 END:VEVENT
 BEGIN:VEVENT
-UID:1892a81a-9bfb-4b6a-a52e-4ff50b5a8596
+UID:b3d5b5aa-b3ee-43e9-8ef3-d21a169b0269
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251029
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về tính từ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n
- ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nhậ
- n diện nguy cơ và cách phòng tránh bị xâm hại tình dục. Th
- ực hành phòng tránh bị xâm hại tình dục. \n\n🌙 BUỔI CHI
- ỀU\n★ Tiết 6: Tiếng Việt – Viết: Viết: báo cáo thảo lu
- ận nhóm\n★ Tiết 7: LS-ĐL – Bài 7: Đền Hùng và lễ Giỗ T
- ổ Hùng Vương (Tiết 1)\n★ Tiết 8: Toán – Bài 19: Tìm số t
- rung bình cộng - tiết 1
+ ện tập về tính từ\n★ Tiết 2: Âm nhạc – Thường thức 
+ âm nhạc: Giới thiệu một số hình thức biểu diển.\nNhà ga
+  âm nhạc.\n★ Tiết 3: Công Nghệ – Bài 3: Gieo hạt và trồn
+ g cây hoa trong chậu - tiết 1\n★ Tiết 4: HĐTN – Hoạt động
+  giáo dục theo chủ đề: Nhận diện nguy cơ và cách phòng tr
+ ánh bị xâm hại tình dục. Thực hành phòng tránh bị xâm h
+ ại tình dục. \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt 
+ – Viết: Viết: báo cáo thảo luận nhóm\n★ Tiết 7: LS-ĐL 
+ – Bài 7: Đền Hùng và lễ Giỗ Tổ Hùng Vương (Tiết 1)\n★
+  Tiết 8: Toán – Bài 19: Tìm số trung bình cộng - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:1dd751cf-ea5c-403d-a7c7-b6af4d2115b2
+UID:ef5e8e64-2dfa-43b4-b4e3-029be71a428e
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251030
 DTEND;VALUE=DATE:20251030
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -635,12 +680,14 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 19: Tìm số 
  trung bình cộng - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: C
- ây trái trong vườn Bác\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ây trái trong vườn Bác\n★ Tiết 3: Đạo Đức – Em cảm th
+ ông\, giúp đỡ người gặp khó khăn (tiết 3)\nTiết 4: Tin H
+ ọc
 END:VEVENT
 BEGIN:VEVENT
-UID:af6f29a0-29cc-4c4e-a597-52f4bad6904e
+UID:57a755d5-1190-40ea-b39b-676dba098e37
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251031
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -655,9 +702,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 20: Đề-xi-m
  òng tránh bị xâm hại tình dục.
 END:VEVENT
 BEGIN:VEVENT
-UID:0c153463-d3a8-47ef-b625-0f2cc1b051ac
+UID:c367bbc0-deef-4034-ba2b-4f54eeed24dc
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251103
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -670,26 +717,28 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:e607d405-7a9d-43b2-90fc-3309ac596d27
+UID:d1c75de3-f14a-40b3-b88f-ec69f1c0598b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 21: Mét vuông - ti
- ết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiến
- g Việt – Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọ
- c hiểu: Tiếng Chim\n★ Tiết 7: Tiếng Việt – Viết: Tiết 2:
-  - Nghe-viết: Ngôi nhà nơi đầu ngọn gió \n- Ôn luyện quy t
- ắc viết hoa tên cơ quan\, tổ chức
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 9. Ánh s
+ áng với đời sống - tiết 2\n★ Tiết 2: Khoa học – Bài 10.
+  Âm thanh - tiết 1\n★ Tiết 3: Mỹ thuật – Bài 3: Tranh chân 
+ dung nhân vật\n★ Tiết 4: Toán – Bài 21: Mét vuông - tiết 1\
+ n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việ
+ t – Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọc hiể
+ u: Tiếng Chim\n★ Tiết 7: Tiếng Việt – Viết: Tiết 2: - Nghe
+ -viết: Ngôi nhà nơi đầu ngọn gió \n- Ôn luyện quy tắc vi
+ ết hoa tên cơ quan\, tổ chức
 END:VEVENT
 BEGIN:VEVENT
-UID:0a3b8b1a-4c65-472d-b0fc-2a99c1b1a0d1
+UID:1449ba25-b129-45f3-8989-8b29c1075f2c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251105
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -697,20 +746,23 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – Nói và n
  ghe: Tiết 3: Ôn luyện Nói và nghe: : Nói về một hoạt động
-  trải nghiệm thú vị của em ở trường \nTiết 2: Âm nhạc\n
- Tiết 3: Công Nghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục
-  theo chủ đề: Chia sẻ những ấn tượng hoặc kỉ niệm củ
- a em và thầy cô\, bạn bè. Tìm hiểu những lời nói\, việc l
- àm để duy trì và phát triển quan hệ tốt đẹp với thầy\,
-  cô giáo. \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – LTVC
- : Tiết 4: Ôn luyện từ và câu: Danh từ\, động từ\, tính t
- ừ\n★ Tiết 7: LS-ĐL – Ôn tập và đánh giá Giữa HKI\n★ Ti
- ết 8: Toán – Bài 21: Mét vuông - tiết 2
+  trải nghiệm thú vị của em ở trường \n★ Tiết 2: Âm nh
+ ạc – Khám phá: Hình ảnh vườn hoa Học hát: Mặt Trời bay 
+ (Nhạc và lời: Phạm Tuyên). \n★ Tiết 3: Công Nghệ – Bài 3
+ : Gieo hạt và trồng cây hoa trong chậu - tiết 2\n★ Tiết 4: H
+ ĐTN – Hoạt động giáo dục theo chủ đề: Chia sẻ những 
+ ấn tượng hoặc kỉ niệm của em và thầy cô\, bạn bè. Tìm
+  hiểu những lời nói\, việc làm để duy trì và phát triển 
+ quan hệ tốt đẹp với thầy\, cô giáo. \n\n🌙 BUỔI CHIỀU\n
+ ★ Tiết 6: Tiếng Việt – LTVC: Tiết 4: Ôn luyện từ và câu
+ : Danh từ\, động từ\, tính từ\n★ Tiết 7: LS-ĐL – Ôn tậ
+ p và đánh giá Giữa HKI\n★ Tiết 8: Toán – Bài 21: Mét vuông
+  - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:e3207275-06fc-46ae-8e2b-90a3d550c1f3
+UID:1e840f62-7354-43bd-a4a5-d73fc0d3b52f
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -720,12 +772,13 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 22: Em làm đ
  ược những gì? - tiết 1\n★ Tiết 2: Tiếng Việt – Viết: T
  iết 5: Ôn luyện viết: Viết: bài văn kể lại một câu chuy
  ện đã nghe\, đã học có nhân vật là đồ vật hoặc con v
- ật\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ật\n★ Tiết 3: Đạo Đức – Em yêu lao động (tiết 1)\nTi
+ ết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:5b736591-db84-403d-8e79-fc4d6c07b89a
+UID:fa00e941-cdc8-48bf-a053-a7171e13ffbc
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251107
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -741,9 +794,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 22: Em làm đ
  ạn bè.
 END:VEVENT
 BEGIN:VEVENT
-UID:2f0c7fce-8e6e-41d7-9606-be3d83d549c0
+UID:f6626422-5c41-451e-8ae7-f87790b21e4a
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251110
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -756,58 +809,63 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
   Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:7946228b-ef37-4240-a99b-2594f866d674
+UID:f5ae8279-9fb6-412d-b46e-394af23b3708
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251111
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 23: Thực hành và
-  trải nghiệm - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\
- n★ Tiết 6: Tiếng Việt – Đọc: Yết Kiêu\n★ Tiết 7: Tiế
- ng Việt – Đọc: Yết Kiêu
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 10. Âm t
+ hanh - tiết 2\n★ Tiết 2: Khoa học – Bài 11. Âm thanh trong đ
+ ời sống - tiết 1\n★ Tiết 3: Mỹ thuật – Bài 3: Tranh chân
+  dung nhân vật\n★ Tiết 4: Toán – Bài 23: Thực hành và trả
+ i nghiệm - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ T
+ iết 6: Tiếng Việt – Đọc: Yết Kiêu\n★ Tiết 7: Tiếng Vi
+ ệt – Đọc: Yết Kiêu
 END:VEVENT
 BEGIN:VEVENT
-UID:b2dc35e9-5dc3-4331-b520-b8b358e6e7b9
+UID:adb93607-adc2-4751-a0f3-a3a5fe645b69
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251112
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về Tính từ \nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\
- n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Th
- ể hiện những lời nói\, việc làm duy trì và phát triển qua
- n hệ tốt đẹp với thầy\, cô giáo. Lập kế hoạch thực hi
- ện những việc làm duy trì và phát triển quan hệ tốt đẹp
-  với bạn bè.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt
-  – Viết: Luyện tập lập dàn ý cho bài văn thuật lại một
-  sự việc\n★ Tiết 7: LS-ĐL – Bài 8: Thiên nhiên vùng Đồng
-  bằng Bắc Bộ (Tiết 2)\n★ Tiết 8: Toán – Bài 23: Thực hà
- nh và trải nghiệm - tiết 2
+ ện tập về Tính từ \n★ Tiết 2: Âm nhạc – Ôn bài hát: M
+ ặt Trời bay.\nNghe nhạc: Morning mood (Edvard Grieg)\n★ Tiết 3: 
+ Công Nghệ – Bài 3: Gieo hạt và trồng cây hoa trong chậu - ti
+ ết 3\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đ
+ ề: Thể hiện những lời nói\, việc làm duy trì và phát tri
+ ển quan hệ tốt đẹp với thầy\, cô giáo. Lập kế hoạch t
+ hực hiện những việc làm duy trì và phát triển quan hệ tố
+ t đẹp với bạn bè.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiến
+ g Việt – Viết: Luyện tập lập dàn ý cho bài văn thuật l
+ ại một sự việc\n★ Tiết 7: LS-ĐL – Bài 8: Thiên nhiên vù
+ ng Đồng bằng Bắc Bộ (Tiết 2)\n★ Tiết 8: Toán – Bài 23: 
+ Thực hành và trải nghiệm - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:a9e19346-a5d0-4f46-b2d8-d3e77c88e677
+UID:d8fbe19c-2d10-4cd8-b08a-7b55236c5733
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Kiểm tra giữa h
- ọc kì I\n★ Tiết 2: Tiếng Việt – Đọc: Mạc Đĩnh Chi\nTi
- ết 3: Đạo Đức\nTiết 4: Tin Học
+ ọc kì I\n★ Tiết 2: Tiếng Việt – Đọc: Mạc Đĩnh Chi\n★
+  Tiết 3: Đạo Đức – Em yêu lao động (tiết 2)\nTiết 4: Tin
+  Học
 END:VEVENT
 BEGIN:VEVENT
-UID:43a12297-840e-47d9-a947-b310c104a4c8
+UID:d27370b7-c09a-446c-8536-618c932b985d
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251114
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -823,9 +881,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 24: Các số
  ừng ngày Nhà giáo Việt Nam.
 END:VEVENT
 BEGIN:VEVENT
-UID:df63490c-246f-417c-8f13-ef827d494343
+UID:98799294-a935-429d-ae88-cf4570289f27
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251117
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -839,46 +897,52 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  C
 END:VEVENT
 BEGIN:VEVENT
-UID:30532177-a48a-463a-bc33-596ec38cb1bb
+UID:135148cb-15aa-4ae5-a05d-50df3c593b25
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251118
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 24: Các số có s
- áu chữ số. Hàng và lớp - tiết 3\n\n🌙 BUỔI CHIỀU\nTiết 
- 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Sáng tháng Năm
- \n★ Tiết 7: Tiếng Việt – Đọc: mở rộng SHCLB đọc sách:
-  Chủ điểm: Những người tài trí
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 11. Âm t
+ hanh trong đời sống - tiết 2\n★ Tiết 2: Khoa học – Bài 12.
+  Nhiệt độ và nhiệt kế - tiết 1\n★ Tiết 3: Mỹ thuật –
+  Bài 1: Sản phẩm mĩ thuật với các lớp cảnh\n★ Tiết 4: T
+ oán – Bài 24: Các số có sáu chữ số. Hàng và lớp - tiết 
+ 3\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Vi
+ ệt – Đọc: Sáng tháng Năm\n★ Tiết 7: Tiếng Việt – Đọ
+ c: mở rộng SHCLB đọc sách: Chủ điểm: Những người tài tr
+ í
 END:VEVENT
 BEGIN:VEVENT
-UID:1ec131a4-9c2b-46db-90f3-862c801dd51d
+UID:c135e1d5-6db8-4bc6-9b65-960f0c0f1da0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251119
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về danh từ\, động từ\, tính từ\nTiết 2: Âm nhạ
- c\nTiết 3: Công Nghệ\n★ Tiết 4: HĐTN – Hoạt động giáo d
- ục theo chủ đề: Xác định một số vấn đề thường xảy
-  ra trong quan hệ bạn bè. Tìm hiểu cách giải quyết khi có v
- ấn đề xảy ra trong quan hệ với bạn bè.  \n\n🌙 BUỔI CHI
- ỀU\n★ Tiết 6: Tiếng Việt – Viết: Luyện viết viết bài 
- văn thuật lại một sự việc\n★ Tiết 7: LS-ĐL – Bài 9: Dâ
- n cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ 
- (Tiết 1)\n★ Tiết 8: Toán – Bài 25: Triệu\, lớp triệu - ti
- ết 1
+ ện tập về danh từ\, động từ\, tính từ\n★ Tiết 2: Âm n
+ hạc – Nhạc cụ tiết tấu: Castanet.\nNhạc cụ giai điệu: \
+ n+ Recorder: Thế bấm nốt Si. Bài thực hành số 1. \n+ Kèn phí
+ m: Giới thiệu phím Đô. Bài thực hành số 1.\n★ Tiết 3: Cô
+ ng Nghệ – Bài 4: Trồng cây cảnh trong chậu - tiết 1\n★ Ti
+ ết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Xác địn
+ h một số vấn đề thường xảy ra trong quan hệ bạn bè. Tì
+ m hiểu cách giải quyết khi có vấn đề xảy ra trong quan hệ
+  với bạn bè.  \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt 
+ – Viết: Luyện viết viết bài văn thuật lại một sự việ
+ c\n★ Tiết 7: LS-ĐL – Bài 9: Dân cư và hoạt động sản xu
+ ất ở vùng Đồng bằng Bắc Bộ (Tiết 1)\n★ Tiết 8: Toán 
+ – Bài 25: Triệu\, lớp triệu - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:c466736f-bedc-4d52-a66f-dbd86016918f
+UID:69ef24d9-2a2f-4832-95a5-eaa2ca4af5db
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -886,12 +950,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 25: Triệu\, 
  lớp triệu - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: Trống
-  đồng Đông Sơn\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+  đồng Đông Sơn\n★ Tiết 3: Đạo Đức – Em yêu lao động 
+ (tiết 3)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:c99a7d3b-0d3b-4f38-a410-1ef27794fd57
+UID:f300603b-84cf-4e3f-ae21-2cc9f996d105
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -906,9 +971,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 26: Đọc\, v
  thể.
 END:VEVENT
 BEGIN:VEVENT
-UID:fd39e63e-96ef-4950-ae79-5bf29331cc45
+UID:b0c75477-c09a-4ef0-aa02-58120eb008cf
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251124
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -922,46 +987,49 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
   GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:69fd34ab-d5ce-47ec-a564-9eee4a68a115
+UID:38c69397-1482-4288-a80a-76eb4323d9bd
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251125
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 27: So sánh và x
- ếp thứ tự các số tự nhiên - tiết 1\n\n🌙 BUỔI CHIỀU\nT
- iết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Ai tài gi
- ỏi nhất\n★ Tiết 7: Tiếng Việt – Đọc: Ai tài giỏi nhấ
- t
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 12. Nhi
+ ệt độ và nhiệt kế - tiết 2\n★ Tiết 2: Khoa học – Bài 
+ 13. Sự truyền nhiệt và vật dẫn nhiệt - tiết 1\n★ Tiết 3
+ : Mỹ thuật – Bài 1: Sản phẩm mĩ thuật với các lớp cản
+ h\n★ Tiết 4: Toán – Bài 27: So sánh và xếp thứ tự các s
+ ố tự nhiên - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n
+ ★ Tiết 6: Tiếng Việt – Đọc: Ai tài giỏi nhất\n★ Tiết
+  7: Tiếng Việt – Đọc: Ai tài giỏi nhất
 END:VEVENT
 BEGIN:VEVENT
-UID:bcb246cd-d575-4a8b-b3f7-8d082b18d02c
+UID:7d9fa286-a355-41e1-bea3-70ae276c3794
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251126
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Bi
- ện pháp nhân hóa\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ T
- iết 4: HĐTN – Hoạt động giáo dục theo chủ đề: - Xử lí
-  tình huống trong quan hệ với bạn bè. Chia sẻ về những tha
- y đổi tích cực trong việc duy trì và phát triển quan hệ t
- ốt đẹp với bạn bè\, thầy cô.  \n\n🌙 BUỔI CHIỀU\n★ T
- iết 6: Tiếng Việt – Viết: Trả bài văn thuật lại một s
- ự việc\n★ Tiết 7: LS-ĐL – Bài 9: Dân cư và hoạt động s
- ản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 3)\n★ Tiết 8: 
- Toán – Bài 27: So sánh và xếp thứ tự các số tự nhiên - t
- iết 2
+ ện pháp nhân hóa\n★ Tiết 2: Âm nhạc – Lí thuyết âm nhạ
+ c: Dòng kẻ phụ. \nNhà ga âm nhạc\n★ Tiết 3: Công Nghệ – 
+ Bài 4: Trồng cây cảnh trong chậu - tiết 2\n★ Tiết 4: HĐTN 
+ – Hoạt động giáo dục theo chủ đề: - Xử lí tình huống 
+ trong quan hệ với bạn bè. Chia sẻ về những thay đổi tích 
+ cực trong việc duy trì và phát triển quan hệ tốt đẹp với
+  bạn bè\, thầy cô.  \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng 
+ Việt – Viết: Trả bài văn thuật lại một sự việc\n★ Ti
+ ết 7: LS-ĐL – Bài 9: Dân cư và hoạt động sản xuất ở v
+ ùng Đồng bằng Bắc Bộ (Tiết 3)\n★ Tiết 8: Toán – Bài 27
+ : So sánh và xếp thứ tự các số tự nhiên - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:d1e1f01a-b7bc-4eeb-a82b-9d097fd7b0d4
+UID:6e8e56cf-7878-4738-9ac7-f8997d9782b6
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251127
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -969,12 +1037,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 28: Dãy số 
  tự nhiên  \n★ Tiết 2: Tiếng Việt – Đọc: Kì quan đê bi
- ển\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ển\n★ Tiết 3: Đạo Đức – Em tịch cực tham gia lao động
+  (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:e048ac9d-aede-4cb9-9836-e5e3a3567d31
+UID:f89500f0-4833-4057-9d04-9cfcd88fbc64
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251128
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -990,9 +1059,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 29: Em làm đ
  y cô và bạn bè”.
 END:VEVENT
 BEGIN:VEVENT
-UID:e67da1e5-f73d-44f6-a3f5-71b37b925ed0
+UID:fdae810b-5825-42c8-8865-3d8048a217c0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1005,45 +1074,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  I CHIỀU\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:b837e14c-2c3b-42d8-bc8d-9c8bd58e1412
+UID:3ee1743c-ddb7-4274-9603-5c93c8056812
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251202
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 30: Đo góc – Gó
- c nhọn\, góc tù\, góc bẹt - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết
-  6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Chuyện cổ t
- ích về loài người\n★ Tiết 7: Tiếng Việt – Đọc: mở r
- ộng SHCLB đọc sách: Chủ điểm: Những người tài trí
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 13. Sự 
+ truyền nhiệt và  vật dẫn nhiệt - tiết 2\n★ Tiết 2: Khoa 
+ học – Bài 14. Ôn tập chủ đề Năng lượng \n★ Tiết 3: M
+ ỹ thuật – Bài 2: Tranh chấm màu\n★ Tiết 4: Toán – Bài 30
+ : Đo góc – Góc nhọn\, góc tù\, góc bẹt - tiết 1\n\n🌙 BU
+ ỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đ
+ ọc: Chuyện cổ tích về loài người\n★ Tiết 7: Tiếng Việ
+ t – Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Những ngư
+ ời tài trí
 END:VEVENT
 BEGIN:VEVENT
-UID:be188a8a-2527-4acf-8d8b-43540a1631cd
+UID:90864440-1682-44de-b2b7-c14e8f3f4a30
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về nhân hóa\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n
- ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: - Xá
- c định các hành vi có văn hóa nơi công cộng. - Xử lí tình 
- huống ứng xử có văn hóa ở nơi công cộng.   \n\n🌙 BUỔI
-  CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Viết: thư cho ngư
- ời thân\n★ Tiết 7: LS-ĐL – Bài 10: Một số nét văn hóa 
- ở làng quê vùng Đồng bằng Bắc Bộ (Tiết 2)\n★ Tiết 8: T
- oán – Bài 30: Đo góc – Góc nhọn\, góc tù\, góc bẹt - tiế
- t 2
+ ện tập về nhân hóa\n★ Tiết 2: Âm nhạc – Khám phá hình 
+ ảnh gia đình.\nHọc hát: Bàn tay mẹ. \n (Nhạc: Bùi Đình Th
+ ảo\, thơ: Tạ Hữu Yên). \n★ Tiết 3: Công Nghệ – Bài 4: Tr
+ ồng cây cảnh trong chậu - tiết 3\n★ Tiết 4: HĐTN – Hoạt 
+ động giáo dục theo chủ đề: - Xác định các hành vi có vă
+ n hóa nơi công cộng. - Xử lí tình huống ứng xử có văn hó
+ a ở nơi công cộng.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng
+  Việt – Viết: Viết: thư cho người thân\n★ Tiết 7: LS-ĐL 
+ – Bài 10: Một số nét văn hóa ở làng quê vùng Đồng bằng
+  Bắc Bộ (Tiết 2)\n★ Tiết 8: Toán – Bài 30: Đo góc – Góc
+  nhọn\, góc tù\, góc bẹt - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:71456395-3084-409c-829e-45e2d6ab683e
+UID:e1e4c264-6917-4ceb-b5dc-bf4806de181a
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1051,13 +1125,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 31: Hai đư
  ờng thẳng vuông góc  \n★ Tiết 2: Tiếng Việt – Đọc: Nh
- ững mùa hoa trên cao nguyên đá\nTiết 3: Đạo Đức\nTiết 4: 
- Tin Học
+ ững mùa hoa trên cao nguyên đá\n★ Tiết 3: Đạo Đức – Em 
+ tịch cực tham gia lao động (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:21c71019-a3f8-4e6e-b293-2073a8b7802d
+UID:dbe205ec-6c15-4181-a1b0-e4e4643ee92b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1071,9 +1145,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 32: Hai đư
  hoạt lớp: Chia sẻ những hành vi có văn hóa nơi công cộng.
 END:VEVENT
 BEGIN:VEVENT
-UID:7fb49ba5-e5b2-461f-951d-240719255cdb
+UID:f008975f-cf7a-48cb-8812-9d1f6b1a314f
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251208
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1086,43 +1160,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  Tiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:3ed90c34-6fb5-4464-a3ad-b5519ae65e88
+UID:300bda1a-01d7-4f31-85b6-311c3896f654
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 33. Em làm được
-  những gì? - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n
- ★ Tiết 6: Tiếng Việt – Đọc: Ở Vương quốc Tương Lai\n
- ★ Tiết 7: Tiếng Việt – Đọc: Ở Vương quốc Tương Lai
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 15. Thự
+ c vật cần gì để sống và phát triển? - tiết 1\n★ Tiết 2
+ : Khoa học – Bài 15. Thực vật cần gì để sống và phát tr
+ iển? - tiết 2\n★ Tiết 3: Mỹ thuật – Bài 2: Tranh chấm mà
+ u\n★ Tiết 4: Toán – Bài 33. Em làm được những gì? - tiết
+  1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Vi
+ ệt – Đọc: Ở Vương quốc Tương Lai\n★ Tiết 7: Tiếng Vi
+ ệt – Đọc: Ở Vương quốc Tương Lai
 END:VEVENT
 BEGIN:VEVENT
-UID:74b55ffe-adfa-4baf-bcec-03b1ae798045
+UID:7029f3e7-ef3b-4903-b345-15d900f06df7
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về nhân hóa\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n
- ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Xác 
- định các hoạt động kết nối cộng đồng mà em có thể th
- am gia. Lập kế hoạch tham gia các hoạt động kết nối cộng
-  đồng.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Vi
- ết: Viết: đoạn văn tưởng tượng\n★ Tiết 7: LS-ĐL – Bà
- i 11: Sông Hồng và văn minh sông Hồng (Tiết 2)\n★ Tiết 8: To
- án – Bài 33. Em làm được những gì? - tiết 2
+ ện tập về nhân hóa\n★ Tiết 2: Âm nhạc – Ôn bài hát: B
+ àn tay mẹ .\nThường thức âm nhạc: Giới thiệu nhạc sĩ Pho
+ ng Nhã và tác phẩm Ai yêu Bác Hồ Chí Minh hơn thiếu niên nhi
+  đồng. \n★ Tiết 3: Công Nghệ – Bài 5: Chăm sóc hoa\, cây c
+ ảnh trong chậu - tiết 1\n★ Tiết 4: HĐTN – Hoạt động giá
+ o dục theo chủ đề: Xác định các hoạt động kết nối c
+ ộng đồng mà em có thể tham gia. Lập kế hoạch tham gia các 
+ hoạt động kết nối cộng đồng.   \n\n🌙 BUỔI CHIỀU\n★
+  Tiết 6: Tiếng Việt – Viết: Viết: đoạn văn tưởng tượ
+ ng\n★ Tiết 7: LS-ĐL – Bài 11: Sông Hồng và văn minh sông H
+ ồng (Tiết 2)\n★ Tiết 8: Toán – Bài 33. Em làm được nhữn
+ g gì? - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:b8e71988-c3f0-4257-8a7d-12ca1bc70f45
+UID:3cbe7292-f017-4329-9172-3e7a12be5d2b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1130,12 +1211,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 34: Giây - ti
  ết 1\n★ Tiết 2: Tiếng Việt – Đọc: Cậu bé ham học hỏi
- \nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ \n★ Tiết 3: Đạo Đức – Em tôn trọng tài sản của ngườ
+ i khác (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:837bd27b-d018-4b01-9529-254fe520b283
+UID:a46532d5-ce61-4243-8f7c-0472ffc0cf4b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1150,9 +1232,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 34: Giây - ti
  ộng đồng.
 END:VEVENT
 BEGIN:VEVENT
-UID:1bc0801e-b809-41d3-8c32-b27b1c36498e
+UID:9ee3ba4a-e958-4f2b-8a86-2a16fd1c1f4c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251215
 DTEND;VALUE=DATE:20251215
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1165,32 +1247,37 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:acd8c649-9fa8-4426-995f-c446a241b6a1
+UID:5e819873-1fc1-411f-bf72-8a5da4bf9f0c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251216
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 35: Thế kỉ - ti
- ết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiến
- g Việt – Đọc: Thuyền trưởng và bầy ong\n★ Tiết 7: Tiế
- ng Việt – Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Nhữ
- ng ước mơ xanh
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 15. Thự
+ c vật cần gì để sống và phát triển? - tiết 3\n★ Tiết 2
+ : Khoa học – Bài 16. Nhu cầu sống của động vật - tiết 1\
+ n★ Tiết 3: Mỹ thuật – Bài 3: Tạo hình động vật từ v
+ ật liệu đã qua sử dụng\n★ Tiết 4: Toán – Bài 35: Thế k
+ ỉ - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6
+ : Tiếng Việt – Đọc: Thuyền trưởng và bầy ong\n★ Tiết 
+ 7: Tiếng Việt – Đọc: mở rộng SHCLB đọc sách: Chủ điể
+ m: Những ước mơ xanh
 END:VEVENT
 BEGIN:VEVENT
-UID:1a99c49b-cfc3-4aa9-926a-0879e4c09acf
+UID:1dfc8142-456a-45d7-8c56-0c0a3b567d32
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về nhân hóa\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n
+ ện tập về nhân hóa\n★ Tiết 2: Âm nhạc – Đọc nhạc: Th
+ ực hành đọc nhạc Bài đọc nhạc số 2.\n★ Tiết 3: Công N
+ ghệ – Bài 5: Chăm sóc hoa\, cây cảnh trong chậu - tiết 2\n
  ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nhậ
  n diện về hoạt động đền ơn đáp nghĩa và giáo dục truy
  ền thống quê hương. Xây dựng dự án đền ơn đáp nghĩa v
@@ -1201,9 +1288,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
  ến\, tạ\, tấn - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:6bf75aa7-8710-4690-9979-1f800c3e51d1
+UID:3f076c03-2d0a-4bf3-b99d-5f6ea4b26a63
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1211,12 +1298,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 36: Yến\, t
  ạ\, tấn - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: Cây táo
-  đã nảy mầm\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+  đã nảy mầm\n★ Tiết 3: Đạo Đức – Em tôn trọng tài s
+ ản của người khác (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:950d188c-b6c3-4eb7-a60f-e75623933554
+UID:c96ed59f-512e-4804-9ff9-ba0081b15673
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1231,9 +1319,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 37: Em làm đ
  p nghĩa và giáo dục truyền thống quê hương ở địa phương
 END:VEVENT
 BEGIN:VEVENT
-UID:ad3c5d10-2a10-4c83-807c-669a0b2c282f
+UID:03cc6357-bbf1-4808-b807-9c2c5e901919
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251222
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1246,43 +1334,48 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  iết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:9810e2b0-6ce4-4387-858a-5795dd600625
+UID:d6abc5a7-5cec-4884-b5a9-001ed998aed0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251223
 DTEND;VALUE=DATE:20251223
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 38: Ôn tập học 
- kì I - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết
-  6: Tiếng Việt – Đọc: Hái trăng trên đỉnh núi\n★ Tiết 
- 7: Tiếng Việt – Đọc: Hái trăng trên đỉnh núi
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 16. Nhu c
+ ầu sống của động vật - tiết 2\n★ Tiết 2: Khoa học – B
+ ài 16. Nhu cầu sống của động vật - tiết 3\n★ Tiết 3: M
+ ỹ thuật – Bài 3: Tạo hình động vật từ vật liệu đã q
+ ua sử dụng\n★ Tiết 4: Toán – Bài 38: Ôn tập học kì I - t
+ iết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiế
+ ng Việt – Đọc: Hái trăng trên đỉnh núi\n★ Tiết 7: Tiến
+ g Việt – Đọc: Hái trăng trên đỉnh núi
 END:VEVENT
 BEGIN:VEVENT
-UID:ddb28586-ab8e-4cba-a406-a5196375ffe8
+UID:c4610205-bb7d-40e9-a178-fa5248f81004
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập sử dụng từ ngữ\nTiết 2: Âm nhạc\nTiết 3: Công N
- ghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề
- : Báo cáo kết quả thực hiện dự án đền ơn đáp nghĩa và
-  giáo dục truyền thống quê hương ở địa phương.  \n\n🌙
-  BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Luyện tập vi
- ết đoạn văn nêu tình cảm\, cảm xúc\n★ Tiết 7: LS-ĐL – 
- Bài 13: Văn Miếu – Quốc Tử Giám \n★ Tiết 8: Toán – Bài 
- 38: Ôn tập học kì I - tiết 2
+ ện tập sử dụng từ ngữ\n★ Tiết 2: Âm nhạc – Trò chơi
+  âm nhạc: Lấy cờ khoá Son. \nNhà ga âm nhạc.\n★ Tiết 3: C
+ ông Nghệ – Bài 5: Chăm sóc hoa\, cây cảnh trong chậu - tiết
+  3\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: B
+ áo cáo kết quả thực hiện dự án đền ơn đáp nghĩa và gi
+ áo dục truyền thống quê hương ở địa phương.  \n\n🌙 BU
+ ỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Luyện tập viế
+ t đoạn văn nêu tình cảm\, cảm xúc\n★ Tiết 7: LS-ĐL – Bà
+ i 13: Văn Miếu – Quốc Tử Giám \n★ Tiết 8: Toán – Bài 38:
+  Ôn tập học kì I - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:ed2cc15a-e23d-4178-a032-27f794a54c35
+UID:87973ee5-55db-4633-95c7-7467239c8718
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251225
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1290,13 +1383,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 38: Ôn tập 
  học kì I - tiết 3\n★ Tiết 2: Tiếng Việt – Đọc: Hướng 
- dẫn tham gia cuộc thi vẽ\nTiết 3: Đạo Đức\nTiết 4: Tin H
- ọc
+ dẫn tham gia cuộc thi vẽ\n★ Tiết 3: Đạo Đức – Em tôn tr
+ ọng tài sản của người khác (tiết 3)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:bc2c3148-d47b-471c-acb6-a700ae94e848
+UID:2d7cc5c8-74bb-449a-ae7c-587e54e1e4db
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1311,9 +1404,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 38: Ôn tập
  a và giáo dục truyền thống quê hương ở địa phương.
 END:VEVENT
 BEGIN:VEVENT
-UID:b439b3d6-2d3e-42b5-8e64-ba9359b4a224
+UID:795c4269-baf8-440d-ae09-a8df35441fc8
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251229
 DTEND;VALUE=DATE:20251229
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1326,44 +1419,48 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:2e1557c9-590d-48fd-9124-fcf906a75f99
+UID:8034780b-e64c-4d74-81f1-b329a983c768
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251230
 DTEND;VALUE=DATE:20251230
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 38: Ôn tập học 
- kì I - tiết 6\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết
-  6: Tiếng Việt – Đọc: Nếu chúng mình có phép lạ\n★ Ti
- ết 7: Tiếng Việt – Đọc: mở rộng SHCLB đọc sách: Chủ 
- điểm: Những ước mơ xanh
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 17. Chăm
+  sóc cây trồng và vật nuôi - tiết 1\n★ Tiết 2: Khoa học 
+ – Bài 17. Chăm sóc cây trồng và vật nuôi - tiết 2\n★ Tiế
+ t 3: Mỹ thuật – Bài 4: Mô hình khu bảo tồn thiên nhiên\n★
+  Tiết 4: Toán – Bài 38: Ôn tập học kì I - tiết 6\n\n🌙 BU
+ ỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đ
+ ọc: Nếu chúng mình có phép lạ\n★ Tiết 7: Tiếng Việt – 
+ Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Những ước mơ 
+ xanh
 END:VEVENT
 BEGIN:VEVENT
-UID:65e6afbd-06d4-4467-8d29-dcce1c52bff8
+UID:f7b6cf38-b8bd-4fea-b558-4e2f77a0edda
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20251231
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập sử dụng từ ngữ\nTiết 2: Âm nhạc\nTiết 3: Công N
- ghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề
- : Nhận diện việc mua sắm phù hợp với khả năng tài chính 
- của bản thân và gia đình. Chia sẻ về lợi ích của việc t
- iết kiệm.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt –
-  Viết: Luyện tập viết đoạn văn nêu lí do thích một câu c
- huyện\n★ Tiết 7: LS-ĐL – Kiểm tra Học kì I\n★ Tiết 8: To
- án – Bài 38: Ôn tập học kì I - tiết 7
+ ện tập sử dụng từ ngữ\n★ Tiết 2: Âm nhạc – Tập bi
+ ểu diễn các bài hát đã học\n★ Tiết 3: Công Nghệ – Ôn 
+ tập phần 1\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo ch
+ ủ đề: Nhận diện việc mua sắm phù hợp với khả năng tà
+ i chính của bản thân và gia đình. Chia sẻ về lợi ích của
+  việc tiết kiệm.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng V
+ iệt – Viết: Luyện tập viết đoạn văn nêu lí do thích m
+ ột câu chuyện\n★ Tiết 7: LS-ĐL – Kiểm tra Học kì I\n★ T
+ iết 8: Toán – Bài 38: Ôn tập học kì I - tiết 7
 END:VEVENT
 BEGIN:VEVENT
-UID:b295b0a8-93aa-49d8-88a9-d131b486d703
+UID:8477f609-3c38-4eb9-a3d7-02fbe411efd4
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260101
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1371,12 +1468,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 38: Ôn tập 
  học kì I - tiết 8\n★ Tiết 2: Tiếng Việt – Đọc: Những g
- iai điệu gió\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ iai điệu gió\n★ Tiết 3: Đạo Đức – Ôn tập tổng hợp h
+ ọc kì I\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:220e2f7c-f484-4a4a-97bd-4040aeacd584
+UID:7c956c0b-99b2-494e-8469-605e7dec2de7
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1391,9 +1489,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 38: Ôn tập
  m gây lãng phí trong cuộc sống hằng ngày.
 END:VEVENT
 BEGIN:VEVENT
-UID:49f3bf69-6cac-4b19-a6d1-ee1aecb1c848
+UID:bac73f2e-6ffc-4460-8118-dfdbc39a2971
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260105
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1406,26 +1504,29 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  iếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:fe7d53b7-2190-41a5-89a6-a70b6aaf87a9
+UID:61a8663e-a35f-40aa-9634-b32469ec4b36
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260106
 DTEND;VALUE=DATE:20260106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 39: Thực hành và
-  trải nghiệm - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\
- n★ Tiết 6: Tiếng Việt – Đọc: Tiết 1: Ôn luyện đọc th
- ành tiếng và đọc hiểu: Con suối nhỏ\n★ Tiết 7: Tiếng Vi
- ệt – Viết: Tiết 2: - Nghe-viết: Xuân trên đảo Bạch Long V
- ĩ - Ôn luyện quy tắc viết hoa tên cơ quan\, tổ chức
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 18. Ôn t
+ ập chủ đề Thực vật và động vật \n★ Tiết 2: Khoa học
+  – Ôn tập cuối kỳ I\n★ Tiết 3: Mỹ thuật – Bài 4: Mô h
+ ình khu bảo tồn thiên nhiên\n★ Tiết 4: Toán – Bài 39: Thự
+ c hành và trải nghiệm - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: T
+ iếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Tiết 1: Ôn luyện
+  đọc thành tiếng và đọc hiểu: Con suối nhỏ\n★ Tiết 7: 
+ Tiếng Việt – Viết: Tiết 2: - Nghe-viết: Xuân trên đảo B
+ ạch Long Vĩ - Ôn luyện quy tắc viết hoa tên cơ quan\, tổ ch
+ ức
 END:VEVENT
 BEGIN:VEVENT
-UID:f472bcbe-3946-4553-a9c6-8f4edf199922
+UID:7d89d907-72fd-49f7-ad30-4c3b932a9b59
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260107
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1433,20 +1534,21 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – Nói và n
  ghe: Tiết 3: Ôn luyện Nói và nghe: : Kể lại một kỉ niệm 
- đẹp của em với gia đình\, bạn bè hoặc thầy cô giáo\nTi
- ết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4: HĐTN – Hoạt
-  động giáo dục theo chủ đề: Tìm hiểu các cách tiết kiệ
- m tiền trong gia đình. Tìm hiểu các cách so sánh giá cả của
-  hàng hóa.  \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – L
- TVC: Tiết 4: Ôn luyện từ và câu: Danh từ\, động từ\, tính
-  từ\; nhân hóa\n★ Tiết 7: LS-ĐL – Bài 14 : Thiên nhiên vùng
-  Duyên hải miền Trung (Tiết 2)\n★ Tiết 8: Toán – Bài 39: Th
+ đẹp của em với gia đình\, bạn bè hoặc thầy cô giáo\n★ 
+ Tiết 2: Âm nhạc – Tập biểu diễn các bài hát đã học\n
+ ★ Tiết 3: Công Nghệ – Kiểm tra\n★ Tiết 4: HĐTN – Hoạt 
+ động giáo dục theo chủ đề: Tìm hiểu các cách tiết kiệm
+  tiền trong gia đình. Tìm hiểu các cách so sánh giá cả của 
+ hàng hóa.  \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – LT
+ VC: Tiết 4: Ôn luyện từ và câu: Danh từ\, động từ\, tính 
+ từ\; nhân hóa\n★ Tiết 7: LS-ĐL – Bài 14 : Thiên nhiên vùng 
+ Duyên hải miền Trung (Tiết 2)\n★ Tiết 8: Toán – Bài 39: Th
  ực hành và trải nghiệm - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:613dba26-0d06-4dac-918b-ef917c66c47a
+UID:75077337-15a2-4b72-9160-8bf0bdd63250
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260108
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1455,12 +1557,13 @@ SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 39: Thực hà
  nh và trải nghiệm - tiết 3\n★ Tiết 2: Tiếng Việt – Viết
  : Tiết 5: Ôn luyện viết: Thuật lại một ngày hội được t
- ổ chức ở trường em\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ổ chức ở trường em\n★ Tiết 3: Đạo Đức – Em bảo vệ
+  của công (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:596dd08c-b166-4a13-8ad0-2aa880dd3624
+UID:4c08362f-5fa3-4c64-ad0c-6effbccff239
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260109
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1475,9 +1578,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Kiểm tra học k
  biến sử dụng trong dịp đón năm mới.
 END:VEVENT
 BEGIN:VEVENT
-UID:29f95578-973f-4117-b7d4-8179f8f63c88
+UID:d701cf6e-cc84-4745-bfd6-f170f97a3c7a
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260112
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1490,45 +1593,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  t 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:a27c6e41-bb86-4150-962a-59b827ebcf35
+UID:33397f21-a107-483b-ac1b-6acbc2267e46
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 40: Phép cộng cá
- c số tự nhiên - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng An
- h\n★ Tiết 6: Tiếng Việt – Đọc: Cuộc phiêu lưu của bồ 
- công anh\n★ Tiết 7: Tiếng Việt – Đọc: Cuộc phiêu lưu c
- ủa bồ công anh
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Kiểm tra cu
+ ối kỳ I\n★ Tiết 2: Khoa học – Bài 19. Sự đa dạng của n
+ ấm \n★ Tiết 3: Mỹ thuật – Bài 1: Tranh vẽ về biển đả
+ o Việt Nam\n★ Tiết 4: Toán – Bài 40: Phép cộng các số tự
+  nhiên - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Ti
+ ết 6: Tiếng Việt – Đọc: Cuộc phiêu lưu của bồ công anh
+ \n★ Tiết 7: Tiếng Việt – Đọc: Cuộc phiêu lưu của bồ c
+ ông anh
 END:VEVENT
 BEGIN:VEVENT
-UID:5c77cb49-3c17-430e-a3a5-70dc2b618267
+UID:23b8fa99-bf44-41cf-bd51-0174b1a0c78b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260114
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Câu
- \nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4: HĐTN – Ho
- ạt động giáo dục theo chủ đề: Thực hành so sánh một s
- ố loại hàng hóa phổ biến. Thực hành lựa chọn những mặ
- t hàng muốn mua phù hợp với khả năng tài chính của bản th
- ân và gia đình.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Vi
- ệt – Viết: Nhận diện bài văn miêu tả cây cối\n★ Tiết
-  7: LS-ĐL – Bài 15 : Dân cư và hoạt động sản xuất ở vùn
- g Duyên hải miền Trung (Tiết 1)\n★ Tiết 8: Toán – Bài 41: P
- hép trừ cá số tự nhiên - tiết 1
+ \n★ Tiết 2: Âm nhạc – Khám phá: Hình ảnh thiên nhiên và c
+ ác sinh vật biển cả. Học hát: Miền biển quê em. (Theo đi
+ ệu Lí kéo chài\, lời: Lê Vinh Phúc)\n★ Tiết 3: Công Nghệ 
+ – Bài 5: Chăm sóc hoa\, cây cảnh trong chậu - tiết 4\n★ Ti
+ ết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Thực hàn
+ h so sánh một số loại hàng hóa phổ biến. Thực hành lựa c
+ họn những mặt hàng muốn mua phù hợp với khả năng tài ch
+ ính của bản thân và gia đình.   \n\n🌙 BUỔI CHIỀU\n★ Ti
+ ết 6: Tiếng Việt – Viết: Nhận diện bài văn miêu tả cây
+  cối\n★ Tiết 7: LS-ĐL – Bài 15 : Dân cư và hoạt động s
+ ản xuất ở vùng Duyên hải miền Trung (Tiết 1)\n★ Tiết 8: 
+ Toán – Bài 41: Phép trừ cá số tự nhiên - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:5fe766a8-b592-40f5-902a-d67cb20762f8
+UID:b2ecd4cf-577d-495c-ab1d-9e9c2aa6a049
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260115
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1536,13 +1644,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 41: Phép tr
  ừ cá số tự nhiên - tiết 2\n★ Tiết 2: Tiếng Việt – Đ
- ọc: Bác sĩ của nhân dân\nTiết 3: Đạo Đức\nTiết 4: Tin H
- ọc
+ ọc: Bác sĩ của nhân dân\n★ Tiết 3: Đạo Đức – Em bảo 
+ vệ của công (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:755e388c-de58-40f0-a8ba-efadedde4df6
+UID:de6827d9-ab1c-4ecd-ba06-c8acf68ef964
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260116
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1558,9 +1666,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 42: Tìm hai s
  sắm trong dịp Tết.
 END:VEVENT
 BEGIN:VEVENT
-UID:1f29a5d0-69f7-49aa-82f5-5e03cd4032b3
+UID:0f41ce13-1410-4bbf-9553-cb3c63d69bbb
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260119
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1574,44 +1682,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  \nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:1f0b4c7a-12df-44cd-8c52-2a1ea2656aad
+UID:5d4281d4-b9ce-4970-b239-d970c5cfcd69
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 43: Em làm được
-  những gì? - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n
- ★ Tiết 6: Tiếng Việt – Đọc: Xôn xao mùa hè\n★ Tiết 7: 
- Tiếng Việt – Đọc: mở rộng SHCLB đọc sách: Chủ điểm: 
- Cuộc sống mến yêu
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 20. Nấm
+  ăn và nấm men trong đời sống - tiết 1 \n★ Tiết 2: Khoa h
+ ọc – Bài 20. Nấm ăn và nấm men trong đời sống - tiết 2 \
+ n★ Tiết 3: Mỹ thuật – Bài 1: Tranh vẽ về biển đảo Vi
+ ệt Nam\n★ Tiết 4: Toán – Bài 43: Em làm được những gì? -
+  tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Ti
+ ếng Việt – Đọc: Xôn xao mùa hè\n★ Tiết 7: Tiếng Việt 
+ – Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Cuộc sống m
+ ến yêu
 END:VEVENT
 BEGIN:VEVENT
-UID:7ced661f-6377-40b4-8d5e-34f18159b79e
+UID:35b33f84-8871-473c-b103-76afee3a4dd3
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Thà
- nh phần chính của câu\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\
- n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Lậ
- p kế hoạch mua sắm đồ dùng cần thiết cho cá nhân. Làm s
- ổ theo dõi chi tiêu của bản thân.  \n\n🌙 BUỔI CHIỀU\n★ 
- Tiết 6: Tiếng Việt – Viết: Lập dàn ý cho bài văn tả cây
-  cối\n★ Tiết 7: LS-ĐL – Bài 15 : Dân cư và hoạt động s
- ản xuất ở vùng Duyên hải miền Trung (Tiết 3)\n★ Tiết 8: 
- Toán – Bài 43: Em làm được những gì? - tiết 2
+ nh phần chính của câu\n★ Tiết 2: Âm nhạc – Ôn bài hát: M
+ iền biển quê em. \nNhạc cụ:\nHướng dẫn làm nhạc cụ cast
+ anet bằng vỏ nghêu. \n★ Tiết 3: Công Nghệ – Dự án: Em tr
+ ồng hoa trang trí lớp\n★ Tiết 4: HĐTN – Hoạt động giáo d
+ ục theo chủ đề: Lập kế hoạch mua sắm đồ dùng cần thi
+ ết cho cá nhân. Làm sổ theo dõi chi tiêu của bản thân.  \n\
+ n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Lập dàn 
+ ý cho bài văn tả cây cối\n★ Tiết 7: LS-ĐL – Bài 15 : Dân 
+ cư và hoạt động sản xuất ở vùng Duyên hải miền Trung (T
+ iết 3)\n★ Tiết 8: Toán – Bài 43: Em làm được những gì? -
+  tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:f245a7f3-314c-49d5-b432-c5f145fc3d59
+UID:36d9bc0c-5fe8-4daa-a091-9349f927960c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1619,12 +1733,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 44: Nhân vớ
  i số có một chữ số \n★ Tiết 2: Tiếng Việt – Đọc: Tro
- ng ánh bình minh\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ng ánh bình minh\n★ Tiết 3: Đạo Đức – Em bảo vệ của c
+ ông (tiết 3)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:6072bb19-fa2d-41e7-857a-b798268d989e
+UID:516a5ada-de20-488c-913a-d1e5309eaa08
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260123
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1639,9 +1754,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 45: Nhân vớ
  hoạt lớp: Chơi trò chơi “Đi siêu thị”.
 END:VEVENT
 BEGIN:VEVENT
-UID:69204a78-18e1-45ba-8588-94bcf6efd452
+UID:e1351cf3-553a-487a-b725-4c8ca95845f4
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260126
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1654,45 +1769,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  ết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:8fbb0ede-afd4-49fe-bdea-7549b58db197
+UID:088c5c36-7b53-4971-ad9e-c2078c0a6658
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260127
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 47: Nhân với số
-  có hai chữ số - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng A
- nh\n★ Tiết 6: Tiếng Việt – Đọc: Điều ước của vua Mi-
- đát\n★ Tiết 7: Tiếng Việt – Đọc: Điều ước của vua M
- i-đát
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 21.  N
+ ấm có hại và cách bảo quản thực phẩm - tiết 1 \n★ Tiế
+ t 2: Khoa học – Bài 21.  Nấm có hại và cách bảo quản th
+ ực phẩm - tiết 2  \n★ Tiết 3: Mỹ thuật – Bài 2: Nhân v
+ ật với trang phục dân tộc\n★ Tiết 4: Toán – Bài 47: Nhân
+  với số có hai chữ số - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6
+ : Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Điều ước c
+ ủa vua Mi-đát\n★ Tiết 7: Tiếng Việt – Đọc: Điều ước
+  của vua Mi-đát
 END:VEVENT
 BEGIN:VEVENT
-UID:e2262537-b38a-4db6-8d1d-284083d0793f
+UID:ea17d4a4-53b7-44a1-9837-07c1ea510497
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260128
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về chủ ngữ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\
- n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nh
- ận diện những việc làm thể hiện sinh hoạt nền nếp. Tìm
-  hiểu cách thực hiện sinh hoạt nền nếp ở nhà\, ở trườ
- ng.  \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Vi
- ết: đoạn văn cho bài văn miêu tả cây cối\n★ Tiết 7: LS-
- ĐL – Bài 16 : Một số nét văn hóa ở vùng Duyên hải miền 
- Trung (Tiết 2)\n★ Tiết 8: Toán – Bài 47: Nhân với số có ha
- i chữ số - tiết 2
+ ện tập về chủ ngữ\n★ Tiết 2: Âm nhạc – Lí thuyết âm
+  nhạc:\n Một số kí hiệu ghi chép nhạc.\n★ Tiết 3: Công Ng
+ hệ – Bài 6: Bộ lắp ghép mô hình kĩ thuật - tiết 1\n★ Ti
+ ết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nhận di
+ ện những việc làm thể hiện sinh hoạt nền nếp. Tìm hiểu
+  cách thực hiện sinh hoạt nền nếp ở nhà\, ở trường.  \
+ n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Viết: 
+ đoạn văn cho bài văn miêu tả cây cối\n★ Tiết 7: LS-ĐL –
+  Bài 16 : Một số nét văn hóa ở vùng Duyên hải miền Trung (
+ Tiết 2)\n★ Tiết 8: Toán – Bài 47: Nhân với số có hai chữ
+  số - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:38c5c4e5-9497-4c4f-97ea-c9dc1a45120d
+UID:16db0663-5333-428d-a4aa-8ff03ad6ead3
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1700,12 +1820,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 48: Em làm đ
  ược những gì? - tiết 1\n★ Tiết 2: Tiếng Việt – Đọc: M
- ón ngon mùa nước nổi\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ón ngon mùa nước nổi\n★ Tiết 3: Đạo Đức – Em thiết l
+ ập quan hệ bạn bè (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:f287bf05-cde1-4c9d-88e0-9d6a0783c01a
+UID:ebcde12a-a310-451c-81df-3c830030e79f
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1720,9 +1841,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 48: Em làm đ
  n nếp sinh hoạt ở trường.
 END:VEVENT
 BEGIN:VEVENT
-UID:348ede88-8bb2-45a6-8840-7edb85dda561
+UID:63015dfb-2aa9-429b-907f-cdc311b26a87
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260202
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1735,44 +1856,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:3ee92cbf-7e38-451b-afdf-a632ba9a5b7c
+UID:c117fb3a-4385-4a9b-af15-bc425442a7be
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 50: Chia hai số c
- ó tận cùng là chữ số 0\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng 
- Anh\n★ Tiết 6: Tiếng Việt – Đọc: Bè xuôi Sông La\n★ Ti
- ết 7: Tiếng Việt – Đọc: mở rộng SHCLB đọc sách: Chủ 
- điểm: Cuộc sống mến yêu
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 21.  N
+ ấm có hại và cách bảo quản thực phẩm - tiết 3 \n★ Tiế
+ t 2: Khoa học – Bài 22. Ôn tập chủ đề Nấm  \n★ Tiết 3:
+  Mỹ thuật – Bài 2: Nhân vật với trang phục dân tộc\n★ T
+ iết 4: Toán – Bài 50: Chia hai số có tận cùng là chữ số 0
+ \n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Vi
+ ệt – Đọc: Bè xuôi Sông La\n★ Tiết 7: Tiếng Việt – Đ
+ ọc: mở rộng SHCLB đọc sách: Chủ điểm: Cuộc sống mến y
+ êu
 END:VEVENT
 BEGIN:VEVENT
-UID:e9e67a8b-fde8-4222-922a-c1203c97dceb
+UID:d8a25b3e-f2f5-4ae9-9f29-85fa48bb8471
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về vị ngữ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n
- ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Nhậ
- n diện các biểu hiện của tư duy khoa học. Xác định cách r
- èn luyện tư duy khoa học để phát triển bản thân  \n\n🌙 
- BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Viết: bài văn
-  miêu tả cây cối\n★ Tiết 7: LS-ĐL – Bài 17: Cố đô Huế 
- (Tiết 2)\n★ Tiết 8: Toán – Bài 51: Ước lượng thương tron
- g phép chia - tiết 1
+ ện tập về vị ngữ\n★ Tiết 2: Âm nhạc – Thường thức 
+ âm nhạc:\n Câu chuyện âm nhạc Nàng Tiên cá và giọng hát di
+ ệu kì.\nNhà ga âm nhạc.\n★ Tiết 3: Công Nghệ – Bài 6: B
+ ộ lắp ghép mô hình kĩ thuật - tiết 2\n★ Tiết 4: HĐTN – 
+ Hoạt động giáo dục theo chủ đề: Nhận diện các biểu hi
+ ện của tư duy khoa học. Xác định cách rèn luyện tư duy kho
+ a học để phát triển bản thân  \n\n🌙 BUỔI CHIỀU\n★ Ti
+ ết 6: Tiếng Việt – Viết: Viết: bài văn miêu tả cây cối
+ \n★ Tiết 7: LS-ĐL – Bài 17: Cố đô Huế (Tiết 2)\n★ Tiết
+  8: Toán – Bài 51: Ước lượng thương trong phép chia - tiết 
+ 1
 END:VEVENT
 BEGIN:VEVENT
-UID:63f80eb4-ac1e-4839-80f4-1bca97b78ab0
+UID:561c3fba-4304-4848-8283-56f57e4cd28a
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1780,13 +1907,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 51: Ước lư
  ợng thương trong phép chia - tiết 2\n★ Tiết 2: Tiếng Việt 
- – Đọc: Mùa hoa phố Hội\nTiết 3: Đạo Đức\nTiết 4: Tin H
- ọc
+ – Đọc: Mùa hoa phố Hội\n★ Tiết 3: Đạo Đức – Em thi
+ ết lập quan hệ bạn bè (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:717e5ec3-b2c9-4fb8-99c3-d2bb059333d7
+UID:02a728ce-18dd-43b3-98c0-ab05adb39a82
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260206
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1801,9 +1928,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 52: Chia cho s
  định nền nếp sinh hoạt ở trường.
 END:VEVENT
 BEGIN:VEVENT
-UID:71d0c40a-ff4f-42ed-9d68-08ac1c555f3c
+UID:4adecb37-6e75-4b45-bbfd-44bbd99c04d3
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1816,44 +1943,49 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  ng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:152b68f9-2f67-48c1-849b-9e7425e1dce3
+UID:9f905944-176d-43c6-bbad-53476c844f08
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260210
 DTEND;VALUE=DATE:20260210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 52: Chia cho số c
- ó hai chữ số - tiết 3\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh
- \n★ Tiết 6: Tiếng Việt – Đọc: Sự tích bánh chưng\, bánh
-  giầy\n★ Tiết 7: Tiếng Việt – Đọc: Sự tích bánh chưng\
- , bánh giầy
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 23. Các 
+ nhóm chất dinh dưỡng có trong thức ăn - tiết 1\n★ Tiết 2: 
+ Khoa học – Bài 23. Các nhóm chất dinh dưỡng có trong thức 
+ ăn - tiết 2\n★ Tiết 3: Mỹ thuật – Bài 3: Món ăn truyền t
+ hống\n★ Tiết 4: Toán – Bài 52: Chia cho số có hai chữ số 
+ - tiết 3\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Ti
+ ếng Việt – Đọc: Sự tích bánh chưng\, bánh giầy\n★ Tiế
+ t 7: Tiếng Việt – Đọc: Sự tích bánh chưng\, bánh giầy
 END:VEVENT
 BEGIN:VEVENT
-UID:5c303350-939c-408c-a4cb-74ca4971caa2
+UID:76a1a17b-c197-4be8-8f30-b843c8bc813b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về vị ngữ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n
- ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Thự
- c hành lập sơ đồ tư duy\, rèn luyện thói quen tư duy khoa h
- ọc. Thực hành giải quyết vấn đề.  \n\n🌙 BUỔI CHIỀU\n
- ★ Tiết 6: Tiếng Việt – Viết: Luyện tập lập dàn ý cho b
- ài văn miêu tả cây cối\n★ Tiết 7: LS-ĐL – Bài 18: Phố c
- ổ Hội An (Tiết 2)\n★ Tiết 8: Toán – Bài 52: Chia cho số c
- ó hai chữ số - tiết 4
+ ện tập về vị ngữ\n★ Tiết 2: Âm nhạc – Khám phá: Hình
+  ảnh chiếc đồng hồ khổng lồ.\nHọc hát: Đồng hồ của 
+ ông tôi. (Nhạc: Henry Work\, lời Việt: Trịnh Mai Trang)\n★ Ti
+ ết 3: Công Nghệ – Bài 7: Em lắp ghép mô hình kĩ thuật - ti
+ ết 1\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đ
+ ề: Thực hành lập sơ đồ tư duy\, rèn luyện thói quen tư du
+ y khoa học. Thực hành giải quyết vấn đề.  \n\n🌙 BUỔI C
+ HIỀU\n★ Tiết 6: Tiếng Việt – Viết: Luyện tập lập dàn 
+ ý cho bài văn miêu tả cây cối\n★ Tiết 7: LS-ĐL – Bài 18: 
+ Phố cổ Hội An (Tiết 2)\n★ Tiết 8: Toán – Bài 52: Chia cho 
+ số có hai chữ số - tiết 4
 END:VEVENT
 BEGIN:VEVENT
-UID:6683478d-4b62-40d4-b821-5b83577ebc1c
+UID:91699402-88c9-429d-b914-e29eb86f0157
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1861,12 +1993,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 53: Em làm đ
  ược những gì? - tiết 1\n★ Tiết 2: Tiếng Việt – Đọc: 
- Độc đáo Tháp Chăm\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ Độc đáo Tháp Chăm\n★ Tiết 3: Đạo Đức – Em thiết lập
+  quan hệ bạn bè (tiết 3)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:538573ef-cf09-4d65-ba52-cdd07f5063ca
+UID:2dfb2e2c-ea87-43d4-964b-395edfeb30cc
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260213
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1881,9 +2014,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 53: Em làm đ
  thói quen tư duy khoa học.
 END:VEVENT
 BEGIN:VEVENT
-UID:b3aad9f4-fdc9-4fb9-92dc-ab55735b748a
+UID:47e2ea9d-a450-4c12-9784-965973a92b32
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260216
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1896,45 +2029,51 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  TC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:ab607508-e835-482b-b4c9-16eee63a8e47
+UID:30af3e27-0e2a-40c1-86cd-0170c056e854
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 54: Hình bình hàn
- h - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: 
- Tiếng Việt – Đọc: Dòng sông mặc áo\n★ Tiết 7: Tiếng Vi
- ệt – Đọc: mở rộng SHCLB đọc sách\; Chủ điểm: Việt Na
- m quê hương em
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 24. Giá 
+ trị dinh dưỡng có trong thức ăn - tiết 1\n★ Tiết 2: Khoa h
+ ọc – Bài 24. Giá trị dinh dưỡng có trong thức ăn - tiết 2
+ \n★ Tiết 3: Mỹ thuật – Bài 3: Món ăn truyền thống\n★ Ti
+ ết 4: Toán – Bài 54: Hình bình hành - tiết 2\n\n🌙 BUỔI CHI
+ ỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Dòn
+ g sông mặc áo\n★ Tiết 7: Tiếng Việt – Đọc: mở rộng SH
+ CLB đọc sách\; Chủ điểm: Việt Nam quê hương em
 END:VEVENT
 BEGIN:VEVENT
-UID:605b95a6-182c-4f12-a208-889e5f83f5f2
+UID:e02724da-e42a-4401-9af7-a7e28d87c1de
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về thành phần chính của câu\nTiết 2: Âm nhạc\nTi
- ết 3: Công Nghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục t
- heo chủ đề: Nhận diện những việc làm gắn kết yêu thươ
- ng trong gia đình. Xác định một số cách tạo dựng sự gắn
-  kết yêu thương giữa những người thân trong gia đình   \n\
- n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Luyện t
- ập viết đoạn văn cho bài văn miêu tả cây cối\n★ Tiết 7
- : LS-ĐL – Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 2)\n★ Ti
- ết 8: Toán – Bài 55: Hình thoi - tiết 1
+ ện tập về thành phần chính của câu\n★ Tiết 2: Âm nhạc 
+ – Ôn hát: Đồng hồ của ông tôi. \nNhạc cụ tiết tấu: Tr
+ iangle.\nNhạc cụ giai điệu: Recorder:  Thế bấm nốt La - Bài 
+ thực hành số 2. \nKèn phím: Giới thiệu phím Rê - Bài thực 
+ hành số 2. \n★ Tiết 3: Công Nghệ – Bài 7: Em lắp ghép mô 
+ hình kĩ thuật - tiết 2\n★ Tiết 4: HĐTN – Hoạt động giáo
+  dục theo chủ đề: Nhận diện những việc làm gắn kết yê
+ u thương trong gia đình. Xác định một số cách tạo dựng s
+ ự gắn kết yêu thương giữa những người thân trong gia đì
+ nh   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Lu
+ yện tập viết đoạn văn cho bài văn miêu tả cây cối\n★ T
+ iết 7: LS-ĐL – Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 2)\n
+ ★ Tiết 8: Toán – Bài 55: Hình thoi - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:e69b018a-61c1-4d33-82ad-3e990f4f3946
+UID:4d89f0e2-eb6f-413e-a24d-41200e2abff5
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1942,12 +2081,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 55: Hình thoi
   - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: Buổi sáng ở Hò
- n Gai\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ n Gai\n★ Tiết 3: Đạo Đức – Em duy trì quan hệ bạn bè (ti
+ ết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:8ec1b092-088b-4336-92b3-bdd1f18e2d1a
+UID:f417fc27-0cab-4214-944b-46cbd31bd982
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260220
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1962,9 +2102,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 56: Xếp hìn
   thương với những người trong gia đình.
 END:VEVENT
 BEGIN:VEVENT
-UID:a5bfaf69-c4b5-4629-a916-73ba8492341f
+UID:a1feac21-0125-4f91-a60c-bff0cbddfdd0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260223
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1977,45 +2117,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
   Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:34e679a9-0bf8-4f14-b938-c8f9739388a5
+UID:90416dad-c5a6-46c9-9762-af7a3145f2a8
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 56: Xếp hình\, v
- ẽ hình - tiết 3\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Ti
- ết 6: Tiếng Việt – Đọc: Hoa cúc áo\n★ Tiết 7: Tiếng Vi
- ệt – Đọc: Hoa cúc áo
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 25.  Ăn
+ \, uống khoa học để cơ thể khoẻ mạnh - tiết 1\n★ Tiết 
+ 2: Khoa học – Bài 25.  Ăn\, uống khoa học để cơ thể kho
+ ẻ mạnh - tiết 2\n★ Tiết 3: Mỹ thuật – Bài 1: Tạo hình 
+ của nhà rông\n★ Tiết 4: Toán – Bài 56: Xếp hình\, vẽ hìn
+ h - tiết 3\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: 
+ Tiếng Việt – Đọc: Hoa cúc áo\n★ Tiết 7: Tiếng Việt – 
+ Đọc: Hoa cúc áo
 END:VEVENT
 BEGIN:VEVENT
-UID:72f714e2-e3b8-4f4b-9b3c-3f8c66f7de67
+UID:a940132d-0525-4be8-aa34-fe358c7f2f41
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260225
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Luy
- ện tập về câu chủ đề\nTiết 2: Âm nhạc\nTiết 3: Công Ng
- hệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề:
-  Lập kế hoạch thực hiện những việc làm tạo sự gắn k
- ết yêu thương với những người thân trong gia đình. Thực h
- ành thể hiện sự gắn kết yêu thương với những người th
- ân trong gia đình\n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt 
- – Viết: Luyện tập viết đoạn văn nêu tình cảm\, cảm xú
- c\n★ Tiết 7: LS-ĐL – Bài 20: Dân cư và hoạt động sản xu
- ất ở vùng Tây Nguyên  (Tiết 1)\n★ Tiết 8: Toán – Bài 57:
-  Mi-li-mét vuông - tiết 1
+ ện tập về câu chủ đề\n★ Tiết 2: Âm nhạc – Đọc nh
+ ạc: Đọc gam Đô trưởng. Thực hành đọc nhạc Bài đọc nh
+ ạc số 3.\n★ Tiết 3: Công Nghệ – Bài 7: Em lắp ghép mô h
+ ình kĩ thuật - tiết 3\n★ Tiết 4: HĐTN – Hoạt động giáo 
+ dục theo chủ đề: Lập kế hoạch thực hiện những việc l
+ àm tạo sự gắn kết yêu thương với những người thân tron
+ g gia đình. Thực hành thể hiện sự gắn kết yêu thương v
+ ới những người thân trong gia đình\n\n🌙 BUỔI CHIỀU\n★ T
+ iết 6: Tiếng Việt – Viết: Luyện tập viết đoạn văn nêu
+  tình cảm\, cảm xúc\n★ Tiết 7: LS-ĐL – Bài 20: Dân cư và 
+ hoạt động sản xuất ở vùng Tây Nguyên  (Tiết 1)\n★ Tiế
+ t 8: Toán – Bài 57: Mi-li-mét vuông - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:aff2ef15-e1b5-4398-847c-32975f7173e8
+UID:a35ac88c-bd2f-43cf-8c39-d9085674e56c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2023,12 +2168,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 57: Mi-li-mét
   vuông - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: Một kì qua
- n thế giới\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ n thế giới\n★ Tiết 3: Đạo Đức – Em duy trì quan hệ bạ
+ n bè (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:cec74933-e876-448f-a10f-be584783d683
+UID:c4bd1c12-c084-4a52-a4e2-63185ffb17b0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260227
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2045,9 +2191,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 58: Em làm đ
  những người thân trong gia đình.
 END:VEVENT
 BEGIN:VEVENT
-UID:90952e6b-12a8-4a1f-afc1-27f1b46deadd
+UID:2a427e99-2144-4a12-bf1f-e9689629cfd9
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260302
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2060,45 +2206,49 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  ỀU\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:a9c8afe2-5ad1-4a4d-9364-5080e38b1577
+UID:c449e7bd-e197-40af-a4bc-0d506fbfe510
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260303
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 59: Thực hành và
-  trải nghiệm - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\
- n★ Tiết 6: Tiếng Việt – Đọc: Chợ Tết\n★ Tiết 7: Tiế
- ng Việt – Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Việ
- t Nam quê hương em
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 25.  Ăn
+ \, uống khoa học để cơ thể khoẻ mạnh - tiết 3\n★ Tiết 
+ 2: Khoa học – Bài 26. Thực phẩm an toàn - tiết 1  \n★ Tiế
+ t 3: Mỹ thuật – Bài 1: Tạo hình của nhà rông\n★ Tiết 4: 
+ Toán – Bài 59: Thực hành và trải nghiệm - tiết 1\n\n🌙 BU
+ ỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đ
+ ọc: Chợ Tết\n★ Tiết 7: Tiếng Việt – Đọc: mở rộng SH
+ CLB đọc sách: Chủ điểm: Việt Nam quê hương em
 END:VEVENT
 BEGIN:VEVENT
-UID:0f8ea038-0a7e-4066-a6be-91c6ef4a3a8c
+UID:afdc1387-982d-4afd-9788-d1be76b3cdfa
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260304
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Dấ
- u gạch ngang\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4
- : HĐTN – Hoạt động giáo dục theo chủ đề: Chia sẻ cảm x
- úc\, suy nghĩ trong ứng xử với các thành viên trong gia đình.
-  Tìm hiểu khả năng điều chỉnh cảm xúc\, suy nghĩ của bả
- n thân với các thành viên trong gia đình.   \n\n🌙 BUỔI CHI
- ỀU\n★ Tiết 6: Tiếng Việt – Viết: Trả bài văn miêu tả 
- cây cối\n★ Tiết 7: LS-ĐL – Bài 20: Dân cư và hoạt động 
- sản xuất ở vùng Tây Nguyên (Tiết 3) \n★ Tiết 8: Toán – B
- ài 59: Thực hành và trải nghiệm - tiết 2
+ u gạch ngang\n★ Tiết 2: Âm nhạc – Ôn hát: Đồng hồ của 
+ ông tôi. \nNhà ga âm nhạc.\n★ Tiết 3: Công Nghệ – Bài 7: E
+ m lắp ghép mô hình kĩ thuật - tiết 4\n★ Tiết 4: HĐTN – Ho
+ ạt động giáo dục theo chủ đề: Chia sẻ cảm xúc\, suy ngh
+ ĩ trong ứng xử với các thành viên trong gia đình. Tìm hiểu 
+ khả năng điều chỉnh cảm xúc\, suy nghĩ của bản thân với
+  các thành viên trong gia đình.   \n\n🌙 BUỔI CHIỀU\n★ Tiế
+ t 6: Tiếng Việt – Viết: Trả bài văn miêu tả cây cối\n★
+  Tiết 7: LS-ĐL – Bài 20: Dân cư và hoạt động sản xuất 
+ ở vùng Tây Nguyên (Tiết 3) \n★ Tiết 8: Toán – Bài 59: Thự
+ c hành và trải nghiệm - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:ce981301-2cd3-4df4-ac42-8e9407fe1fa6
+UID:d49647c4-9543-43ad-9afc-900877d9df4b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260305
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2106,12 +2256,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Kiểm tra giữa h
  ọc kì II\n★ Tiết 2: Tiếng Việt – Đọc: Về lại Gò Công
- \nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ \n★ Tiết 3: Đạo Đức – Em duy trì quan hệ bạn bè (tiết 
+ 3)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:cbfe66bf-0a53-41c0-a521-1ca21d64f742
+UID:6ba40f17-e1a4-4da3-b327-3649bbe99c52
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260306
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2126,9 +2277,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 60: Phân số
   chơi “Mảnh ghép bí ẩn”.
 END:VEVENT
 BEGIN:VEVENT
-UID:556dc85d-0050-4a9f-af7c-406f9f1038af
+UID:1a437803-2524-4440-88c8-f2fe2b837631
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260309
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2141,26 +2292,29 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:c1c6da7d-b1ae-4a08-87c9-766ab44ce1ea
+UID:76419e64-f29b-422b-9ab1-8bdbc01fc753
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260310
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 61: Phân số và p
- hép chia số tự nhiên - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Ti
- ếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Tiết 1: Ôn luyện 
- đọc thành tiếng và đọc hiểu: Leng keng Đà Lạt\n★ Tiết 
- 7: Tiếng Việt – Viết: Tiết 2: -Nghe - viết: Nha Trang - Ôn lu
- yện quy tắc viết hoa tên cơ quan\, tổ chức
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 26. Thự
+ c phẩm an toàn - tiết 2  \n★ Tiết 2: Khoa học – Bài 27.  M
+ ột số bệnh liên quan đến dinh dưỡng - tiết 1\n★ Tiết 3:
+  Mỹ thuật – Bài 2: Hoạt cảnh với nhân vật 3D\n★ Tiết 4
+ : Toán – Bài 61: Phân số và phép chia số tự nhiên - tiết 1
+ \n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Vi
+ ệt – Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọc hi
+ ểu: Leng keng Đà Lạt\n★ Tiết 7: Tiếng Việt – Viết: Tiế
+ t 2: -Nghe - viết: Nha Trang - Ôn luyện quy tắc viết hoa tên cơ
+  quan\, tổ chức
 END:VEVENT
 BEGIN:VEVENT
-UID:6a5c3395-af9b-4175-9473-33d0e0b60abc
+UID:a5e9a1ed-5525-4b7a-856f-02e515559b77
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260311
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2168,23 +2322,25 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – Nói và n
  ghe: Tiết 3: Ôn luyện Nói và nghe: : Nói những điều em thấy
-  yêu thích về trường\, lớp mình\nTiết 2: Âm nhạc\nTiết 3:
-  Công Nghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo ch
- ủ đề: Giao lưu với đại diện cha mẹ HS về việc điều c
- hỉnh cảm xúc\, suy nghĩ của bản thân.  Thực hành thể hi
- ện sự điều chỉnh cảm xúc\, suy nghĩ của bản thân với c
- ác thành viên trong gia đình. \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: 
- Tiếng Việt – LTVC: Tiết 4: Ôn luyện từ và câu: Câu chủ 
- đề\; thành phần chính của câu\; lựa chọn\, sử dụng từ 
- ngữ\; dấu gạch ngang\n★ Tiết 7: LS-ĐL – Bài 21: Một số n
- ét văn hóa và lịch sử của đồng bào Tây Nguyên (Tiết 2)\n
- ★ Tiết 8: Toán – Bài 61: Phân số và phép chia số tự nhiê
- n - tiết 2
+  yêu thích về trường\, lớp mình\n★ Tiết 2: Âm nhạc – Kh
+ ám phá hình ảnh chú Cuội\, ông Bụt\, sự tích trầu cau.\nH
+ ọc hát: Về miền cổ tích\n (Nhạc và lời: Lê Phú Hải)\n
+ ★ Tiết 3: Công Nghệ – Bài 8: Đồ chơi dân gian - tiết 1\n
+ ★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Giao 
+ lưu với đại diện cha mẹ HS về việc điều chỉnh cảm xú
+ c\, suy nghĩ của bản thân.  Thực hành thể hiện sự điều 
+ chỉnh cảm xúc\, suy nghĩ của bản thân với các thành viên t
+ rong gia đình. \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt –
+  LTVC: Tiết 4: Ôn luyện từ và câu: Câu chủ đề\; thành ph
+ ần chính của câu\; lựa chọn\, sử dụng từ ngữ\; dấu g
+ ạch ngang\n★ Tiết 7: LS-ĐL – Bài 21: Một số nét văn hóa v
+ à lịch sử của đồng bào Tây Nguyên (Tiết 2)\n★ Tiết 8: T
+ oán – Bài 61: Phân số và phép chia số tự nhiên - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:d4861f55-5863-4b64-bebe-78b6e7e920d4
+UID:7aee9be9-47bf-4e48-9d11-e3e7a9dc38ef
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260312
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2193,12 +2349,13 @@ SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 62: Phân số
   bằng nhau - tiết 1\n★ Tiết 2: Tiếng Việt – Viết: Tiết 5
  : Ôn luyện viết: Viết: bài văn tả một cây ăn quả mà em t
- hích\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ hích\n★ Tiết 3: Đạo Đức – Em quý trọng đồng tiền (ti
+ ết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:21cf6fcc-21d1-4195-b8c3-1a4fe1dad325
+UID:5694c6ff-3366-404c-bf70-1d4384e530d7
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260313
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2213,9 +2370,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 62: Phân số
  uý trọng phụ nữ”.
 END:VEVENT
 BEGIN:VEVENT
-UID:3ad022fb-6817-43ba-8a66-6ab19e921d15
+UID:7494c1e2-eb0d-4306-a54f-82f2b333add7
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260316
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2228,44 +2385,49 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  iết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:85753289-d6f2-43e9-bdc8-a30664bba015
+UID:78aa6f28-d20f-4625-b07e-62f550feaad9
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260317
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 63: Rút gọn phân
-  số - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết
-  6: Tiếng Việt – Đọc: Cậu bé gặt gió\n★ Tiết 7: Tiếng
-  Việt – Đọc: Cậu bé gặt gió
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 27.  M
+ ột số bệnh liên quan đến dinh dưỡng - tiết 2\n★ Tiết 2:
+  Khoa học – Bài 28. Phòng tránh đuối nước- tiết 1\n★ Ti
+ ết 3: Mỹ thuật – Bài 2: Hoạt cảnh với nhân vật 3D\n★ T
+ iết 4: Toán – Bài 63: Rút gọn phân số - tiết 2\n\n🌙 BUỔ
+ I CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc:
+  Cậu bé gặt gió\n★ Tiết 7: Tiếng Việt – Đọc: Cậu bé 
+ gặt gió
 END:VEVENT
 BEGIN:VEVENT
-UID:ce77e8d9-cba7-49cc-82d2-b46a650558bb
+UID:e43f35b9-895b-4fdf-804f-b61cdb16b435
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260318
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Dấ
- u ngoặc kép\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4
- : HĐTN – Hoạt động giáo dục theo chủ đề: Chơi trò chơi 
- “Trồng cây”. Chia sẻ hiểu biết của em về những cảnh q
- uan thiên nhiên ở địa phương.  Xây dựng kế hoạch tham qua
- n và chăm sóc cảnh quan thiên nhiên ở địa phương  \n\n🌙 
- BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Nhận diện bà
- i văn miêu tả con vật\n★ Tiết 7: LS-ĐL – Bài 22: Lễ hội 
- Cồng chiêng Tây Nguyên\n★ Tiết 8: Toán – Bài 64: Em làm đư
- ợc những gì? - tiết 1
+ u ngoặc kép\n★ Tiết 2: Âm nhạc – Ôn bài hát: Về miền c
+ ổ tích.\nNghe nhạc: Vườn cổ tích.\n★ Tiết 3: Công Nghệ 
+ – Bài 8: Đồ chơi dân gian - tiết 2\n★ Tiết 4: HĐTN – Ho
+ ạt động giáo dục theo chủ đề: Chơi trò chơi “Trồng câ
+ y”. Chia sẻ hiểu biết của em về những cảnh quan thiên nhi
+ ên ở địa phương.  Xây dựng kế hoạch tham quan và chăm s
+ óc cảnh quan thiên nhiên ở địa phương  \n\n🌙 BUỔI CHIỀ
+ U\n★ Tiết 6: Tiếng Việt – Viết: Nhận diện bài văn miêu 
+ tả con vật\n★ Tiết 7: LS-ĐL – Bài 22: Lễ hội Cồng chiên
+ g Tây Nguyên\n★ Tiết 8: Toán – Bài 64: Em làm được những 
+ gì? - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:dc8fc12a-828b-4b74-8ac2-8ea5e12507e5
+UID:c39e36f1-3d2a-41fc-95b5-ac3b5ad45d16
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260319
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2273,13 +2435,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 64: Em làm đ
  ược những gì? - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: K
- ì lạ thế giới thực vật ở Nam Mỹ\nTiết 3: Đạo Đức\nT
- iết 4: Tin Học
+ ì lạ thế giới thực vật ở Nam Mỹ\n★ Tiết 3: Đạo Đứ
+ c – Em quý trọng đồng tiền (tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:30fbda80-a506-4138-9a83-4c42c581b9fd
+UID:2e0fc14d-5761-4eda-bd3b-a4313a8aba3b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260320
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2294,9 +2456,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 65: Quy đồn
  h cá nhân về chuyến tham quan.
 END:VEVENT
 BEGIN:VEVENT
-UID:3bd2dd54-a6dd-4747-b55c-a6cd379bb786
+UID:9d5af8b2-5210-4bc6-a1a7-ed5e259a7255
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260323
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2309,32 +2471,37 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  iết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:50564b57-dbdb-43c3-a7b8-c22fbc0c87c6
+UID:6490f88a-aafc-4d69-b4ea-9c4105530f05
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260324
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 66: So sánh hai ph
- ân số - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Ti
- ết 6: Tiếng Việt – Đọc: Từ Cu-ba\n★ Tiết 7: Tiếng Việ
- t – Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Thế giới 
- quanh ta
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 28. Phòn
+ g tránh đuối nước- tiết 2\n★ Tiết 2: Khoa học – Bài 28. 
+ Phòng tránh đuối nước- tiết 3\n★ Tiết 3: Mỹ thuật – B
+ ài 3: Tranh vẽ hoạt động vì cộng đồng\n★ Tiết 4: Toán 
+ – Bài 66: So sánh hai phân số - tiết 1\n\n🌙 BUỔI CHIỀU\nTi
+ ết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Từ Cu-ba\n
+ ★ Tiết 7: Tiếng Việt – Đọc: mở rộng SHCLB đọc sách: C
+ hủ điểm: Thế giới quanh ta
 END:VEVENT
 BEGIN:VEVENT
-UID:4a0be139-eed5-48ec-b5d9-2db4b6bce621
+UID:2c966f03-67e3-4bbf-b6c7-72541903ce5c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260325
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Dấ
- u ngoặc đơn\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 
+ u ngoặc đơn\n★ Tiết 2: Âm nhạc – Nhạc cụ Recorder:\n + Th
+ ế bấm nốt Son.\n + Bài thực hành số 3.\n Nhạc cụ Kèn phí
+ m: \n+ Giới thiệu phím Mi. \n+ Bài thực hành số 3. \n★ Tiết
+  3: Công Nghệ – Bài 9: Em làm diều giấy - tiết 1\n★ Tiết 
  4: HĐTN – Hoạt động giáo dục theo chủ đề: Giới thiệu c
  ảnh quan thiên nhiên ở địa phương. Báo cáo việc chăm sóc 
  và bảo vệ cảnh quan thiên nhiên  \n\n🌙 BUỔI CHIỀU\n★ Ti
@@ -2344,9 +2511,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Dấ
  ết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:0f8a52bd-621d-49bb-93da-70db7f323f9b
+UID:f3379ad7-36d2-4f65-a56d-1a1ef3ef47c8
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260326
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2354,12 +2521,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 67: Em làm đ
  ược những gì? - tiết 1\n★ Tiết 2: Tiếng Việt – Đọc: T
- hảo nguyên bao la\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ hảo nguyên bao la\n★ Tiết 3: Đạo Đức – Em quý trọng đ
+ ồng tiền (tiết 3)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:7eb454bf-bf55-4000-a4b0-512cc22097ad
+UID:012fae7c-df65-4a66-9d2e-fd98b3ec5de8
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260327
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2374,9 +2542,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 67: Em làm đ
  quan thiên nhiên.
 END:VEVENT
 BEGIN:VEVENT
-UID:546c44f6-8193-4874-bb9c-37ece7496f36
+UID:b7b6f8ef-a182-462d-b5bc-74c9d46ec78e
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260330
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2389,43 +2557,48 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:5e1cfd75-6fde-480a-8568-af482a9bcd19
+UID:36136688-1db7-4dd8-a941-5c725efaed27
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260331
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 69: Cộng hai phân
-  số khác mẫu số\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ 
- Tiết 6: Tiếng Việt – Đọc: Biển và rừng cây dưới lòng 
- đất\n★ Tiết 7: Tiếng Việt – Đọc: Biển và rừng cây d
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 29. Ôn t
+ ập chủ đề Con người và sức khoẻ - tiết 1\n★ Tiết 2: K
+ hoa học – Bài 29. Ôn tập chủ đề Con người và sức khoẻ
+  - tiết 2\n★ Tiết 3: Mỹ thuật – Bài 3: Tranh vẽ hoạt đ
+ ộng vì cộng đồng\n★ Tiết 4: Toán – Bài 69: Cộng hai phâ
+ n số khác mẫu số\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★
+  Tiết 6: Tiếng Việt – Đọc: Biển và rừng cây dưới lòng
+  đất\n★ Tiết 7: Tiếng Việt – Đọc: Biển và rừng cây d
  ưới lòng đất
 END:VEVENT
 BEGIN:VEVENT
-UID:4b8b3cc8-5628-423b-b224-2bf0e5de2f52
+UID:0cfa00ff-f9e6-47e8-bdd9-8080fda73786
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260401
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Tr
- ạng ngữ\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4: H
- ĐTN – Hoạt động giáo dục theo chủ đề: Tìm hiểu thực t
- rạng vệ sinh trường lớp.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6
- : Tiếng Việt – Viết: Luyện tập viết đoạn văn cho bài v
- ăn miêu tả con vật\n★ Tiết 7: LS-ĐL – Bài 24: Dân cư và h
- oạt động sản xuất ở vùng Nam Bộ (Tiết 1)\n★ Tiết 8: To
- án – Bài 70: Em làm được những gì?
+ ạng ngữ\n★ Tiết 2: Âm nhạc – Thường thức âm nhạc: Gi
+ ới thiệu nhạc cụ VN - Đàn T'rưng. \nNhà ga âm nhạc.\n★ Ti
+ ết 3: Công Nghệ – Bài 9: Em làm diều giấy - tiết 2\n★ Ti
+ ết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Tìm hiểu
+  thực trạng vệ sinh trường lớp.   \n\n🌙 BUỔI CHIỀU\n★
+  Tiết 6: Tiếng Việt – Viết: Luyện tập viết đoạn văn ch
+ o bài văn miêu tả con vật\n★ Tiết 7: LS-ĐL – Bài 24: Dân c
+ ư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 1)\n★ Ti
+ ết 8: Toán – Bài 70: Em làm được những gì?
 END:VEVENT
 BEGIN:VEVENT
-UID:6da8185a-dd2f-46cf-98eb-1a346fc4d616
+UID:b81faf46-cd5a-430f-a379-31aea73295f0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260402
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2433,13 +2606,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 71: Trừ hai 
  phân số cùng mẫu số\n★ Tiết 2: Tiếng Việt – Đọc: Mộ
- t biểu tượng của Ô-xtrây-li-a\nTiết 3: Đạo Đức\nTiết 4:
-  Tin Học
+ t biểu tượng của Ô-xtrây-li-a\n★ Tiết 3: Đạo Đức – Qu
+ yền trẻ em (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:59949290-ed1b-40d2-aae8-b16de7b302df
+UID:8b97656d-cc15-4a8e-8ade-04cba696a6ee
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260403
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2455,9 +2628,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 72: Trừ hai
  ường lớp.
 END:VEVENT
 BEGIN:VEVENT
-UID:aef508d5-7e5b-40fa-8454-04b72621139a
+UID:3c7ca671-475a-410a-91cc-fcc3998a2287
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2470,43 +2643,48 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  h\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:537a944d-3b7a-4272-a668-708f4304c2a6
+UID:eba7b197-e403-4ecd-ba38-d12eb2942be0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260407
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 73: Em làm được
-  những gì? - tiết 2\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n
- ★ Tiết 6: Tiếng Việt – Đọc: Rừng mơ\n★ Tiết 7: Tiếng
-  Việt – Đọc: mở rộng SHCBL đọc sách Chủ điểm: Thế gi
- ới quanh ta
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 30. Chu
+ ỗi thức ăn trong tự nhiên - tiết 1\n★ Tiết 2: Khoa học –
+  Bài 30. Chuỗi thức ăn trong tự nhiên - tiết 2\n★ Tiết 3: M
+ ỹ thuật – Bài 1: Đồ gia dụng quen thuộc\n★ Tiết 4: Toán
+  – Bài 73: Em làm được những gì? - tiết 2\n\n🌙 BUỔI CHI
+ ỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việt – Đọc: Rừ
+ ng mơ\n★ Tiết 7: Tiếng Việt – Đọc: mở rộng SHCBL đọc 
+ sách Chủ điểm: Thế giới quanh ta
 END:VEVENT
 BEGIN:VEVENT
-UID:8c5031ab-7104-4e49-8e5e-7aa06f4defbe
+UID:09234667-fbe6-4137-b9a9-dccd8a004792
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260408
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Tr
- ạng ngữ chỉ thời gian\, nơi chốn\nTiết 2: Âm nhạc\nTiết 
- 3: Công Nghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo c
- hủ đề: Lập kế hoạch làm đẹp trường\, lớp.  \n\n🌙 B
- UỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết: Viết bài văn m
- iêu tả con vật\n★ Tiết 7: LS-ĐL – Bài 24: Dân cư và hoạt
-  động sản xuất ở vùng Nam Bộ (Tiết 3)\n★ Tiết 8: Toán 
- – Bài 74: Phép nhân phân số - tiết 1
+ ạng ngữ chỉ thời gian\, nơi chốn\n★ Tiết 2: Âm nhạc – 
+ Khám phá hình ảnh các nhạc cụ nhảy múa\, tương tác tạo 
+ âm thanh. \nHọc hát: Bài hát đầu tiên\n (Nhạc và lời: Thanh
+  Sơn)\n★ Tiết 3: Công Nghệ – Bài 9: Em làm diều giấy - ti
+ ết 3\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đ
+ ề: Lập kế hoạch làm đẹp trường\, lớp.  \n\n🌙 BUỔI C
+ HIỀU\n★ Tiết 6: Tiếng Việt – Viết: Viết bài văn miêu t
+ ả con vật\n★ Tiết 7: LS-ĐL – Bài 24: Dân cư và hoạt độ
+ ng sản xuất ở vùng Nam Bộ (Tiết 3)\n★ Tiết 8: Toán – Bà
+ i 74: Phép nhân phân số - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:8046d9e6-e576-4382-ac25-6bddbe1c7f57
+UID:bf40ea4c-77f4-48b9-a6c1-6ae2223abc3b
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2514,12 +2692,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 74: Phép nhâ
  n phân số - tiết 2\n★ Tiết 2: Tiếng Việt – Đọc: Kì di
- ệu Ma-rốc\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ệu Ma-rốc\n★ Tiết 3: Đạo Đức – Quyền trẻ em (tiết 2)
+ \nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:24fdb9b1-4ad9-4ae4-8f6f-eed8930e13b5
+UID:aa8c8348-26c7-406f-95b1-8f805a7e2ca4
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260410
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2534,9 +2713,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 75: Phép chia
  ế hoạch làm đẹp trường lớp.
 END:VEVENT
 BEGIN:VEVENT
-UID:3b60346f-aeb2-4f42-b7cb-5cb3bc06ef29
+UID:62cedb76-062d-400a-816e-118768d4406c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260413
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2549,44 +2728,50 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:03a3e057-afe2-4c42-bd63-edd0f01e8b72
+UID:e2a82a23-eaa3-4519-8b24-3ba0daaa5471
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260414
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 76: Tìm phân số 
- của một số - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\
- n★ Tiết 6: Tiếng Việt – Đọc: Cá heo ở biển Trường Sa\
- n★ Tiết 7: Tiếng Việt – Đọc: Cá heo ở biển Trường Sa
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 30. Chu
+ ỗi thức ăn trong tự nhiên - tiết 3\n★ Tiết 2: Khoa học –
+  Bài 31. Vai trò của thực vật trong chuỗi thức ăn - tiết 1\
+ n★ Tiết 3: Mỹ thuật – Bài 1: Đồ gia dụng quen thuộc\n★
+  Tiết 4: Toán – Bài 76: Tìm phân số của một số - tiết 1\
+ n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiếng Việ
+ t – Đọc: Cá heo ở biển Trường Sa\n★ Tiết 7: Tiếng Việ
+ t – Đọc: Cá heo ở biển Trường Sa
 END:VEVENT
 BEGIN:VEVENT
-UID:710caccf-521e-4165-a723-092ff0f0d424
+UID:c0792b19-cede-43d9-8fa9-66cec743e02a
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Tr
- ạng ngữ chỉ mục đích\, nguyên nhân\nTiết 2: Âm nhạc\nTi
- ết 3: Công Nghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục t
- heo chủ đề: Nhận diện về nghề truyền thống. Xây dựng p
- hiếu thu thập thông tin về nghề truyền thống của địa ph
- ương.  \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Việt – Viết
- : Luyện tập lập dàn ý cho bài văn miêu tả con vật\n★ Ti
- ết 7: LS-ĐL – Bài 25: Một số nét văn hóa và truyền thống
-  cách mạng ở vùng Nam Bộ (Tiết 2)\n★ Tiết 8: Toán – Bài 
- 76: Tìm phân số của một số - tiết 2
+ ạng ngữ chỉ mục đích\, nguyên nhân\n★ Tiết 2: Âm nhạc 
+ – Ôn bài hát: Bài hát đầu tiên\nNhạc cụ: \n+Hoà tấu than
+ h phách + recorder  +Hoà tấu tambourine + kèn phím\n★ Tiết 3: C
+ ông Nghệ – Bài 9: Em làm diều giấy - tiết 4\n★ Tiết 4: H
+ ĐTN – Hoạt động giáo dục theo chủ đề: Nhận diện về n
+ ghề truyền thống. Xây dựng phiếu thu thập thông tin về ngh
+ ề truyền thống của địa phương.  \n\n🌙 BUỔI CHIỀU\n★
+  Tiết 6: Tiếng Việt – Viết: Luyện tập lập dàn ý cho bài
+  văn miêu tả con vật\n★ Tiết 7: LS-ĐL – Bài 25: Một số n
+ ét văn hóa và truyền thống cách mạng ở vùng Nam Bộ (Tiết
+  2)\n★ Tiết 8: Toán – Bài 76: Tìm phân số của một số - t
+ iết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:bdf8679d-c5d8-470f-bbc3-527196f8a3a6
+UID:bafda33f-3c5a-4ef8-b851-1407aa32ce15
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260416
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2594,12 +2779,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 77: Em làm đ
  ược những gì? - tiết 1\n★ Tiết 2: Tiếng Việt – Đọc: V
- òng tay bè bạn\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ òng tay bè bạn\n★ Tiết 3: Đạo Đức – Bổn phận của tr
+ ẻ em (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:dffb3369-056d-4925-afc0-6e26c8f6b629
+UID:150aaac6-3550-4ebf-9365-ce2132bcb713
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260417
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2614,9 +2800,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 77: Em làm đ
  ghề truyền thống ở địa phương.
 END:VEVENT
 BEGIN:VEVENT
-UID:9ef5aa18-7254-4298-a433-a921819a3d7e
+UID:df0dc4fa-d0ba-4139-a266-5fb990b8c4cb
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2629,33 +2815,37 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  Tiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:1b60658d-897b-49c7-a0b6-f189cf0db5e4
+UID:aa9f9629-78ce-4a6f-a842-778437d12ab7
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260421
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 78: Ôn tập cuối
-  năm - tiết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết
-  6: Tiếng Việt – Đọc: Nàng tiên Ốc\n★ Tiết 7: Tiếng Vi
- ệt – Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Vòng tay 
- thân ái
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 31. Vai t
+ rò của thực vật trong chuỗi thức ăn - tiết 2\n★ Tiết 2: 
+ Khoa học – Bài 31. Vai trò của thực vật trong chuỗi thức 
+ ăn - tiết 3\n★ Tiết 3: Mỹ thuật – Bài 2: Hình in với gi
+ ấy gói quà\n★ Tiết 4: Toán – Bài 78: Ôn tập cuối năm - t
+ iết 1\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiế
+ ng Việt – Đọc: Nàng tiên Ốc\n★ Tiết 7: Tiếng Việt – 
+ Đọc: mở rộng SHCLB đọc sách: Chủ điểm: Vòng tay thân ái
 END:VEVENT
 BEGIN:VEVENT
-UID:701ab6ff-4bdc-4a81-9752-dd97306e2d6f
+UID:c761ee0a-b5b7-4aef-a209-13050bc7bc1f
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260422
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Tr
- ạng ngữ chỉ phương tiện\nTiết 2: Âm nhạc\nTiết 3: Công N
- ghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề
+ ạng ngữ chỉ phương tiện\n★ Tiết 2: Âm nhạc – Đọc nh
+ ạc: Đọc gam Đô trưởng. Thực hành đọc nhạc Bài đọc nh
+ ạc số 4.\n★ Tiết 3: Công Nghệ – Dự án 2: Em làm đèn ôn
+ g sao\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề
  : Trình bày kết quả tìm hiểu thông tin về nghề truyền th
  ống ở địa phương.  Báo cáo kết quả trải nghiệm về ng
  hề truyền thống ở địa phương  \n\n🌙 BUỔI CHIỀU\n★ T
@@ -2665,9 +2855,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Tr
   cuối năm - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:96a7d0fa-e921-4603-8cc7-f73a72a93e4b
+UID:c5903010-5bec-4852-b2cd-24ae8921b28c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260423
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2675,12 +2865,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 78: Ôn tập 
  cuối năm - tiết 3\n★ Tiết 2: Tiếng Việt – Đọc: Nghe hạ
- t dẻ hát\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ t dẻ hát\n★ Tiết 3: Đạo Đức – Bổn phận của trẻ em (
+ tiết 2)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:de4baf55-755a-4c01-b6ef-d61b236eb6a8
+UID:783f51b9-78b9-4c66-842c-93112aa896df
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260424
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2695,9 +2886,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 78: Ôn tập
  ịa phương.
 END:VEVENT
 BEGIN:VEVENT
-UID:8d5e67d8-deaf-4667-b76c-0ae8c2ed0b28
+UID:6036b5ef-d192-44e0-8a0f-843f7e069bfe
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260427
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2710,43 +2901,47 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  ết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:71632212-51e8-4893-a501-e4307fa063ff
+UID:64305677-4568-48ec-b96d-35219d96a308
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260428
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 78: Ôn tập cuối
-  năm - tiết 6\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết
-  6: Tiếng Việt – Đọc: Quà tặng của chim non\n★ Tiết 7: T
- iếng Việt – Đọc: Quà tặng của chim non
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Bài 32. Ôn t
+ ập chủ đề  Sinh vật và môi trường - tiết 1\n★ Tiết 2:
+  Khoa học – Bài 32. Ôn tập chủ đề  Sinh vật và môi trư
+ ờng - tiết 2\n★ Tiết 3: Mỹ thuật – Bài 2: Hình in với gi
+ ấy gói quà\n★ Tiết 4: Toán – Bài 78: Ôn tập cuối năm - t
+ iết 6\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiế
+ ng Việt – Đọc: Quà tặng của chim non\n★ Tiết 7: Tiếng Vi
+ ệt – Đọc: Quà tặng của chim non
 END:VEVENT
 BEGIN:VEVENT
-UID:f0566a25-7049-4bc2-9a95-21394a60a2f7
+UID:2b0c79d7-e1fb-43f9-aa02-a5d8e75f1868
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260429
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – LTVC: Mở
-  rộng vốn từ: Kết nối\nTiết 2: Âm nhạc\nTiết 3: Công Ngh
- ệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: 
- Triển lãm sản phẩm về nghề truyền thống ở địa phương
- . Thiết kế sản phẩm truyền thông về nghề truyền thống 
- ở địa phương.   \n\n🌙 BUỔI CHIỀU\n★ Tiết 6: Tiếng Vi
- ệt – Viết: Viết hướng dẫn thực hiện một công việc\n
- ★ Tiết 7: LS-ĐL – Bài 27: Địa đạo Củ Chi\n★ Tiết 8: To
- án – Bài 78: Ôn tập cuối năm - tiết 7
+  rộng vốn từ: Kết nối\n★ Tiết 2: Âm nhạc – Ôn bài há
+ t: Bài hát đầu tiên.\nNhà ga âm nhạc.\n★ Tiết 3: Công Ngh
+ ệ – Ôn tập phần 2\n★ Tiết 4: HĐTN – Hoạt động giáo d
+ ục theo chủ đề: Triển lãm sản phẩm về nghề truyền th
+ ống ở địa phương. Thiết kế sản phẩm truyền thông về 
+ nghề truyền thống ở địa phương.   \n\n🌙 BUỔI CHIỀU\n
+ ★ Tiết 6: Tiếng Việt – Viết: Viết hướng dẫn thực hi
+ ện một công việc\n★ Tiết 7: LS-ĐL – Bài 27: Địa đạo C
+ ủ Chi\n★ Tiết 8: Toán – Bài 78: Ôn tập cuối năm - tiết 7
 END:VEVENT
 BEGIN:VEVENT
-UID:e18c21d2-ebdb-4cdc-9454-914f62c32e11
+UID:f4943db5-d697-4cc9-84eb-038f6d063451
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2754,12 +2949,13 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 78: Ôn tập 
  cuối năm - tiết 8\n★ Tiết 2: Tiếng Việt – Đọc: Thành ph
- ố nối hai châu lục\nTiết 3: Đạo Đức\nTiết 4: Tin Học
+ ố nối hai châu lục\n★ Tiết 3: Đạo Đức – Ôn tập tổn
+ g hợp học kì II (tiết 1)\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:80473c57-f2fa-453e-a145-7759a747a8c8
+UID:e855f817-72c5-4fc9-851a-18ace533e090
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260501
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2774,9 +2970,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 78: Ôn tập
  hương
 END:VEVENT
 BEGIN:VEVENT
-UID:88beaad4-4334-4eb6-b6e2-082b484066b6
+UID:6cf56a20-ae13-4881-a716-7a9374af55b8
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2789,25 +2985,27 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: HĐTN – Sinh hoạt dưới
  ết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:927e493a-c14c-4365-82b9-a6fcca735314
+UID:4b158917-42d6-4a70-8aeb-756966728e9c
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260505
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Tuesday
-DESCRIPTION:🌞 BUỔI SÁNG\nTiết 1: Khoa học\nTiết 2: Khoa học\
- nTiết 3: Mỹ thuật\n★ Tiết 4: Toán – Bài 78: Ôn tập cuối
-  năm - tiết 11\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiế
- t 6: Tiếng Việt – Ôn tập cuối năm (7 tiết)\n★ Tiết 7: Ti
- ếng Việt – Đọc: Tiết 1: Ôn luyện đọc thành tiếng và 
- đọc hiểu: Chiều thu quê em
+DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Khoa học – Ôn tập cu
+ ối năm\n★ Tiết 2: Khoa học – Kiểm tra cuối năm\n★ Tiết
+  3: Mỹ thuật – Bài tổng kết: Mô hình bài học từ những 
+ mảnh ghép\n★ Tiết 4: Toán – Bài 78: Ôn tập cuối năm - ti
+ ết 11\n\n🌙 BUỔI CHIỀU\nTiết 6: Tiếng Anh\n★ Tiết 6: Tiế
+ ng Việt – Ôn tập cuối năm (7 tiết)\n★ Tiết 7: Tiếng Vi
+ ệt – Đọc: Tiết 1: Ôn luyện đọc thành tiếng và đọc hi
+ ểu: Chiều thu quê em
 END:VEVENT
 BEGIN:VEVENT
-UID:9cea6757-1b31-44b1-b42a-c04dc99a6234
+UID:cca7423f-be23-4092-8894-c1fa15af4eb0
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260506
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2815,8 +3013,9 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Wednesday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – Viết: Ti
  ết 2: - Nghe-viết: Đất lành chim đậu\n- Ôn luyện quy tắc v
- iết hoa tên cơ quan\, tổ chức\nTiết 2: Âm nhạc\nTiết 3: Cô
- ng Nghệ\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ 
+ iết hoa tên cơ quan\, tổ chức\n★ Tiết 2: Âm nhạc – Tập 
+ biểu diễn các bài hát đã học.\n★ Tiết 3: Công Nghệ – K
+ iểm tra\n★ Tiết 4: HĐTN – Hoạt động giáo dục theo chủ 
  đề: Múa hát tập thể chia tay thầy cô với bạn bè.Làm thi
  ệp yêu thương tặng thầy cô\, bạn bè  \n\n🌙 BUỔI CHIỀU
  \n★ Tiết 6: Tiếng Việt – Nói và nghe: Tiết 3: Ôn luyện N
@@ -2826,9 +3025,9 @@ DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Tiếng Việt – Viết: Ti
   và trải nghiệm - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:b399b200-167c-4185-ac0d-d13a219d557a
+UID:a040661e-d749-4e10-b45f-10da1f52a9b3
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260507
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2837,13 +3036,14 @@ SUMMARY:Lịch Báo Giảng - Thursday
 DESCRIPTION:🌞 BUỔI SÁNG\n★ Tiết 1: Toán – Bài 79: Thực hà
  nh và trải nghiệm - tiết 2\n★ Tiết 2: Tiếng Việt – LTVC: 
  Tiết 4: Ôn luyện từ và câu: Thành phần chính của câu\; tr
- ạng ngữ\; lựa chọn\, sử dụng từ ngữ\; dấu câu\nTiết 3
- : Đạo Đức\nTiết 4: Tin Học
+ ạng ngữ\; lựa chọn\, sử dụng từ ngữ\; dấu câu\n★ Ti
+ ết 3: Đạo Đức – Ôn tập tổng hợp học kì II (tiết 2)\n
+ Tiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:22bd54f2-258d-456a-bebc-b6c520cb2c2c
+UID:ca8fc75a-5399-4ee0-a548-686881368bfc
 SEQUENCE:0
-DTSTAMP:20251201T111647
+DTSTAMP:20251201T112457
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260508
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE

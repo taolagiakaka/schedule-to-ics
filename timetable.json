@@ -99,37 +99,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 1. Một số tính chất và vai trò của nước  - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 1. Một số tính chất và vai trò của nước  - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tranh xé dán giấy màu",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -197,25 +197,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá: Hình ảnh giấc mơ của sơn ca.\nHọc hát: Bay cao tiếng hát ước mơ (Nguyễn Nam)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Hoa và cây cảnh quanh em - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -295,13 +295,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Người lao động quanh em (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -479,37 +479,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 2. Sự chuyển thể của nước - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 2. Sự chuyển thể của nước - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tranh xé dán giấy màu",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -577,25 +577,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn bài hát: Bay cao tiếng hát ước mơ.\nNhạc cụ tiết tấu: Thanh phách.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Hoa và cây cảnh quanh em - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -675,13 +675,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Người lao động quanh em (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -859,37 +859,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 3. Ô nhiễm và bảo vệ nguồn nước - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 3. Ô nhiễm và bảo vệ nguồn nước - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Phong cảnh quê em",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -957,25 +957,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Lí thuyết âm nhạc: Giới thiệu khuông nhạc, vị trí các nốt trên khuông nhạc, khoá Son.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Hoa và cây cảnh quanh em - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -1055,13 +1055,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em biết ơn người lao động (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -1239,37 +1239,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 4. Thành phần và tính chất của không khí - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 4. Thành phần và tính chất của không khí - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Phong cảnh quê em",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -1337,25 +1337,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Thường thức âm nhạc: Giới thiệu nhạc cụ nước ngoài: timpani. \nNhà ga âm nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -1435,13 +1435,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em biết ơn người lao động (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -1619,37 +1619,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 5. Gió, bão - tiết 1 ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 5. Gió, bão - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tranh vẽ với các hình nối tiếp",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -1717,25 +1717,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá: Hình ảnh tình bạn gắn kết hoà hợp trong âm nhạc Học hát: Tiếng hát mùa sang (Dân ca Cống Khao, lời Việt: Tô Ngọc Tú).",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -1815,13 +1815,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em biết ơn người lao động (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -1999,37 +1999,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 6. Ô nhiễm không khí và bảo vệ môi trường không khí - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 6. Ô nhiễm không khí và bảo vệ môi trường không khí - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tranh vẽ với các hình nối tiếp",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -2097,25 +2097,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn hát: Tiếng hát mùa sang. \nNhạc cụ: Nhạc cụ tiết tấu\nNhạc cụ giai điệu: Giới recorder.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -2195,13 +2195,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em cảm thông, giúp đỡ người gặp khó khăn (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -2379,37 +2379,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 7. Ôn tập chủ đề Chất ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 8. Nguồn sáng và sự truyền ánh sáng - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Không gian trong thư viện",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -2477,25 +2477,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Đọc nhạc: Thực hành đọc nhạc Bài đọc nhạc số 1.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Vật liệu, dụng cụ trồng hoa và cây cảnh trong chậu - tiết 4",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -2575,13 +2575,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em cảm thông, giúp đỡ người gặp khó khăn (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -2759,37 +2759,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 8. Nguồn sáng và sự truyền ánh sáng - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 9. Ánh sáng với đời sống - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Không gian trong thư viện",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -2857,25 +2857,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Thường thức âm nhạc: Giới thiệu một số hình thức biểu diển.\nNhà ga âm nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Gieo hạt và trồng cây hoa trong chậu - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -2955,13 +2955,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em cảm thông, giúp đỡ người gặp khó khăn (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -3139,37 +3139,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 9. Ánh sáng với đời sống - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 10. Âm thanh - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Tranh chân dung nhân vật",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -3237,25 +3237,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá: Hình ảnh vườn hoa Học hát: Mặt Trời bay (Nhạc và lời: Phạm Tuyên). ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Gieo hạt và trồng cây hoa trong chậu - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -3335,13 +3335,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em yêu lao động (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -3519,37 +3519,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 10. Âm thanh - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 11. Âm thanh trong đời sống - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Tranh chân dung nhân vật",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -3617,25 +3617,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn bài hát: Mặt Trời bay.\nNghe nhạc: Morning mood (Edvard Grieg)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Gieo hạt và trồng cây hoa trong chậu - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -3715,13 +3715,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em yêu lao động (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -3899,37 +3899,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 11. Âm thanh trong đời sống - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 12. Nhiệt độ và nhiệt kế - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Sản phẩm mĩ thuật với các lớp cảnh",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -3997,25 +3997,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Nhạc cụ tiết tấu: Castanet.\nNhạc cụ giai điệu: \n+ Recorder: Thế bấm nốt Si. Bài thực hành số 1. \n+ Kèn phím: Giới thiệu phím Đô. Bài thực hành số 1.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 4: Trồng cây cảnh trong chậu - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -4095,13 +4095,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em yêu lao động (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -4279,37 +4279,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 12. Nhiệt độ và nhiệt kế - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 13. Sự truyền nhiệt và vật dẫn nhiệt - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Sản phẩm mĩ thuật với các lớp cảnh",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -4377,25 +4377,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Lí thuyết âm nhạc: Dòng kẻ phụ. \nNhà ga âm nhạc",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 4: Trồng cây cảnh trong chậu - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -4475,13 +4475,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em tịch cực tham gia lao động (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -4659,37 +4659,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 13. Sự truyền nhiệt và  vật dẫn nhiệt - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 14. Ôn tập chủ đề Năng lượng ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Tranh chấm màu",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -4757,25 +4757,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá hình ảnh gia đình.\nHọc hát: Bàn tay mẹ. \n (Nhạc: Bùi Đình Thảo, thơ: Tạ Hữu Yên). ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 4: Trồng cây cảnh trong chậu - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -4855,13 +4855,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em tịch cực tham gia lao động (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -5039,37 +5039,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 15. Thực vật cần gì để sống và phát triển? - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 15. Thực vật cần gì để sống và phát triển? - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Tranh chấm màu",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -5137,25 +5137,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn bài hát: Bàn tay mẹ .\nThường thức âm nhạc: Giới thiệu nhạc sĩ Phong Nhã và tác phẩm Ai yêu Bác Hồ Chí Minh hơn thiếu niên nhi đồng. ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -5235,13 +5235,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em tôn trọng tài sản của người khác (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -5419,37 +5419,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 15. Thực vật cần gì để sống và phát triển? - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 16. Nhu cầu sống của động vật - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Tạo hình động vật từ vật liệu đã qua sử dụng",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -5517,25 +5517,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Đọc nhạc: Thực hành đọc nhạc Bài đọc nhạc số 2.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -5615,13 +5615,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em tôn trọng tài sản của người khác (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -5799,37 +5799,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 16. Nhu cầu sống của động vật - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 16. Nhu cầu sống của động vật - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Tạo hình động vật từ vật liệu đã qua sử dụng",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -5897,25 +5897,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Trò chơi âm nhạc: Lấy cờ khoá Son. \nNhà ga âm nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -5995,13 +5995,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em tôn trọng tài sản của người khác (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -6179,37 +6179,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 17. Chăm sóc cây trồng và vật nuôi - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 17. Chăm sóc cây trồng và vật nuôi - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 4: Mô hình khu bảo tồn thiên nhiên",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -6277,25 +6277,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Tập biểu diễn các bài hát đã học",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Ôn tập phần 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -6375,13 +6375,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Ôn tập tổng hợp học kì I",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -6559,37 +6559,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 18. Ôn tập chủ đề Thực vật và động vật ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn tập cuối kỳ I",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 4: Mô hình khu bảo tồn thiên nhiên",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -6657,25 +6657,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Tập biểu diễn các bài hát đã học",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Kiểm tra",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -6755,13 +6755,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em bảo vệ của công (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -6939,37 +6939,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Kiểm tra cuối kỳ I",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 19. Sự đa dạng của nấm ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tranh vẽ về biển đảo Việt Nam",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -7037,25 +7037,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá: Hình ảnh thiên nhiên và các sinh vật biển cả. Học hát: Miền biển quê em. (Theo điệu Lí kéo chài, lời: Lê Vinh Phúc)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 5: Chăm sóc hoa, cây cảnh trong chậu - tiết 4",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -7135,13 +7135,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em bảo vệ của công (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -7319,37 +7319,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 20. Nấm ăn và nấm men trong đời sống - tiết 1 ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 20. Nấm ăn và nấm men trong đời sống - tiết 2 ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tranh vẽ về biển đảo Việt Nam",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -7417,25 +7417,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn bài hát: Miền biển quê em. \nNhạc cụ:\nHướng dẫn làm nhạc cụ castanet bằng vỏ nghêu. ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Dự án: Em trồng hoa trang trí lớp",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -7515,13 +7515,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em bảo vệ của công (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -7699,37 +7699,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 21.  Nấm có hại và cách bảo quản thực phẩm - tiết 1 ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 21.  Nấm có hại và cách bảo quản thực phẩm - tiết 2  ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Nhân vật với trang phục dân tộc",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -7797,25 +7797,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Lí thuyết âm nhạc:\n Một số kí hiệu ghi chép nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 6: Bộ lắp ghép mô hình kĩ thuật - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -7895,13 +7895,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em thiết lập quan hệ bạn bè (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -8079,37 +8079,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 21.  Nấm có hại và cách bảo quản thực phẩm - tiết 3 ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 22. Ôn tập chủ đề Nấm  ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Nhân vật với trang phục dân tộc",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -8177,25 +8177,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Thường thức âm nhạc:\n Câu chuyện âm nhạc Nàng Tiên cá và giọng hát diệu kì.\nNhà ga âm nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 6: Bộ lắp ghép mô hình kĩ thuật - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -8275,13 +8275,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em thiết lập quan hệ bạn bè (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -8459,37 +8459,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 23. Các nhóm chất dinh dưỡng có trong thức ăn - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 23. Các nhóm chất dinh dưỡng có trong thức ăn - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Món ăn truyền thống",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -8557,25 +8557,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá: Hình ảnh chiếc đồng hồ khổng lồ.\nHọc hát: Đồng hồ của ông tôi. (Nhạc: Henry Work, lời Việt: Trịnh Mai Trang)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -8655,13 +8655,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em thiết lập quan hệ bạn bè (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -8839,37 +8839,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 24. Giá trị dinh dưỡng có trong thức ăn - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 24. Giá trị dinh dưỡng có trong thức ăn - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Món ăn truyền thống",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -8937,25 +8937,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn hát: Đồng hồ của ông tôi. \nNhạc cụ tiết tấu: Triangle.\nNhạc cụ giai điệu: Recorder:  Thế bấm nốt La - Bài thực hành số 2. \nKèn phím: Giới thiệu phím Rê - Bài thực hành số 2. ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -9035,13 +9035,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em duy trì quan hệ bạn bè (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -9219,37 +9219,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 25.  Ăn, uống khoa học để cơ thể khoẻ mạnh - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 25.  Ăn, uống khoa học để cơ thể khoẻ mạnh - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tạo hình của nhà rông",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -9317,25 +9317,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Đọc nhạc: Đọc gam Đô trưởng. Thực hành đọc nhạc Bài đọc nhạc số 3.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -9415,13 +9415,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em duy trì quan hệ bạn bè (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -9599,37 +9599,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 25.  Ăn, uống khoa học để cơ thể khoẻ mạnh - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 26. Thực phẩm an toàn - tiết 1  ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Tạo hình của nhà rông",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -9697,25 +9697,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn hát: Đồng hồ của ông tôi. \nNhà ga âm nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 7: Em lắp ghép mô hình kĩ thuật - tiết 4",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -9795,13 +9795,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em duy trì quan hệ bạn bè (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -9979,37 +9979,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 26. Thực phẩm an toàn - tiết 2  ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 27.  Một số bệnh liên quan đến dinh dưỡng - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Hoạt cảnh với nhân vật 3D",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -10077,25 +10077,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá hình ảnh chú Cuội, ông Bụt, sự tích trầu cau.\nHọc hát: Về miền cổ tích\n (Nhạc và lời: Lê Phú Hải)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 8: Đồ chơi dân gian - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -10175,13 +10175,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em quý trọng đồng tiền (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -10359,37 +10359,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 27.  Một số bệnh liên quan đến dinh dưỡng - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 28. Phòng tránh đuối nước- tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Hoạt cảnh với nhân vật 3D",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -10457,25 +10457,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn bài hát: Về miền cổ tích.\nNghe nhạc: Vườn cổ tích.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 8: Đồ chơi dân gian - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -10555,13 +10555,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em quý trọng đồng tiền (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -10739,37 +10739,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 28. Phòng tránh đuối nước- tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 28. Phòng tránh đuối nước- tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Tranh vẽ hoạt động vì cộng đồng",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -10837,25 +10837,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Nhạc cụ Recorder:\n + Thế bấm nốt Son.\n + Bài thực hành số 3.\n Nhạc cụ Kèn phím: \n+ Giới thiệu phím Mi. \n+ Bài thực hành số 3. ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 9: Em làm diều giấy - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -10935,13 +10935,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Em quý trọng đồng tiền (tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -11119,37 +11119,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 29. Ôn tập chủ đề Con người và sức khoẻ - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 29. Ôn tập chủ đề Con người và sức khoẻ - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 3: Tranh vẽ hoạt động vì cộng đồng",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -11217,25 +11217,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Thường thức âm nhạc: Giới thiệu nhạc cụ VN - Đàn T'rưng. \nNhà ga âm nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 9: Em làm diều giấy - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -11315,13 +11315,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Quyền trẻ em (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -11499,37 +11499,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 30. Chuỗi thức ăn trong tự nhiên - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 30. Chuỗi thức ăn trong tự nhiên - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Đồ gia dụng quen thuộc",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -11597,25 +11597,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Khám phá hình ảnh các nhạc cụ nhảy múa, tương tác tạo âm thanh. \nHọc hát: Bài hát đầu tiên\n (Nhạc và lời: Thanh Sơn)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 9: Em làm diều giấy - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -11695,13 +11695,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Quyền trẻ em (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -11879,37 +11879,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 30. Chuỗi thức ăn trong tự nhiên - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 31. Vai trò của thực vật trong chuỗi thức ăn - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 1: Đồ gia dụng quen thuộc",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -11977,25 +11977,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn bài hát: Bài hát đầu tiên\nNhạc cụ: \n+Hoà tấu thanh phách + recorder  +Hoà tấu tambourine + kèn phím",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 9: Em làm diều giấy - tiết 4",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -12075,13 +12075,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bổn phận của trẻ em (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -12259,37 +12259,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 31. Vai trò của thực vật trong chuỗi thức ăn - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 31. Vai trò của thực vật trong chuỗi thức ăn - tiết 3",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Hình in với giấy gói quà",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -12357,25 +12357,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Đọc nhạc: Đọc gam Đô trưởng. Thực hành đọc nhạc Bài đọc nhạc số 4.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Dự án 2: Em làm đèn ông sao",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -12455,13 +12455,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bổn phận của trẻ em (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -12639,37 +12639,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Bài 32. Ôn tập chủ đề  Sinh vật và môi trường - tiết 1",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Bài 32. Ôn tập chủ đề  Sinh vật và môi trường - tiết 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài 2: Hình in với giấy gói quà",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -12737,25 +12737,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Ôn bài hát: Bài hát đầu tiên.\nNhà ga âm nhạc.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Ôn tập phần 2",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -12835,13 +12835,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Ôn tập tổng hợp học kì II (tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",
@@ -13019,37 +13019,37 @@
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 1,
-                "lesson": "",
+                "lesson": "Ôn tập cuối năm",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Khoa học",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Kiểm tra cuối năm",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Mỹ thuật",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Bài tổng kết: Mô hình bài học từ những mảnh ghép",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -13117,25 +13117,25 @@
                 "name": "Âm nhạc",
                 "session": "Sáng",
                 "period": 2,
-                "lesson": "",
+                "lesson": "Tập biểu diễn các bài hát đã học.",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Công Nghệ",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Kiểm tra",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -13215,13 +13215,13 @@
                 "name": "Đạo Đức",
                 "session": "Sáng",
                 "period": 3,
-                "lesson": "",
+                "lesson": "Ôn tập tổng hợp học kì II (tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Tin Học",

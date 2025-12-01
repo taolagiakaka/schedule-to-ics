@@ -41,6 +41,16 @@ function getLessonsForSubject(subject, weekNumber) {
         HĐTN: 'hdtn',
         TNXH: 'tnxh',
         'LS-ĐL': 'history',
+        'Tiếng Anh': 'english',
+        GDTC: 'civic-education',
+        'Khoa học': 'science',
+        'Đạo Đức': 'civicEducation',
+        'Mỹ thuật': 'art',
+        'Âm nhạc': 'music',
+        'Tiếng Anh': 'english',
+        'Công Nghệ': 'technology',
+        'Tin Học': 'informatics',
+        GDTC: 'sport',
     };
 
     const key = subjectMap[subject];
