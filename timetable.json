@@ -245,13 +245,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 1: Làm quen với phương tiện học tập môn Lịch sử và Địa lí (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -357,13 +357,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 1: Làm quen với phương tiện học tập môn Lịch sử và Địa lí (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -625,13 +625,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 2: Thiên nhiên và con người địa phương (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -737,13 +737,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 2: Thiên nhiên và con người địa phương (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -1005,13 +1005,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 3: Lịch sử và văn hóa truyền thống địa phương (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -1117,13 +1117,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 3: Lịch sử và văn hóa truyền thống địa phương (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -1385,13 +1385,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -1497,13 +1497,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -1765,13 +1765,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -1877,13 +1877,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -2145,13 +2145,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -2257,13 +2257,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -2525,13 +2525,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 6: Một số nét văn hóa ở vùng Trung du và miền núi Bắc Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -2637,13 +2637,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 6: Một số nét văn hóa ở vùng Trung du và miền núi Bắc Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -2905,13 +2905,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 7: Đền Hùng và lễ Giỗ Tổ Hùng Vương (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -3017,13 +3017,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 7: Đền Hùng và lễ Giỗ Tổ Hùng Vương (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -3285,13 +3285,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Ôn tập và đánh giá Giữa HKI",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -3397,13 +3397,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -3665,13 +3665,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -3777,13 +3777,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -4045,13 +4045,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -4157,13 +4157,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -4425,13 +4425,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -4537,13 +4537,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 10: Một số nét văn hóa ở làng quê vùng Đồng bằng Bắc Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -4805,13 +4805,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 10: Một số nét văn hóa ở làng quê vùng Đồng bằng Bắc Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -4917,13 +4917,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 11: Sông Hồng và văn minh sông Hồng (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -5185,13 +5185,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 11: Sông Hồng và văn minh sông Hồng (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -5297,13 +5297,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 12: Thăng Long – Hà Nội (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -5565,13 +5565,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 12: Thăng Long – Hà Nội (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -5677,13 +5677,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 12: Thăng Long – Hà Nội (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -5945,13 +5945,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 13: Văn Miếu – Quốc Tử Giám ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -6057,13 +6057,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Ôn tập Học kì I",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -6325,13 +6325,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Kiểm tra Học kì I",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -6437,13 +6437,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -6705,13 +6705,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -6817,13 +6817,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -7085,13 +7085,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 15 : Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -7197,13 +7197,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 15 : Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -7465,13 +7465,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 15 : Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -7577,13 +7577,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 16 : Một số nét văn hóa ở vùng Duyên hải miền Trung  (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -7845,13 +7845,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 16 : Một số nét văn hóa ở vùng Duyên hải miền Trung (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -7957,13 +7957,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 17: Cố đô Huế (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -8225,13 +8225,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 17: Cố đô Huế (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -8337,13 +8337,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 18: Phố cổ Hội An (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -8605,13 +8605,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 18: Phố cổ Hội An (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -8717,13 +8717,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -8985,13 +8985,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -9097,13 +9097,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 19: Thiên nhiên vùng Tây Nguyên (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -9365,13 +9365,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên  (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -9477,13 +9477,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên  (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -9745,13 +9745,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên (Tiết 3) ",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -9857,13 +9857,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 21: Một số nét văn hóa và lịch sử của đồng bào Tây Nguyên (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -10125,13 +10125,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 21: Một số nét văn hóa và lịch sử của đồng bào Tây Nguyên (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -10237,13 +10237,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Ôn tập và đánh giá Giữa HKII",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -10505,13 +10505,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 22: Lễ hội Cồng chiêng Tây Nguyên",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -10617,13 +10617,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 23: Thiên nhiên vùng Nam Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -10885,13 +10885,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 23: Thiên nhiên vùng Nam Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -10997,13 +10997,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 23: Thiên nhiên vùng Nam Bộ (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -11265,13 +11265,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -11377,13 +11377,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -11645,13 +11645,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -11757,13 +11757,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 25: Một số nét văn hóa và truyền thống cách mạng ở vùng Nam Bộ (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -12025,13 +12025,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 25: Một số nét văn hóa và truyền thống cách mạng ở vùng Nam Bộ (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -12137,13 +12137,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 26: Thành phố Hồ Chí Minh (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -12405,13 +12405,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 26: Thành phố Hồ Chí Minh (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -12517,13 +12517,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Bài 26: Thành phố Hồ Chí Minh (Tiết 3)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -12785,13 +12785,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Bài 27: Địa đạo Củ Chi",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -12897,13 +12897,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Ôn tập Cuối năm (Tiết 1)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",
@@ -13165,13 +13165,13 @@
                 "name": "LS-ĐL",
                 "session": "Chiều",
                 "period": 7,
-                "lesson": "",
+                "lesson": "Ôn tập Cuối năm (Tiết 2)",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "Toán",
@@ -13277,13 +13277,13 @@
                 "name": "LS-ĐL",
                 "session": "Sáng",
                 "period": 4,
-                "lesson": "",
+                "lesson": "Kiểm tra Cuối năm",
                 "equipment": {
                     "has": "",
                     "selfMade": ""
                 },
                 "adjustments": "",
-                "isBold": true
+                "isBold": false
             },
             {
                 "name": "HĐTN",

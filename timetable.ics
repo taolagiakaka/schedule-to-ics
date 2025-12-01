@@ -6,9 +6,9 @@ X-WR-CALNAME:Lịch báo giảng
 TIMEZONE-ID:Asia/Ho_Chi_Minh
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
 BEGIN:VEVENT
-UID:77e129a9-696b-4e73-ba0d-10d377cc3d92
+UID:1f784669-b79c-462b-9852-f392e189ee1b
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250908
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -20,9 +20,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia l
  ết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:fb7cbcf6-0441-4e4f-9d3c-0caea5d7c926
+UID:a55119ff-b644-4bfb-b9e8-1a77e9621c1b
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250909
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -35,9 +35,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
   Những ngày hè tươi đẹp
 END:VEVENT
 BEGIN:VEVENT
-UID:712a0694-7a3d-4f2d-b2f6-52a9876d7f7c
+UID:94f179eb-cd79-4edb-93fd-643178fcc186
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250910
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -48,13 +48,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Danh từ \nTiết 2:
   giáo dục theo chủ đề: Xác định những đặc điểm tự h
  ào của bản thân\; Tìm hiểu những việc làm đáng tự hào c
  ủa bản thân\n★ Tiết 6: Tiếng Việt – Viết: Nhận diện b
- ài văn kể chuyện \nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 1:
-  Ôn tập các số đến 100 000 - tiết 3
+ ài văn kể chuyện \n★ Tiết 7: LS-ĐL – Bài 1: Làm quen với 
+ phương tiện học tập môn Lịch sử và Địa lí (Tiết 1)\n
+ ★ Tiết 8: Toán – Bài 1: Ôn tập các số đến 100 000 - tiế
+ t 3
 END:VEVENT
 BEGIN:VEVENT
-UID:7c0afe9a-74ce-486b-aec0-cd550a8d6f38
+UID:243507ce-4617-41db-8dc1-bf0832444cf0
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250911
 DTEND;VALUE=DATE:20250911
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -65,9 +67,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 2: Ôn tập các phép cộng\,
   đồng thoại\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc70c84-cbfc-4aaa-8c29-4af5aa38b18d
+UID:9bb04acb-b38a-4039-a248-1b7372546424
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250912
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -76,14 +78,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 2: Ôn tập các phép cộng\, 
  phép trừ - tiết 2\n★ Tiết 2: Tiếng Việt – Nói và nghe: Tr
  ao đổi về việc xây dựng tủ sách lớp em\n★ Tiết 3: Tiế
- ng Việt – Viết: Lập dàn ý cho bài văn kể chuyện\nTiết 4:
-  LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Bầu chọn BCSL và 
- trao đổi về ATGT đường bộ
+ ng Việt – Viết: Lập dàn ý cho bài văn kể chuyện\n★ Tiế
+ t 4: LS-ĐL – Bài 1: Làm quen với phương tiện học tập môn L
+ ịch sử và Địa lí (Tiết 2)\n★ Tiết 5: HĐTN – Sinh hoạt 
+ lớp: Bầu chọn BCSL và trao đổi về ATGT đường bộ
 END:VEVENT
 BEGIN:VEVENT
-UID:ee9af1e0-5039-4a76-876f-1ff3b4727e82
+UID:df40663d-f237-458a-8a78-8cd6e0bf1363
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250915
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -95,9 +98,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia h
  ết 4: Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:8f37ad18-c389-4fa0-88d9-8ad43cd433ed
+UID:0dd94e94-6545-4649-8632-67d1cc4deb0e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250916
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -111,9 +114,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  việc nhỏ
 END:VEVENT
 BEGIN:VEVENT
-UID:ce027aef-0042-49cd-89cf-5b5227d34de1
+UID:8d8f6864-c4a7-432e-b4e7-7bf152558c41
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250917
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -124,14 +127,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Danh từ chung\, danh
  ĐTN – Hoạt động giáo dục theo chủ đề:  Lập kế hoạch
   phát huy và lập bảng theo dõi những việc làm đáng tự hào
   của bản thân\n★ Tiết 6: Tiếng Việt – Viết: Viết: đo
- ạn mở bài và đoạn kết bài cho bài văn kể chuyện\nTiết 
- 7: LS-ĐL\n★ Tiết 8: Toán – Bài 3: Ôn tập phép nhân\, phép c
- hia - tiết 2
+ ạn mở bài và đoạn kết bài cho bài văn kể chuyện\n★ Ti
+ ết 7: LS-ĐL – Bài 2: Thiên nhiên và con người địa phương 
+ (Tiết 1)\n★ Tiết 8: Toán – Bài 3: Ôn tập phép nhân\, phép 
+ chia - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:85f4bd14-ff5a-4b3c-a9bb-a0c6bc9685ee
+UID:4a96e1a9-b7a8-4b2f-a59d-56f9038f3076
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250918
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -142,9 +146,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 3: Ôn tập phép nhân\, phép
  ết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:663ac2ca-2ad7-4bc5-9c2e-d0f0855a1c24
+UID:622e4b94-5884-4eb1-a9ff-873716fe5f94
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250919
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -153,14 +157,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 4: Số chẵn\, số lẻ - ti
  ết 1\n★ Tiết 2: Tiếng Việt – LTVC: Luyện tập về danh t
  ừ\n★ Tiết 3: Tiếng Việt – Viết: Viết bài văn kể chuy
- ện\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp:  Báo 
- cáo kết quả bước đầu về những việc làm đáng tự hào 
- của bản thân em
+ ện\n★ Tiết 4: LS-ĐL – Bài 2: Thiên nhiên và con người đ
+ ịa phương (Tiết 2)\n★ Tiết 5: HĐTN – Sinh hoạt lớp:  Bá
+ o cáo kết quả bước đầu về những việc làm đáng tự hà
+ o của bản thân em
 END:VEVENT
 BEGIN:VEVENT
-UID:7756ae14-f760-487d-a0b8-faaa6271d9b8
+UID:e7be932c-12fd-4f83-8e20-514e9ee1a48c
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250922
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -172,9 +177,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Hoạt độ
  g Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:1bc2dd82-8661-45ac-8e91-abe4240b3e63
+UID:dfbf38ff-7c4e-4710-ad71-5f11b45c01b8
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250923
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -187,9 +192,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ấy đã lớn
 END:VEVENT
 BEGIN:VEVENT
-UID:d774aa10-58c5-45b8-8de9-9384523308b7
+UID:70a32964-2cfb-45c9-9516-6e5c6f7681af
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250924
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -200,13 +205,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Động từ\nTiết 2:
  g giáo dục theo chủ đề: Chia sẻ trải nghiệm - tìm hiểu c
  ách điều chỉnh cảm xúc\, suy nghĩ của bản thân\n★ Tiết 
  6: Tiếng Việt – Viết: Tìm ý và viết đoạn văn cho bài vă
- n kể chuyện\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 5: Em làm
-  được những gì? - tiết 2
+ n kể chuyện\n★ Tiết 7: LS-ĐL – Bài 3: Lịch sử và văn hó
+ a truyền thống địa phương (Tiết 1)\n★ Tiết 8: Toán – Bà
+ i 5: Em làm được những gì? - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:a23fe282-061b-4f7c-805a-bd41566ff273
+UID:320e19aa-1d2a-486e-ad26-08a7d7398e25
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -218,9 +224,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 6: Bài toán liên quan đến r
  : Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:17448163-d345-4297-871a-9e09ccc8f33b
+UID:3405d226-cea7-4039-99df-06972689714f
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250926
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -230,13 +236,14 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 6: Bài toán liên quan đến r
  út về đơn vị - tiết 2\n★ Tiết 2: Tiếng Việt – Nói và 
  nghe: Kể về một hoạt động đền ơn đáp nghĩa hoặc một 
  hoạt động thiện nguyện\n★ Tiết 3: Tiếng Việt – Viết: 
- Trả bài văn kể chuyện\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – S
- inh hoạt lớp: Vui tết Trung Thu ở lớp em
+ Trả bài văn kể chuyện\n★ Tiết 4: LS-ĐL – Bài 3: Lịch s
+ ử và văn hóa truyền thống địa phương (Tiết 2)\n★ Tiết 
+ 5: HĐTN – Sinh hoạt lớp: Vui tết Trung Thu ở lớp em
 END:VEVENT
 BEGIN:VEVENT
-UID:abb92195-ca63-40f9-b79a-aa51fbedf1f0
+UID:4cdbf563-3b8f-400d-8ea2-5078828e4eef
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250929
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -249,9 +256,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Văn nghệ
  \nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:e566dc05-e9b9-4e6b-9e85-1987cb10aac6
+UID:b3a7f543-d8ac-4c66-8c8f-237a5ff2476e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20250930
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -265,9 +272,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  điểm: Tuổi nhỏ làm việc nhỏ
 END:VEVENT
 BEGIN:VEVENT
-UID:60923f3c-e140-408c-a18b-f08360dd3f8a
+UID:42db0b47-eb9d-453f-a698-548a67e893a0
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251001
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -279,13 +286,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về đ
  m xúc\, suy nghĩ của bản thân trong một số tình huống\; chia
   sẻ sự thay đổi sau khi điều chỉnh cảm xúc\, suy nghĩ củ
  a bản thân\n★ Tiết 6: Tiếng Việt – Viết: Viết: bài văn 
- kể chuyện\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 8: Bài toá
- n giải bằng ba bước tính - tiết 1
+ kể chuyện\n★ Tiết 7: LS-ĐL – Bài 4: Thiên nhiên vùng Trung 
+ du và miền núi Bắc Bộ (Tiết 1)\n★ Tiết 8: Toán – Bài 8: 
+ Bài toán giải bằng ba bước tính - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:b91895ad-58f5-4ca6-84cb-064b6a62f72b
+UID:fdb594db-62b8-464d-96bc-542f73b2e29e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251002
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -296,9 +304,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 8: Bài toán giải bằng ba b
  \nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:19d9c621-a8c5-4be9-a6bd-1684645c7ccf
+UID:340e5fc2-2cf6-48eb-9da4-9a00161f778e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251003
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -306,14 +314,15 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 9: Ôn tập biểu thức số\n
  ★ Tiết 2: Tiếng Việt – LTVC: Mở rộng vốn từ Đoàn kết
- \n★ Tiết 3: Tiếng Việt – Viết: Viết đơn\nTiết 4: LS-ĐL\
- n★ Tiết 5: HĐTN – Sinh hoạt lớp: Tham gia hoạt động tìm h
- iểu về Đội TNTP HCM
+ \n★ Tiết 3: Tiếng Việt – Viết: Viết đơn\n★ Tiết 4: LS-
+ ĐL – Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ (T
+ iết 2)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Tham gia hoạt độ
+ ng tìm hiểu về Đội TNTP HCM
 END:VEVENT
 BEGIN:VEVENT
-UID:a9a218fc-6e38-43d7-9d6e-ea9635cced9d
+UID:65cc29d9-d27d-42a8-b06e-99fe25da61ac
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251006
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -325,9 +334,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Chương tr
  Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:40c99676-055e-416b-af77-fc8adbf66522
+UID:8185d321-45d8-4a07-a161-59127f5fec28
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251007
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -339,9 +348,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ề thăm bà\n★ Tiết 7: Tiếng Việt – Đọc: Về thăm bà
 END:VEVENT
 BEGIN:VEVENT
-UID:f85804df-c206-48b1-8b52-2e5573cbb9d6
+UID:abff4b7f-f1d6-490c-b507-d4182baeea61
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251008
 DTEND;VALUE=DATE:20251008
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -352,14 +361,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về đ
  ĐTN – Hoạt động giáo dục theo chủ đề: Nhận hiện tình 
  huống có nguy cơ bị xâm hại\; Tìm hiểu những đối tượng
  \, hoàn cảnh có nguy cơ gây hành động xâm hại.\n★ Tiết 6:
-  Tiếng Việt – Viết: Trả bài văn kể chuyện\nTiết 7: LS-Đ
- L\n★ Tiết 8: Toán – Bài 11: Biểu thức có chứa chữ (tiếp
-  theo)
+  Tiếng Việt – Viết: Trả bài văn kể chuyện\n★ Tiết 7: L
+ S-ĐL – Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ 
+ (Tiết 3)\n★ Tiết 8: Toán – Bài 11: Biểu thức có chứa ch
+ ữ (tiếp theo)
 END:VEVENT
 BEGIN:VEVENT
-UID:5b057e06-d22c-4ec5-ad19-d7d04999234b
+UID:59698b2e-98c4-4ff6-82d8-5fa4ae0a252f
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251009
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -370,9 +380,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 12: Biểu thức có chứa ch
  ình yêu thương\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:3f1a7f96-0f37-4329-8269-7c18f65165f6
+UID:c12b1f54-dc67-46f9-9017-7e9810389b64
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251010
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -382,14 +392,15 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 13: Tính chất giao hoán\, tí
  nh chất kết hợp của phép cộng - tiết1\n★ Tiết 2: Tiếng 
  Việt – Nói và nghe: Kể về một việc làm thể hiện tình c
  ảm của em với người thân\n★ Tiết 3: Tiếng Việt – Viế
- t: Nhận diện bài văn thuật lại một sự việc\nTiết 4: LS-
- ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp:  Những hậu quả khi 
- bị xâm hại
+ t: Nhận diện bài văn thuật lại một sự việc\n★ Tiết 4: 
+ LS-ĐL – Bài 5: Dân cư và hoạt động sản xuất ở vùng Trun
+ g du và miền núi Bắc Bộ (Tiết 1)\n★ Tiết 5: HĐTN – Sinh h
+ oạt lớp:  Những hậu quả khi bị xâm hại
 END:VEVENT
 BEGIN:VEVENT
-UID:67db6214-ead8-4e29-a3ff-05ad6c356921
+UID:c7559adf-f8b6-44d2-8aac-8b7cbc602507
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251013
 DTEND;VALUE=DATE:20251013
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -402,9 +413,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Nghe nói ch
  g Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:71f3d86a-ab9e-497c-a611-15498185a920
+UID:e2a388ae-39b8-4435-a27a-4f27d29ad895
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251014
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -418,9 +429,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ách\, Chủ điểm: Mảnh ghép yêu thương
 END:VEVENT
 BEGIN:VEVENT
-UID:9bac2d30-7786-4605-8306-2057a54f7791
+UID:c6afa599-132d-4a67-aaab-93af4dac93a2
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251015
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -431,14 +442,16 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về đ
  ĐTN – Hoạt động giáo dục theo chủ đề: Nhận hiện tình 
  huống có nguy cơ bị xâm hại\; Chia sẻ về cách ứng phó tr
  ước nguy cơ bị xâm hại thân thể.\n★ Tiết 6: Tiếng Việt
-  – Viết: Lập dàn ý cho bài văn thuật lại sự việc\nTiết
-  7: LS-ĐL\n★ Tiết 8: Toán – Bài 14: Tính chất giao hoán\, tí
- nh chất kết hợp của phép nhân - t2
+  – Viết: Lập dàn ý cho bài văn thuật lại sự việc\n★ Ti
+ ết 7: LS-ĐL – Bài 5: Dân cư và hoạt động sản xuất ở v
+ ùng Trung du và miền núi Bắc Bộ (Tiết 2)\n★ Tiết 8: Toán 
+ – Bài 14: Tính chất giao hoán\, tính chất kết hợp của phé
+ p nhân - t2
 END:VEVENT
 BEGIN:VEVENT
-UID:3d5f0bba-3c8c-4806-a784-483ad859e808
+UID:6ac148e2-5edf-4d84-8289-ea5acdacc450
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251016
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -449,9 +462,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 15: Em làm được những gì?
  Vàm\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:7f3111c9-74b6-40ac-8ff8-cb463a9f9630
+UID:287165d8-d826-4b2c-b60d-2ce330b0b881
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251017
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -460,13 +473,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 15: Em làm được những gì?
   - tiết 2\n★ Tiết 2: Tiếng Việt – LTVC: Tính từ\n★ Tiết
   3: Tiếng Việt – Viết: Viết đoạn văn cho bài văn thuật l
- ại một sự việc\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh ho
- ạt lớp:  Biện pháp phòng tránh bị xâm hại thân thể
+ ại một sự việc\n★ Tiết 4: LS-ĐL – Bài 5: Dân cư và ho
+ ạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ (T
+ iết 3)\n★ Tiết 5: HĐTN – Sinh hoạt lớp:  Biện pháp phòng
+  tránh bị xâm hại thân thể
 END:VEVENT
 BEGIN:VEVENT
-UID:6b358d7b-b186-47ad-bb27-0793a87fffbb
+UID:aa6506fd-05d9-4d09-aea4-ac4306740e86
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251020
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -478,9 +493,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Biểu diễ
  ết 4: Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:7b8d91a8-86d6-4d49-be5f-be9d398887a0
+UID:28bf932f-5c7c-4ce8-a96a-30aa7880b404
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251021
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -492,9 +507,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ★ Tiết 7: Tiếng Việt – Đọc: Một li sữa
 END:VEVENT
 BEGIN:VEVENT
-UID:029d40b1-fcea-41b2-879f-59f36d9ec1ba
+UID:8d38f43f-124e-4dbb-bf0e-9e576f7bdb21
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251022
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -505,13 +520,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về tín
  – Hoạt động giáo dục theo chủ đề: Nhận diện những hà
  nh vi và cách tránh bị xâm hại tinh thần\n★ Tiết 6: Tiếng 
  Việt – Viết: Viết: đoạn mở bài và đoạn kết bài cho b
- ài văn thuật lại một sự việc\nTiết 7: LS-ĐL\n★ Tiết 8: 
- Toán – Bài 17: Biểu đồ cột - tiết 1
+ ài văn thuật lại một sự việc\n★ Tiết 7: LS-ĐL – Bài 6:
+  Một số nét văn hóa ở vùng Trung du và miền núi Bắc Bộ (
+ Tiết 1)\n★ Tiết 8: Toán – Bài 17: Biểu đồ cột - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:714fb6e6-991a-4acf-a9fe-40f5abb549f9
+UID:996a6d19-7ea1-429a-a512-44e6ca6d1ebd
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251023
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -522,9 +538,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 17: Biểu đồ cột - tiết 2
  ân yêu\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:efbec8a9-06f3-4c67-b584-4640f1bc16c2
+UID:8d4397a8-8f3f-41ca-8cb1-fb3883d2e746
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251024
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -533,14 +549,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 17: Biểu đồ cột - tiết 3
  \n★ Tiết 2: Tiếng Việt – Nói và nghe: Thảo luận về việ
  c hỗ trợ học sinh có hoàn cảnh khó khăn\n★ Tiết 3: Tiếng
-  Việt – Viết: Viết bài văn thuật lại một sự việc\nTi
- ết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Xử lí bị x
- âm hại tinh thần
+  Việt – Viết: Viết bài văn thuật lại một sự việc\n★ 
+ Tiết 4: LS-ĐL – Bài 6: Một số nét văn hóa ở vùng Trung du 
+ và miền núi Bắc Bộ (Tiết 2)\n★ Tiết 5: HĐTN – Sinh hoạt
+  lớp: Xử lí bị xâm hại tinh thần
 END:VEVENT
 BEGIN:VEVENT
-UID:60861c9e-a9ec-477d-945b-ac4971bf2353
+UID:30541f95-e8e5-4f64-9e55-44fbfc941412
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251027
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -553,9 +570,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Giao lưu v
  iết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:4a3ce46f-48dd-47b3-abcd-daa3d0defc59
+UID:eb5affc1-dbbb-4e56-a11c-7f70dd47bad2
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251028
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -569,9 +586,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  p yêu thương
 END:VEVENT
 BEGIN:VEVENT
-UID:5e1ed31a-ce1e-435c-8c2c-de222e50181e
+UID:76443f13-a067-4252-b4d5-87abf6b4bf4a
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251029
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -582,13 +599,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về tín
  – Hoạt động giáo dục theo chủ đề: Nhận diện nguy cơ v
  à cách phòng tránh bị xâm hại tình dục. Thực hành phòng tr
  ánh bị xâm hại tình dục. \n★ Tiết 6: Tiếng Việt – Viế
- t: Viết: báo cáo thảo luận nhóm\nTiết 7: LS-ĐL\n★ Tiết 8: 
+ t: Viết: báo cáo thảo luận nhóm\n★ Tiết 7: LS-ĐL – Bài 7:
+  Đền Hùng và lễ Giỗ Tổ Hùng Vương (Tiết 1)\n★ Tiết 8: 
  Toán – Bài 19: Tìm số trung bình cộng - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:88fe6df6-4427-4ed7-9e56-41fdfa0eb319
+UID:b95bd214-5873-4642-95b9-59562df23ea9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251030
 DTEND;VALUE=DATE:20251030
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -599,9 +617,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 19: Tìm số trung bình cộng
  ờn Bác\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:3f8979ac-381b-46fa-9cf5-39c54a3a472a
+UID:157ea845-9fe0-4005-b60b-8dcd56fd4a8b
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251031
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -610,14 +628,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 20: Đề-xi-mét vuông - tiết
   1\n★ Tiết 2: Tiếng Việt – LTVC: Mở rộng vốn từ Nhân h
  ậu\n★ Tiết 3: Tiếng Việt – Viết: Trả bài văn thuật l
- ại một sự việc\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh ho
+ ại một sự việc\n★ Tiết 4: LS-ĐL – Bài 7: Đền Hùng và 
+ lễ Giỗ Tổ Hùng Vương (Tiết 2)\n★ Tiết 5: HĐTN – Sinh ho
  ạt lớp: Diễn tập cách bảo vệ bản thân\, phòng tránh bị
   xâm hại tình dục.  
 END:VEVENT
 BEGIN:VEVENT
-UID:a93c049c-cb44-4b25-88e1-a71b68270ab8
+UID:d59c1f6c-34b3-4148-80e9-6f8355658ac1
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251103
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -630,9 +649,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia th
  DTC
 END:VEVENT
 BEGIN:VEVENT
-UID:2b3dd5d6-1a73-4bdf-a3df-a9547084412b
+UID:1e9d3c86-82b9-4e64-9c5e-16b76c085f60
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -647,9 +666,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  c
 END:VEVENT
 BEGIN:VEVENT
-UID:41296ab8-5d53-4e72-9965-47f19738b346
+UID:f38aca26-1d1d-4085-b045-c0487cedd020
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251105
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -663,13 +682,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – Nói và nghe: Tiết 3: Ôn
  \, bạn bè. Tìm hiểu những lời nói\, việc làm để duy trì 
  và phát triển quan hệ tốt đẹp với thầy\, cô giáo. \n★ T
  iết 6: Tiếng Việt – LTVC: Tiết 4: Ôn luyện từ và câu: Dan
- h từ\, động từ\, tính từ\nTiết 7: LS-ĐL\n★ Tiết 8: Toán 
- – Bài 21: Mét vuông - tiết 2
+ h từ\, động từ\, tính từ\n★ Tiết 7: LS-ĐL – Ôn tập và
+  đánh giá Giữa HKI\n★ Tiết 8: Toán – Bài 21: Mét vuông - ti
+ ết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:8779e0f9-3555-499b-bd78-b429a6ccb1f3
+UID:9bd7ecca-5838-4aa1-9d60-500d68eb80e0
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -682,9 +702,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 22: Em làm được những gì?
  o Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:619e799a-3f90-47b9-96db-a854f226b651
+UID:29632021-a161-4816-a3c5-0355fa78df89
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251107
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -693,14 +713,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 22: Em làm được những gì?
   - tiết 2\n★ Tiết 2: Tiếng Việt – Viết: Tiết 6: Đánh gi
  á Giữa học kì I\n★ Tiết 3: Tiếng Việt – Viết: Tiết 7: 
- Đánh giá Giữa học kì I\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – 
- Sinh hoạt lớp: Tìm hiểu những lời nói\, việc làm để duy 
- trì và phát triển quan hệ tốt đẹp với bạn bè.  
+ Đánh giá Giữa học kì I\n★ Tiết 4: LS-ĐL – Bài 8: Thiên nh
+ iên vùng Đồng bằng Bắc Bộ (Tiết 1)\n★ Tiết 5: HĐTN – S
+ inh hoạt lớp: Tìm hiểu những lời nói\, việc làm để duy t
+ rì và phát triển quan hệ tốt đẹp với bạn bè.  
 END:VEVENT
 BEGIN:VEVENT
-UID:c18d176b-b59e-4918-9e69-c072af3da5c0
+UID:5776bfaf-32e2-4a90-a7b9-38e745152ea2
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251110
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -712,9 +733,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Chương tr
  4: Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:9ac25b19-5b2c-4b42-a5bb-d60ce322ec5c
+UID:26ff4646-3797-4d94-90c1-32be76d578a6
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251111
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -726,9 +747,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  Yết Kiêu\n★ Tiết 7: Tiếng Việt – Đọc: Yết Kiêu
 END:VEVENT
 BEGIN:VEVENT
-UID:68da2e6b-feda-4547-90d6-a753e673b1b6
+UID:aa69ffe5-8ab7-4a1f-be54-6f99a6bc7f9d
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251112
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -741,13 +762,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về Tín
  với thầy\, cô giáo. Lập kế hoạch thực hiện những việc 
  làm duy trì và phát triển quan hệ tốt đẹp với bạn bè.  
   \n★ Tiết 6: Tiếng Việt – Viết: Luyện tập lập dàn ý ch
- o bài văn thuật lại một sự việc\nTiết 7: LS-ĐL\n★ Tiết 
- 8: Toán – Bài 23: Thực hành và trải nghiệm - tiết 2
+ o bài văn thuật lại một sự việc\n★ Tiết 7: LS-ĐL – Bài
+  8: Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 2)\n★ Tiết 8
+ : Toán – Bài 23: Thực hành và trải nghiệm - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:8f40d617-a17f-4e40-b1e8-863f75a94e50
+UID:1ccc813e-c7e0-43ef-81ec-764eef8b9dee
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -758,9 +780,9 @@ DESCRIPTION:★ Tiết 1: Toán – Kiểm tra giữa học kì I\n★ Ti
  ức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:e6dd4f54-7abf-4b9d-a009-14877c487f1d
+UID:3823aa39-6c9e-48ed-9eaa-441d10802518
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251114
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -770,14 +792,15 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 24: Các số có sáu chữ số
  . Hàng và lớp - tiết 1\n★ Tiết 2: Tiếng Việt – Nói và ng
  he: Nói về một anh hùng hoặc một tài năng nhỏ tuổi\n★ Ti
  ết 3: Tiếng Việt – Viết: Luyện tập viết đoạn văn cho b
- ài văn thuật lại một sự việc\nTiết 4: LS-ĐL\n★ Tiết 5: 
- HĐTN – Sinh hoạt lớp: Làm báo tường chào mừng ngày Nhà gi
+ ài văn thuật lại một sự việc\n★ Tiết 4: LS-ĐL – Bài 8:
+  Thiên nhiên vùng Đồng bằng Bắc Bộ (Tiết 3)\n★ Tiết 5: H
+ ĐTN – Sinh hoạt lớp: Làm báo tường chào mừng ngày Nhà gi
  áo Việt Nam. 
 END:VEVENT
 BEGIN:VEVENT
-UID:7e957640-1dbe-4f8e-954b-17b2e853f4c1
+UID:1ad206df-aa42-4515-8585-743725b4ab0f
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251117
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -790,9 +813,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Biểu diễ
  h\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:44ee930b-95a3-42b6-b0ea-fb140d6c45cd
+UID:2b06898e-2838-4557-9fcc-805ccec30a51
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251118
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -805,9 +828,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  mở rộng SHCLB đọc sách: Chủ điểm: Những người tài trí
 END:VEVENT
 BEGIN:VEVENT
-UID:6cf42fc0-9856-4088-a9b4-793390946693
+UID:8471861f-1c24-4ea1-bcec-657f75860280
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251119
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -819,14 +842,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về danh
  : Xác định một số vấn đề thường xảy ra trong quan hệ b
  ạn bè. Tìm hiểu cách giải quyết khi có vấn đề xảy ra tr
  ong quan hệ với bạn bè.  \n★ Tiết 6: Tiếng Việt – Viết
- : Luyện viết viết bài văn thuật lại một sự việc\nTiết 
- 7: LS-ĐL\n★ Tiết 8: Toán – Bài 25: Triệu\, lớp triệu - ti
- ết 1
+ : Luyện viết viết bài văn thuật lại một sự việc\n★ Ti
+ ết 7: LS-ĐL – Bài 9: Dân cư và hoạt động sản xuất ở v
+ ùng Đồng bằng Bắc Bộ (Tiết 1)\n★ Tiết 8: Toán – Bài 25
+ : Triệu\, lớp triệu - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:53e9f228-ea28-40a4-a8a3-08214f4ee08b
+UID:db3bb1f6-a15a-43fb-b24a-01d047488957
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -837,9 +861,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 25: Triệu\, lớp triệu - ti
  ơn\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:0f847c00-4611-4360-ac50-bb68ae97eeb7
+UID:2e937969-333f-4f54-b904-7c95a9fc75ef
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -848,13 +872,14 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 26: Đọc\, viết các số t
  ự nhiên trong hệ thập phân- tiết 1\n★ Tiết 2: Tiếng Việt
   – LTVC: Từ điển\n★ Tiết 3: Tiếng Việt – Viết: Viết g
- iấy mời\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: 
- Tham gia trò chơi tập thể.  
+ iấy mời\n★ Tiết 4: LS-ĐL – Bài 9: Dân cư và hoạt động 
+ sản xuất ở vùng Đồng bằng Bắc Bộ (Tiết 2)\n★ Tiết 5:
+  HĐTN – Sinh hoạt lớp: Tham gia trò chơi tập thể.  
 END:VEVENT
 BEGIN:VEVENT
-UID:3d55442f-3698-4ac0-a27c-ce19b87ab6cd
+UID:31cf7e1a-f1d0-4100-b0f9-6d58ae1d82cb
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251124
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -867,9 +892,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia t
  ếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:c545f0e4-1be1-411e-9bd1-abfabccd4240
+UID:40d2c4cb-aa6f-40cd-9524-a3cb8f67d8bd
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251125
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -882,9 +907,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
   Đọc: Ai tài giỏi nhất
 END:VEVENT
 BEGIN:VEVENT
-UID:422e8faa-a79e-4f13-8562-c40e0cad7504
+UID:64576927-88ce-4310-af87-6ac8cacf2fc3
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251126
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -896,14 +921,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Biện pháp nhân hóa
  quan hệ với bạn bè. Chia sẻ về những thay đổi tích cực 
  trong việc duy trì và phát triển quan hệ tốt đẹp với bạn
   bè\, thầy cô.  \n★ Tiết 6: Tiếng Việt – Viết: Trả bài
-  văn thuật lại một sự việc\nTiết 7: LS-ĐL\n★ Tiết 8: To
- án – Bài 27: So sánh và xếp thứ tự các số tự nhiên - ti
- ết 2
+  văn thuật lại một sự việc\n★ Tiết 7: LS-ĐL – Bài 9: D
+ ân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc B
+ ộ (Tiết 3)\n★ Tiết 8: Toán – Bài 27: So sánh và xếp thứ 
+ tự các số tự nhiên - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:6a0e1b44-8c67-4a09-86ea-7f340032c6e9
+UID:8491f07a-5598-44da-8810-dccd03eb7f85
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251127
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -914,9 +940,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 28: Dãy số tự nhiên  \n★
  ạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:5d79ce8a-ac9f-4d4e-8263-47fbf41d8cba
+UID:42407725-4371-4ea2-9b57-e9a7c73c7713
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251128
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -925,14 +951,16 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 29: Em làm được những gì?
   - tiết 1\n★ Tiết 2: Tiếng Việt – Nói và nghe: Thuyết trì
  nh về trí tuệ và tài năng của con người\n★ Tiết 3: Tiến
- g Việt – Viết: Nhận diện bài văn viết thư\nTiết 4: LS-ĐL
- \n★ Tiết 5: HĐTN – Sinh hoạt lớp: Tham gia múa hát tập th
- ể theo Chủ đề “Thầy cô và bạn bè”.  
+ g Việt – Viết: Nhận diện bài văn viết thư\n★ Tiết 4: LS
+ -ĐL – Bài 10: Một số nét văn hóa ở làng quê vùng Đồng b
+ ằng Bắc Bộ (Tiết 1)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Th
+ am gia múa hát tập thể theo Chủ đề “Thầy cô và bạn bè
+ ”.  
 END:VEVENT
 BEGIN:VEVENT
-UID:7bb58a01-e1fc-422c-b976-974a2c4becdc
+UID:bfc34560-9bf8-494e-a282-e5f567e1fa13
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251201
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -945,9 +973,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Hưởng ứ
  7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:09643bc5-608d-4192-be67-2e277fa7435c
+UID:fb16546e-7751-4bb9-be46-5424860af69f
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251202
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -961,9 +989,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ững người tài trí
 END:VEVENT
 BEGIN:VEVENT
-UID:bfe5edfc-97bc-4da2-bb83-12e980b0428b
+UID:01fee071-1c76-4001-bb05-fba62f7f084e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -974,14 +1002,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về nhâ
  – Hoạt động giáo dục theo chủ đề: - Xác định các hành
   vi có văn hóa nơi công cộng. - Xử lí tình huống ứng xử c
  ó văn hóa ở nơi công cộng.   \n★ Tiết 6: Tiếng Việt – 
- Viết: Viết: thư cho người thân\nTiết 7: LS-ĐL\n★ Tiết 8: T
- oán – Bài 30: Đo góc – Góc nhọn\, góc tù\, góc bẹt - tiế
- t 2
+ Viết: Viết: thư cho người thân\n★ Tiết 7: LS-ĐL – Bài 10:
+  Một số nét văn hóa ở làng quê vùng Đồng bằng Bắc Bộ 
+ (Tiết 2)\n★ Tiết 8: Toán – Bài 30: Đo góc – Góc nhọn\, g
+ óc tù\, góc bẹt - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:a349608b-5b8e-4111-8277-d8b44db7125f
+UID:851e321f-2b1e-409d-bc3a-eb55dd07cf8f
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -992,9 +1021,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 31: Hai đường thẳng vuông
  ao nguyên đá\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:1fa9d1fa-ed7e-4475-a528-4fa3db17a3f7
+UID:851f3f92-0e05-49c7-9180-57d9c2499953
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1003,13 +1032,14 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 32: Hai đường thẳng song so
  ng - tiết 1\n★ Tiết 2: Tiếng Việt – LTVC: Mở rộng vốn t
  ừ: Tài trí \n★ Tiết 3: Tiếng Việt – Viết: Viết thư cho 
- bạn bè\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Ch
- ia sẻ những hành vi có văn hóa nơi công cộng.  
+ bạn bè\n★ Tiết 4: LS-ĐL – Bài 11: Sông Hồng và văn minh s
+ ông Hồng (Tiết 1)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Chia s
+ ẻ những hành vi có văn hóa nơi công cộng.  
 END:VEVENT
 BEGIN:VEVENT
-UID:717aa54a-18d1-42ec-96e9-20b627997d74
+UID:e15c6f5f-db3e-4f3e-8615-bba62cb6b22a
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251208
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1021,9 +1051,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ:Truyền th
  t 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:0aef1516-3545-4d58-a072-52ec5309e2b3
+UID:a2772008-9022-4e15-9142-93da61f2af1f
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1036,9 +1066,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  Ở Vương quốc Tương Lai
 END:VEVENT
 BEGIN:VEVENT
-UID:ded10d62-a7f5-4272-b9ed-c37355505903
+UID:d00d387f-edbb-42f4-81ae-39ce379c3cfa
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1050,13 +1080,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về nhâ
  động kết nối cộng đồng mà em có thể tham gia. Lập kế h
  oạch tham gia các hoạt động kết nối cộng đồng.   \n★ T
  iết 6: Tiếng Việt – Viết: Viết: đoạn văn tưởng tượng
- \nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 33. Em làm được nh
- ững gì? - tiết 2
+ \n★ Tiết 7: LS-ĐL – Bài 11: Sông Hồng và văn minh sông Hồn
+ g (Tiết 2)\n★ Tiết 8: Toán – Bài 33. Em làm được những g
+ ì? - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:059390cd-9f4d-430b-83e0-524dfd7f3f53
+UID:3cf0eb5f-7a5a-4d94-bdb9-0fb63cbad511
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1067,9 +1098,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 34: Giây - tiết 1\n★ Tiết
  Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:c333261e-f7d6-4aa5-8398-dc7cbc4a504e
+UID:614420fa-3df1-4929-ba6b-cd9f24b2012e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1078,14 +1109,14 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 34: Giây - tiết 2\n★ Tiết 
  2: Tiếng Việt – Nói và nghe: Nghe - kể câu chuyện về ước
   mơ\n★ Tiết 3: Tiếng Việt – Viết: Luyện tập viết đoạ
- n văn tưởng tượng\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh h
- oạt lớp: Báo cáo những việc em đã tham gia để kết nối c
- ộng đồng.  
+ n văn tưởng tượng\n★ Tiết 4: LS-ĐL – Bài 12: Thăng Long 
+ – Hà Nội (Tiết 1)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Báo 
+ cáo những việc em đã tham gia để kết nối cộng đồng.  
 END:VEVENT
 BEGIN:VEVENT
-UID:48ae7682-12ee-413e-b962-c3d8b4723347
+UID:f348d968-5851-4059-bc63-7b0d1942ccb9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251215
 DTEND;VALUE=DATE:20251215
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1097,9 +1128,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia gia
  iết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:622de7d7-72cf-4223-9a63-b2aa65e25034
+UID:ba3ab130-8b22-473a-b9a1-99a7cbb64418
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251216
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1112,9 +1143,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ọc sách: Chủ điểm: Những ước mơ xanh
 END:VEVENT
 BEGIN:VEVENT
-UID:ccbca7ca-f3da-40d3-8977-0f28ce91c5f4
+UID:a317c99b-ffdf-4e42-8d47-06e7e7dee25a
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1126,14 +1157,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về nhâ
   động đền ơn đáp nghĩa và giáo dục truyền thống quê hư
  ơng. Xây dựng dự án đền ơn đáp nghĩa và giáo dục truyề
  n thống quê hương ở địa phương.   \n★ Tiết 6: Tiếng Vi
- ệt – Viết: Luyện tập viết đoạn văn tưởng tượng\nTi
- ết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 36: Yến\, tạ\, tấn - ti
- ết 1
+ ệt – Viết: Luyện tập viết đoạn văn tưởng tượng\n★ 
+ Tiết 7: LS-ĐL – Bài 12: Thăng Long – Hà Nội (Tiết 2)\n★ Ti
+ ết 8: Toán – Bài 36: Yến\, tạ\, tấn - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:eec6c26b-d9b4-401a-b8d7-11372aca1894
+UID:e47fb1db-c91c-44c6-b2a9-ff253b8c82a4
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1144,9 +1175,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 36: Yến\, tạ\, tấn - tiết
  iết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:29ef1a47-7fbb-417b-b3d5-0180815e370d
+UID:dd511183-81b2-4838-ab83-0363ebeb6302
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1155,15 +1186,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 37: Em làm được những gì?
   - Tiết 1\n★ Tiết 2: Tiếng Việt – LTVC: Luyện tập về nh
  ân hóa\n★ Tiết 3: Tiếng Việt – Viết: Viết đoạn văn nê
- u tình cảm\, cảm xúc\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh
-  hoạt lớp: Báo cáo tiến độ thực hiện dự án đền ơn đ
- áp nghĩa và giáo dục truyền thống quê hương ở địa phươ
- ng 
+ u tình cảm\, cảm xúc\n★ Tiết 4: LS-ĐL – Bài 12: Thăng Long 
+ – Hà Nội (Tiết 3)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Báo 
+ cáo tiến độ thực hiện dự án đền ơn đáp nghĩa và giáo
+  dục truyền thống quê hương ở địa phương 
 END:VEVENT
 BEGIN:VEVENT
-UID:f59c6027-8c40-4071-9283-fc72ec27b04b
+UID:e60f686a-0d97-41e3-8ca2-ec195c67c327
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251222
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1176,9 +1207,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Chào mừng
  ết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:decd56f6-8784-4760-b60e-88c105cbf74a
+UID:d40cb142-27e5-4ad7-abf6-b29d94b41705
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251223
 DTEND;VALUE=DATE:20251223
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1191,9 +1222,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  trên đỉnh núi
 END:VEVENT
 BEGIN:VEVENT
-UID:8207301e-e894-4223-9641-041186e3ae0a
+UID:600443c7-aade-4237-8ace-3af1408102a4
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1205,13 +1236,13 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập sử dụ
  ả thực hiện dự án đền ơn đáp nghĩa và giáo dục truyề
  n thống quê hương ở địa phương.  \n★ Tiết 6: Tiếng Vi
  ệt – Viết: Luyện tập viết đoạn văn nêu tình cảm\, cả
- m xúc\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 38: Ôn tập học
-  kì I - tiết 2
+ m xúc\n★ Tiết 7: LS-ĐL – Bài 13: Văn Miếu – Quốc Tử Giá
+ m \n★ Tiết 8: Toán – Bài 38: Ôn tập học kì I - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:b865e980-c75e-4a41-8479-c09e60927829
+UID:3869fb11-96c9-424c-bce2-40bfc1ff1ced
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251225
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1222,9 +1253,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 38: Ôn tập học kì I - tiế
  ộc thi vẽ\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:272d36ae-5a57-4326-901f-26d4d85292ce
+UID:88a50e24-c406-4130-8f4f-e7f074a3ecec
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1233,15 +1264,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 38: Ôn tập học kì I - tiế
  t 4\n★ Tiết 2: Tiếng Việt – Nói và nghe: Giới thiệu một 
  sản phẩm thực hiện ở trường\n★ Tiết 3: Tiếng Việt –
-  Viết: Viết đoạn văn nêu lí do thích một câu chuyện\nTiế
- t 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Đánh giá dự 
- án đền ơn đáp nghĩa và giáo dục truyền thống quê hương 
- ở địa phương.  
+  Viết: Viết đoạn văn nêu lí do thích một câu chuyện\n★ T
+ iết 4: LS-ĐL – Ôn tập Học kì I\n★ Tiết 5: HĐTN – Sinh ho
+ ạt lớp: Đánh giá dự án đền ơn đáp nghĩa và giáo dục t
+ ruyền thống quê hương ở địa phương.  
 END:VEVENT
 BEGIN:VEVENT
-UID:b1731d9d-53fe-492d-a368-8c91ec991888
+UID:5f67d8d4-364d-44df-bea5-7952cee0a615
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251229
 DTEND;VALUE=DATE:20251229
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1253,9 +1284,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Hội diễn
  nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:456482fb-776b-4eaa-bf31-6ff158d6b2d7
+UID:b1e009c5-d360-4071-9c1e-0d64dd7483bb
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251230
 DTEND;VALUE=DATE:20251230
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1268,9 +1299,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ng SHCLB đọc sách: Chủ điểm: Những ước mơ xanh
 END:VEVENT
 BEGIN:VEVENT
-UID:46216ffe-a3ff-463a-ba13-590133e611e6
+UID:12583ec3-0fbb-4463-b1f4-ee44e4a3bd48
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20251231
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1282,13 +1313,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập sử dụ
  ệc mua sắm phù hợp với khả năng tài chính của bản thân 
  và gia đình. Chia sẻ về lợi ích của việc tiết kiệm.   \
  n★ Tiết 6: Tiếng Việt – Viết: Luyện tập viết đoạn vă
- n nêu lí do thích một câu chuyện\nTiết 7: LS-ĐL\n★ Tiết 8: 
- Toán – Bài 38: Ôn tập học kì I - tiết 7
+ n nêu lí do thích một câu chuyện\n★ Tiết 7: LS-ĐL – Kiểm 
+ tra Học kì I\n★ Tiết 8: Toán – Bài 38: Ôn tập học kì I - 
+ tiết 7
 END:VEVENT
 BEGIN:VEVENT
-UID:74d7bdaf-443c-4218-a87b-bb3c368e1b4a
+UID:79c98272-5af0-4bc8-9d8e-b25f273c1e46
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260101
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1299,9 +1331,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 38: Ôn tập học kì I - tiế
  iết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:d75e0d28-79c4-479b-abb4-284ee056daef
+UID:32572843-4416-484d-b779-fc8dc80d84e9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260102
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1310,14 +1342,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 38: Ôn tập học kì I - tiế
  t 9\n★ Tiết 2: Tiếng Việt – LTVC: Mở rộng vốn từ: Ước
   mơ\n★ Tiết 3: Tiếng Việt – Viết: Luyện tập viết đoạ
- n văn nêu lí do thích một câu chuyện\nTiết 4: LS-ĐL\n★ Tiế
- t 5: HĐTN – Sinh hoạt lớp: Những việc làm gây lãng phí tron
- g cuộc sống hằng ngày.  
+ n văn nêu lí do thích một câu chuyện\n★ Tiết 4: LS-ĐL – B
+ ài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 1)\n★ Ti
+ ết 5: HĐTN – Sinh hoạt lớp: Những việc làm gây lãng phí t
+ rong cuộc sống hằng ngày.  
 END:VEVENT
 BEGIN:VEVENT
-UID:7860c586-c510-4b1a-9353-15eea1bad1cb
+UID:058b9716-72f3-41c6-a0d7-c3a485e2d7b1
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260105
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1329,9 +1362,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tìm hiểu
  ết 4: Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:1760742b-f42d-4d54-a1d7-d05a35fe5d7d
+UID:52956e23-6d3e-419c-a5c9-d53fc97fe838
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260106
 DTEND;VALUE=DATE:20260106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1346,9 +1379,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  cơ quan\, tổ chức
 END:VEVENT
 BEGIN:VEVENT
-UID:96154929-3167-4d3b-8b59-024eb62fe35c
+UID:fc9fd3f3-c853-4111-9667-763c80d068e5
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260107
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1361,13 +1394,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – Nói và nghe: Tiết 3: Ôn
  heo chủ đề: Tìm hiểu các cách tiết kiệm tiền trong gia đ
  ình. Tìm hiểu các cách so sánh giá cả của hàng hóa.  \n★ 
  Tiết 6: Tiếng Việt – LTVC: Tiết 4: Ôn luyện từ và câu: Da
- nh từ\, động từ\, tính từ\; nhân hóa\nTiết 7: LS-ĐL\n★ Ti
- ết 8: Toán – Bài 39: Thực hành và trải nghiệm - tiết 2
+ nh từ\, động từ\, tính từ\; nhân hóa\n★ Tiết 7: LS-ĐL –
+  Bài 14 : Thiên nhiên vùng Duyên hải miền Trung (Tiết 2)\n★ T
+ iết 8: Toán – Bài 39: Thực hành và trải nghiệm - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:5866ad9f-aa8f-420f-a178-10421d00d83a
+UID:b84134c0-992b-4709-91bd-8a9db4610c98
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260108
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1379,9 +1413,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 39: Thực hành và trải nghi
  ường em\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:b5ca6b22-4569-4ccb-adb6-c32c7bd5f244
+UID:4317146f-521b-40b5-9450-e66f9d17d512
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260109
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1390,14 +1424,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Kiểm tra học kì I\n★ Tiết 2: 
  Tiếng Việt – Viết: Tiết 6: Đánh giá Cuối học kì I\n★ T
  iết 3: Tiếng Việt – Viết: Tiết 7: Đánh giá Cuối học kì
-  I\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Làm phi
+  I\n★ Tiết 4: LS-ĐL – Bài 14 : Thiên nhiên vùng Duyên hải mi
+ ền Trung (Tiết 3)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Làm phi
  ếu so sánh giá của một số mặt hàng phổ biến sử dụng t
  rong dịp đón năm mới.  
 END:VEVENT
 BEGIN:VEVENT
-UID:7c7793a0-c3b7-4c24-a779-a3bfda454396
+UID:b2c1bc5d-7e8c-4800-9682-75f732a1a302
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260112
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1410,9 +1445,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tìm hiểu
  GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:d4f1ffc8-ce22-4ea5-9ddc-20d53188a2b5
+UID:693d8946-d5d9-496f-b3c9-0c71a06cfb10
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1425,9 +1460,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  – Đọc: Cuộc phiêu lưu của bồ công anh
 END:VEVENT
 BEGIN:VEVENT
-UID:71639165-f52b-44a8-a18b-66eb5d9b0995
+UID:ba099f15-7a6a-4523-af4d-65e827a0238c
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260114
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1439,13 +1474,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Câu\nTiết 2: Âm nh
  a phổ biến. Thực hành lựa chọn những mặt hàng muốn mua p
  hù hợp với khả năng tài chính của bản thân và gia đình. 
    \n★ Tiết 6: Tiếng Việt – Viết: Nhận diện bài văn miê
- u tả cây cối\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 41: Phé
- p trừ cá số tự nhiên - tiết 1
+ u tả cây cối\n★ Tiết 7: LS-ĐL – Bài 15 : Dân cư và hoạt 
+ động sản xuất ở vùng Duyên hải miền Trung (Tiết 1)\n★ T
+ iết 8: Toán – Bài 41: Phép trừ cá số tự nhiên - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:70f92754-1106-45ab-a0aa-ae2941bdbea7
+UID:21144bb1-fe94-4220-af8b-73c2a13f8eb8
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260115
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1456,9 +1492,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 41: Phép trừ cá số tự nhi
  ân dân\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:0eb08631-3134-4d18-b9ad-c4b5b95b8994
+UID:840131aa-2d8d-4ea4-92aa-739d0b31f356
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260116
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1468,13 +1504,15 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 42: Tìm hai số khi biết tổ
  ng và hiệu của hai số đó - tiết 1\n★ Tiết 2: Tiếng Việt
   – Nói và nghe: Nghe - kể câu chuyện về lòng nhân ái\n★ Ti
  ết 3: Tiếng Việt – Viết: Quan sát\, tìm ý cho bài văn miêu
-  tả cây cối\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt l
- ớp: Thực hành mua sắm trong dịp Tết.  
+  tả cây cối\n★ Tiết 4: LS-ĐL – Bài 15 : Dân cư và hoạt 
+ động sản xuất ở vùng Duyên hải miền Trung (Tiết 2)\n★ T
+ iết 5: HĐTN – Sinh hoạt lớp: Thực hành mua sắm trong dịp T
+ ết.  
 END:VEVENT
 BEGIN:VEVENT
-UID:3bc277d0-4483-459b-abf5-1059fa44e6a7
+UID:6e68ba4b-94f2-4f1d-8b9d-20a03908c82d
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260119
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1487,9 +1525,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tổng kết
  6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:649a182b-edb3-452f-81ab-95b092b00e2e
+UID:aa653dfa-af3c-4e86-8ed2-445cc115dbe8
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260120
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1502,9 +1540,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  LB đọc sách: Chủ điểm: Cuộc sống mến yêu
 END:VEVENT
 BEGIN:VEVENT
-UID:df73bd09-71e0-4044-91bf-23c95af72048
+UID:148c6bbd-4fd1-4d20-abf5-70695429abe2
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260121
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1515,13 +1553,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Thành phần chính c
  TN – Hoạt động giáo dục theo chủ đề: Lập kế hoạch mua
   sắm đồ dùng cần thiết cho cá nhân. Làm sổ theo dõi chi ti
  êu của bản thân.  \n★ Tiết 6: Tiếng Việt – Viết: Lập 
- dàn ý cho bài văn tả cây cối\nTiết 7: LS-ĐL\n★ Tiết 8: To
- án – Bài 43: Em làm được những gì? - tiết 2
+ dàn ý cho bài văn tả cây cối\n★ Tiết 7: LS-ĐL – Bài 15 : 
+ Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Tru
+ ng (Tiết 3)\n★ Tiết 8: Toán – Bài 43: Em làm được những g
+ ì? - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:9833e25b-18a8-405b-9253-25b7b7c38128
+UID:8e5f8037-1e0e-41a1-8d61-5d063ba39f19
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260122
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1532,9 +1572,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 44: Nhân với số có một ch
  nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:b7700ca9-ea00-4843-b0fd-ccd73ffc999c
+UID:12705f60-c510-4768-b42f-2a54823d7f19
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260123
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1543,14 +1583,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 45: Nhân với 10\,100\,1000\,
  … Chia cho 10\,100\,1000\,…\n★ Tiết 2: Tiếng Việt – LTVC: Lu
  yện tập về chủ ngữ\n★ Tiết 3: Tiếng Việt – Viết: Vi
- ết đoạn văn mở bài cho bài văn miêu tả cây cối\nTiết 4:
-  LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Chơi trò chơi “Đ
- i siêu thị”.  
+ ết đoạn văn mở bài cho bài văn miêu tả cây cối\n★ Tiế
+ t 4: LS-ĐL – Bài 16 : Một số nét văn hóa ở vùng Duyên hải
+  miền Trung  (Tiết 1)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Ch
+ ơi trò chơi “Đi siêu thị”.  
 END:VEVENT
 BEGIN:VEVENT
-UID:b152c55a-294c-425e-a166-bf7c89164801
+UID:5893f4b2-0bd6-4698-a762-311dcdc41852
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260126
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1563,9 +1604,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Hưởng ứ
  t 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:8be18ff0-d1e9-457a-8c2e-4de98a7be292
+UID:c01f3152-5737-4403-9537-d0ee7c6010c9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260127
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1578,9 +1619,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ọc: Điều ước của vua Mi-đát
 END:VEVENT
 BEGIN:VEVENT
-UID:c15d8ebe-0dc7-4eea-973e-cebb0ac77ad7
+UID:63730c13-e126-43d2-b22d-c0d47775c51a
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260128
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1592,13 +1633,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về ch
  việc làm thể hiện sinh hoạt nền nếp. Tìm hiểu cách thực
   hiện sinh hoạt nền nếp ở nhà\, ở trường.  \n★ Tiết 6
  : Tiếng Việt – Viết: Viết: đoạn văn cho bài văn miêu tả
-  cây cối\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 47: Nhân vớ
- i số có hai chữ số - tiết 2
+  cây cối\n★ Tiết 7: LS-ĐL – Bài 16 : Một số nét văn hóa 
+ ở vùng Duyên hải miền Trung (Tiết 2)\n★ Tiết 8: Toán – B
+ ài 47: Nhân với số có hai chữ số - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:d60775e7-c175-4002-bfab-2aaac78ae1c3
+UID:cd0db7ed-8033-4f2b-be5f-89102cfa479a
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1609,9 +1651,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 48: Em làm được những gì?
  ớc nổi\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:f558ece3-ea3d-416e-a9d4-03ab4f046043
+UID:163be642-d3a1-4e70-ba2a-5700d7037ef5
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260130
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1621,13 +1663,14 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 48: Em làm được những gì?
   - tiết 2\n★ Tiết 2: Tiếng Việt – Nói và nghe: Nói về m
  ột tấm gương lạc quan\, yêu cuộc sống\n★ Tiết 3: Tiếng 
  Việt – Viết: Viết đoạn kết bài cho bài văn miêu tả cây
-  cối\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Thự
- c hiện nền nếp sinh hoạt ở trường.  
+  cối\n★ Tiết 4: LS-ĐL – Bài 17: Cố đô Huế (Tiết 1)\n★ 
+ Tiết 5: HĐTN – Sinh hoạt lớp: Thực hiện nền nếp sinh ho
+ ạt ở trường.  
 END:VEVENT
 BEGIN:VEVENT
-UID:1e79fcb1-a5ec-4b73-a01a-b33eaadf6298
+UID:f33e4c36-32e6-4b6e-a4af-3f8958a9715d
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260202
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1639,9 +1682,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Hoạt độ
  Tiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:26ca6c5f-786f-4972-9a00-ad89a589b430
+UID:99ac4a65-bf7d-4f0d-9b60-4945dcbf49cb
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1654,9 +1697,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  g SHCLB đọc sách: Chủ điểm: Cuộc sống mến yêu
 END:VEVENT
 BEGIN:VEVENT
-UID:410c4463-47dc-48f6-862c-878b4ded155d
+UID:1373b506-cf52-4c4f-ad40-465142302763
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1667,14 +1710,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về vị
  – Hoạt động giáo dục theo chủ đề: Nhận diện các biểu
   hiện của tư duy khoa học. Xác định cách rèn luyện tư duy 
  khoa học để phát triển bản thân  \n★ Tiết 6: Tiếng Việ
- t – Viết: Viết: bài văn miêu tả cây cối\nTiết 7: LS-ĐL\n
- ★ Tiết 8: Toán – Bài 51: Ước lượng thương trong phép chia
-  - tiết 1
+ t – Viết: Viết: bài văn miêu tả cây cối\n★ Tiết 7: LS-Đ
+ L – Bài 17: Cố đô Huế (Tiết 2)\n★ Tiết 8: Toán – Bài 51
+ : Ước lượng thương trong phép chia - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:2b758cd7-5c47-4e51-9def-19aa1037ad9f
+UID:5ee7aa11-8627-404f-ab37-71ba8ec27b8d
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1685,9 +1728,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 51: Ước lượng thương tron
   phố Hội\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:b8d2c649-f8ba-491e-9df8-640b0ba69421
+UID:d733d053-0693-4c5f-982c-459970b1fe59
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260206
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1696,14 +1739,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 52: Chia cho số có hai chữ s
  ố - tiết 1\n★ Tiết 2: Tiếng Việt – LTVC: Mở rộng vốn t
  ừ: Cái đẹp\n★ Tiết 3: Tiếng Việt – Viết: Luyện tập q
- uan sát\, tìm ý cho bài văn miêu tả cây cối\nTiết 4: LS-ĐL\n
- ★ Tiết 5: HĐTN – Sinh hoạt lớp: Báo cáo việc thực hiện 
- quy định nền nếp sinh hoạt ở trường.  
+ uan sát\, tìm ý cho bài văn miêu tả cây cối\n★ Tiết 4: LS-
+ ĐL – Bài 18: Phố cổ Hội An (Tiết 1)\n★ Tiết 5: HĐTN – S
+ inh hoạt lớp: Báo cáo việc thực hiện quy định nền nếp s
+ inh hoạt ở trường.  
 END:VEVENT
 BEGIN:VEVENT
-UID:6570df78-9678-4f86-a96d-6b22c60f0ea0
+UID:c88d01aa-0e53-4fb6-9e74-03bfed2c3a7e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1715,9 +1759,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tổng kết
   4: Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:960c53ca-596b-4363-8ea3-806cc699d79b
+UID:fe824472-75eb-45d9-8a91-3e79aec7b153
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260210
 DTEND;VALUE=DATE:20260210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1730,9 +1774,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  Đọc: Sự tích bánh chưng\, bánh giầy
 END:VEVENT
 BEGIN:VEVENT
-UID:18751f4a-a385-420f-9d3b-9f432e65adbb
+UID:253737f7-b876-45cc-b7db-4e9288e17a99
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1743,14 +1787,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về vị
  – Hoạt động giáo dục theo chủ đề: Thực hành lập sơ đ
  ồ tư duy\, rèn luyện thói quen tư duy khoa học. Thực hành gi
  ải quyết vấn đề.  \n★ Tiết 6: Tiếng Việt – Viết: Luy
- ện tập lập dàn ý cho bài văn miêu tả cây cối\nTiết 7: LS
- -ĐL\n★ Tiết 8: Toán – Bài 52: Chia cho số có hai chữ số - 
- tiết 4
+ ện tập lập dàn ý cho bài văn miêu tả cây cối\n★ Tiết 7
+ : LS-ĐL – Bài 18: Phố cổ Hội An (Tiết 2)\n★ Tiết 8: Toán 
+ – Bài 52: Chia cho số có hai chữ số - tiết 4
 END:VEVENT
 BEGIN:VEVENT
-UID:320b25d3-ae39-46e9-ad4d-8de46f118bf2
+UID:f82ae6d3-1f05-4045-9e49-92d073f76046
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1761,9 +1805,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 53: Em làm được những gì?
  hăm\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:09148572-ffe6-41f2-b1a9-44dec4df6f1d
+UID:c8713a87-7e30-46a3-b625-8df4f0775821
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260213
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1772,14 +1816,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 53: Em làm được những gì?
   - tiết 2\n★ Tiết 2: Tiếng Việt – Nói và nghe: Giới thiệ
  u một cảnh đẹp\n★ Tiết 3: Tiếng Việt – Viết: Trả bài
-  văn miêu tả cây cối\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sin
- h hoạt lớp: Chia sẻ kết quả rèn luyện nền nếp và thói q
- uen tư duy khoa học.  
+  văn miêu tả cây cối\n★ Tiết 4: LS-ĐL – Bài 19: Thiên nhi
+ ên vùng Tây Nguyên (Tiết 1)\n★ Tiết 5: HĐTN – Sinh hoạt l
+ ớp: Chia sẻ kết quả rèn luyện nền nếp và thói quen tư du
+ y khoa học.  
 END:VEVENT
 BEGIN:VEVENT
-UID:4130629b-d80f-4c33-8e37-6bcdaef34750
+UID:6c8c1c29-173c-4513-baf6-c74b7d3a6211
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260216
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1791,9 +1836,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Chào mừng
  ết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:151d087d-8cb5-48e3-b890-4a86f2806712
+UID:026c67c7-a659-4498-986a-7124075ea498
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260217
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1806,9 +1851,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  c sách\; Chủ điểm: Việt Nam quê hương em
 END:VEVENT
 BEGIN:VEVENT
-UID:f32f0c9a-1e9e-45c5-bf3d-f7862588a3df
+UID:c1482bcc-d09a-4010-80bc-7a9f372c4981
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1821,13 +1866,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về thà
  . Xác định một số cách tạo dựng sự gắn kết yêu thươn
  g giữa những người thân trong gia đình   \n★ Tiết 6: Tiến
  g Việt – Viết: Luyện tập viết đoạn văn cho bài văn miêu
-  tả cây cối\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 55: Hình
-  thoi - tiết 1
+  tả cây cối\n★ Tiết 7: LS-ĐL – Bài 19: Thiên nhiên vùng T
+ ây Nguyên (Tiết 2)\n★ Tiết 8: Toán – Bài 55: Hình thoi - ti
+ ết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:57a72e35-7699-432f-85c4-cecd00ea732d
+UID:640ab3a3-304c-482f-a724-01720597b263
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1838,9 +1884,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 55: Hình thoi - tiết 2\n★ Ti
  ạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:fcb44cb8-b804-4563-8bdd-4cb752fe8669
+UID:8844b79b-6a85-49fe-b997-1f15e005222b
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260220
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1849,14 +1895,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 56: Xếp hình\, vẽ hình - ti
  ết 1\n★ Tiết 2: Tiếng Việt – LTVC: Câu chủ đề\n★ Tiế
  t 3: Tiếng Việt – Viết: Luyện tập viết bài văn miêu tả 
- cây cối\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: V
- ẽ tranh về những việc làm tạo nên sự gắn kết yêu thươ
- ng với những người trong gia đình.   
+ cây cối\n★ Tiết 4: LS-ĐL – Bài 19: Thiên nhiên vùng Tây Ngu
+ yên (Tiết 3)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Vẽ tranh v
+ ề những việc làm tạo nên sự gắn kết yêu thương với nh
+ ững người trong gia đình.   
 END:VEVENT
 BEGIN:VEVENT
-UID:6e3427b2-e616-46e9-b5a2-0dfb4866c388
+UID:4b141112-947a-4b76-8770-7b1786d32e01
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260223
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1868,9 +1915,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Chương tr
   Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:fbca600c-b4c4-483c-a5fa-7ccecc5558d6
+UID:847cb946-da46-413e-ba02-ac15a6ccf142
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1882,9 +1929,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
   áo\n★ Tiết 7: Tiếng Việt – Đọc: Hoa cúc áo
 END:VEVENT
 BEGIN:VEVENT
-UID:8473d8df-69f3-4aa2-b3ff-d2051a9cbc06
+UID:8131c826-85cc-48c1-9650-b3394906ff97
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260225
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1897,13 +1944,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Luyện tập về câu
  ới những người thân trong gia đình. Thực hành thể hiện s
  ự gắn kết yêu thương với những người thân trong gia đìn
  h\n★ Tiết 6: Tiếng Việt – Viết: Luyện tập viết đoạn v
- ăn nêu tình cảm\, cảm xúc\nTiết 7: LS-ĐL\n★ Tiết 8: Toán 
- – Bài 57: Mi-li-mét vuông - tiết 1
+ ăn nêu tình cảm\, cảm xúc\n★ Tiết 7: LS-ĐL – Bài 20: Dân 
+ cư và hoạt động sản xuất ở vùng Tây Nguyên  (Tiết 1)\n
+ ★ Tiết 8: Toán – Bài 57: Mi-li-mét vuông - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:58bcda42-8eb2-40c7-a2f4-df4d32beec68
+UID:6e2cdd06-4386-4fd5-a425-2a2bc6e6d997
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1914,9 +1962,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 57: Mi-li-mét vuông - tiết 2\
  ết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:703de028-3a1e-40ee-b717-67842a08d28f
+UID:08720ea7-060b-4903-9e37-9cc6c5fee2ba
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260227
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1926,15 +1974,16 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 58: Em làm được những gì?
   - Tiết 1\n★ Tiết 2: Tiếng Việt – Nói và nghe: Nói về m
  ột việc làm góp phần bảo vệ môi trường\n★ Tiết 3: Ti
  ếng Việt – Viết: Luyện tập viết đoạn văn nêu tình cả
- m\, cảm xúc.\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt l
- ớp: Báo cáo kết quả thực hiện những việc làm để tạo 
- sự gắn kết yêu thương với những người thân trong gia đì
- nh. 
+ m\, cảm xúc.\n★ Tiết 4: LS-ĐL – Bài 20: Dân cư và hoạt đ
+ ộng sản xuất ở vùng Tây Nguyên  (Tiết 2)\n★ Tiết 5: HĐT
+ N – Sinh hoạt lớp: Báo cáo kết quả thực hiện những việ
+ c làm để tạo sự gắn kết yêu thương với những người t
+ hân trong gia đình. 
 END:VEVENT
 BEGIN:VEVENT
-UID:ceb25b6a-4ece-44c0-9c08-99611fed6cc0
+UID:61857a49-6025-41f4-aca5-28acf5c45b59
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260302
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1947,9 +1996,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Giao lưu v
  \nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:349800ea-05db-4ee8-af26-62e9b95468ca
+UID:71b75814-4767-4628-9d8c-1b279fb2b3f9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260303
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1962,9 +2011,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ọc sách: Chủ điểm: Việt Nam quê hương em
 END:VEVENT
 BEGIN:VEVENT
-UID:79a160d8-dff5-4c15-b8fc-92a9579e8d7d
+UID:2ca1da6f-2759-496b-9ccd-0b4c2305efa8
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260304
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1976,13 +2025,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Dấu gạch ngang\nTi
  ong ứng xử với các thành viên trong gia đình. Tìm hiểu khả
   năng điều chỉnh cảm xúc\, suy nghĩ của bản thân với các
   thành viên trong gia đình.   \n★ Tiết 6: Tiếng Việt – Vi
- ết: Trả bài văn miêu tả cây cối\nTiết 7: LS-ĐL\n★ Tiết 
- 8: Toán – Bài 59: Thực hành và trải nghiệm - tiết 2
+ ết: Trả bài văn miêu tả cây cối\n★ Tiết 7: LS-ĐL – Bài
+  20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên (Ti
+ ết 3) \n★ Tiết 8: Toán – Bài 59: Thực hành và trải nghiệ
+ m - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:dabd5a5c-51e3-4165-bdc1-9fa03477b314
+UID:030d4422-d55d-4e52-bcbf-bbc0ec7c4664
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260305
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1993,9 +2044,9 @@ DESCRIPTION:★ Tiết 1: Toán – Kiểm tra giữa học kì II\n★ Ti
  Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:708e7fe1-9cb4-48d6-a77b-0e0dfe990ab7
+UID:d65a2403-0e7e-4d70-91a8-0f7a47360375
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260306
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2004,13 +2055,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 60: Phân số - tiết 1\n★ Ti
  ết 2: Tiếng Việt – LTVC: Mở rộng vốn từ: Quê hương\n★
   Tiết 3: Tiếng Việt – Viết: Viết hướng dẫn làm hoặc s
- ử dụng một sản phẩm\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – S
- inh hoạt lớp: Chơi trò chơi “Mảnh ghép bí ẩn”.  
+ ử dụng một sản phẩm\n★ Tiết 4: LS-ĐL – Bài 21: Một s
+ ố nét văn hóa và lịch sử của đồng bào Tây Nguyên (Tiết
+  1)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Chơi trò chơi “Mảnh
+  ghép bí ẩn”.  
 END:VEVENT
 BEGIN:VEVENT
-UID:3a91ee1d-fadf-4e3c-8891-1699080881ed
+UID:b42d54a7-3074-49ae-9c9c-edee0db2557d
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260309
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2022,9 +2075,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Biểu diễ
  iết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:f47f2b10-53f3-490b-9825-47d46e0291a2
+UID:cf0a098c-ea4d-4b82-beb1-0623a13e0ceb
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260310
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2039,9 +2092,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  \, tổ chức
 END:VEVENT
 BEGIN:VEVENT
-UID:170119a4-9481-4d09-9f09-06fa049b4b85
+UID:fcfd374b-c846-46b5-9745-c2b4a5e448e5
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260311
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2056,14 +2109,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – Nói và nghe: Tiết 3: Ôn
  ỉnh cảm xúc\, suy nghĩ của bản thân với các thành viên tro
  ng gia đình. \n★ Tiết 6: Tiếng Việt – LTVC: Tiết 4: Ôn luy
  ện từ và câu: Câu chủ đề\; thành phần chính của câu\; l
- ựa chọn\, sử dụng từ ngữ\; dấu gạch ngang\nTiết 7: LS-Đ
- L\n★ Tiết 8: Toán – Bài 61: Phân số và phép chia số tự nh
- iên - tiết 2
+ ựa chọn\, sử dụng từ ngữ\; dấu gạch ngang\n★ Tiết 7: L
+ S-ĐL – Bài 21: Một số nét văn hóa và lịch sử của đồng
+  bào Tây Nguyên (Tiết 2)\n★ Tiết 8: Toán – Bài 61: Phân số
+  và phép chia số tự nhiên - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:df672f00-d1e6-4dad-befe-57be817857fc
+UID:0ae79a81-ff52-4313-963f-212eef8e8a6b
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260312
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2075,9 +2129,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 62: Phân số bằng nhau - ti
   Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:239a7712-6f76-4370-b6ac-e47edd1d0027
+UID:ac6bc9a1-b288-48c9-bed8-8521e5605fe1
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260313
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2086,14 +2140,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 62: Phân số bằng nhau - ti
  ết 2\n★ Tiết 2: Tiếng Việt – Viết: Tiết 6: Đánh giá Gi
  ữa học kì II\n★ Tiết 3: Tiếng Việt – Viết: Tiết 7: Đá
- nh giá Giữa học kì II\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sin
- h hoạt lớp: Hái hoa dân chủ về chủ đề “Gắn kết gia đ
- ình – Quý trọng phụ nữ”.
+ nh giá Giữa học kì II\n★ Tiết 4: LS-ĐL – Ôn tập và đánh
+  giá Giữa HKII\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Hái hoa dâ
+ n chủ về chủ đề “Gắn kết gia đình – Quý trọng phụ 
+ nữ”.
 END:VEVENT
 BEGIN:VEVENT
-UID:fa3ed22e-5a53-43fe-a8c3-14404cf90830
+UID:6e71b538-3af1-4a82-b43c-32d7bad35542
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260316
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2106,9 +2161,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Hưởng ứ
  iết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:c79f768d-44e9-444b-8ad8-3b38cf906502
+UID:119ec388-1340-4a13-a742-752fa401f221
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260317
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2120,9 +2175,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ặt gió\n★ Tiết 7: Tiếng Việt – Đọc: Cậu bé gặt gió
 END:VEVENT
 BEGIN:VEVENT
-UID:d5fe671f-82a9-4fb2-b165-7f90c1252166
+UID:84045c8b-4b6d-474b-8a57-66e64f59bf56
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260318
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2134,14 +2189,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Dấu ngoặc kép\nTi
  . Chia sẻ hiểu biết của em về những cảnh quan thiên nhiên 
  ở địa phương.  Xây dựng kế hoạch tham quan và chăm sóc c
  ảnh quan thiên nhiên ở địa phương  \n★ Tiết 6: Tiếng Vi
- ệt – Viết: Nhận diện bài văn miêu tả con vật\nTiết 7: L
- S-ĐL\n★ Tiết 8: Toán – Bài 64: Em làm được những gì? - ti
- ết 1
+ ệt – Viết: Nhận diện bài văn miêu tả con vật\n★ Tiết 
+ 7: LS-ĐL – Bài 22: Lễ hội Cồng chiêng Tây Nguyên\n★ Tiết 
+ 8: Toán – Bài 64: Em làm được những gì? - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:daf17614-6310-4097-9623-d10378eec190
+UID:734ca9cc-fa30-43ee-9040-bb9ad1696b50
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260319
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2152,9 +2207,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 64: Em làm được những gì?
  i thực vật ở Nam Mỹ\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:be77f0a5-c2a1-4198-890b-9f6893da0635
+UID:86dcd050-82bb-47ed-8442-07d12f27e4d1
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260320
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2163,14 +2218,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 65: Quy đồng mẫu số các p
  hân số - tiết 1\n★ Tiết 2: Tiếng Việt – Nói và nghe: Nói
   về vai trò của cây xanh\n★ Tiết 3: Tiếng Việt – Viết: Q
- uan sát\, tìm ý cho bài văn miêu tả con vật\nTiết 4: LS-ĐL\n
- ★ Tiết 5: HĐTN – Sinh hoạt lớp: Xây dựng phiếu thu hoạch
-  cá nhân về chuyến tham quan.  
+ uan sát\, tìm ý cho bài văn miêu tả con vật\n★ Tiết 4: LS-Đ
+ L – Bài 23: Thiên nhiên vùng Nam Bộ (Tiết 1)\n★ Tiết 5: HĐT
+ N – Sinh hoạt lớp: Xây dựng phiếu thu hoạch cá nhân về ch
+ uyến tham quan.  
 END:VEVENT
 BEGIN:VEVENT
-UID:428c5977-4f81-4fed-8e01-6031f10ab97a
+UID:f07fd9c5-2f47-4054-a45a-6ef448d6d472
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260323
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2183,9 +2239,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Hoạt độ
  ết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:0959bef0-4e3d-4424-a2dd-4977d5207446
+UID:41753975-64ee-49ce-9b7b-23d399f3afd9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260324
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2198,9 +2254,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  : Chủ điểm: Thế giới quanh ta
 END:VEVENT
 BEGIN:VEVENT
-UID:96fd7373-5b59-4597-94d2-8f077d564d54
+UID:92a08c46-0279-4d1d-94ba-f8a3fae5a09c
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260325
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2211,13 +2267,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Dấu ngoặc đơn\nTi
   động giáo dục theo chủ đề: Giới thiệu cảnh quan thiên n
  hiên ở địa phương. Báo cáo việc chăm sóc và bảo vệ cả
  nh quan thiên nhiên  \n★ Tiết 6: Tiếng Việt – Viết: Lập d
- àn ý cho bài văn miêu tả con vật\nTiết 7: LS-ĐL\n★ Tiết 8:
-  Toán – Bài 66: So sánh hai phân số - tiết 2
+ àn ý cho bài văn miêu tả con vật\n★ Tiết 7: LS-ĐL – Bài 2
+ 3: Thiên nhiên vùng Nam Bộ (Tiết 2)\n★ Tiết 8: Toán – Bài 6
+ 6: So sánh hai phân số - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:8dcf5d1c-878c-4d7f-a2e9-30c4fad2800e
+UID:1356912b-eecf-409f-a634-6e3bd32053f8
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260326
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2228,9 +2285,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 67: Em làm được những gì?
  a\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:087cfa31-1932-4add-bd69-b19fed1c8f90
+UID:491b5ffa-84a5-49bb-9559-3164cd6e5253
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260327
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2239,14 +2296,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 67: Em làm được những gì?
   - tiết 2\n★ Tiết 2: Tiếng Việt – LTVC: Luyện tập về d
  ấu câu\n★ Tiết 3: Tiếng Việt – Viết: Viết đoạn văn ch
- o bài văn miêu tả con vật\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN 
- – Sinh hoạt lớp: Tuyên truyền về chủ đề bảo vệ cảnh 
- quan thiên nhiên.  
+ o bài văn miêu tả con vật\n★ Tiết 4: LS-ĐL – Bài 23: Thiên
+  nhiên vùng Nam Bộ (Tiết 3)\n★ Tiết 5: HĐTN – Sinh hoạt l
+ ớp: Tuyên truyền về chủ đề bảo vệ cảnh quan thiên nhiê
+ n.  
 END:VEVENT
 BEGIN:VEVENT
-UID:4dd636c8-ad99-4c39-825b-f5236d066410
+UID:10aa6187-39ed-4c85-be43-0c1b42713aca
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260330
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2258,9 +2316,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia “
  nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:6576c771-d347-4c84-b667-2189b673f12d
+UID:a2b6cc30-69ba-4bf5-834a-143bfbc0b655
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260331
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2273,9 +2331,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  Đọc: Biển và rừng cây dưới lòng đất
 END:VEVENT
 BEGIN:VEVENT
-UID:67cb9059-1159-41c7-a5c5-23125d3e9757
+UID:8f49123b-2b73-4494-b7de-e031676fdea0
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260401
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2285,13 +2343,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Trạng ngữ\nTiết 2
  : Âm nhạc\nTiết 3: Công Nghệ\n★ Tiết 4: HĐTN – Hoạt độ
  ng giáo dục theo chủ đề: Tìm hiểu thực trạng vệ sinh trư
  ờng lớp.   \n★ Tiết 6: Tiếng Việt – Viết: Luyện tập v
- iết đoạn văn cho bài văn miêu tả con vật\nTiết 7: LS-ĐL\n
- ★ Tiết 8: Toán – Bài 70: Em làm được những gì?
+ iết đoạn văn cho bài văn miêu tả con vật\n★ Tiết 7: LS-Đ
+ L – Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ
+  (Tiết 1)\n★ Tiết 8: Toán – Bài 70: Em làm được những gì
+ ?
 END:VEVENT
 BEGIN:VEVENT
-UID:bea57e0a-820c-4249-b47e-35d9d39f8ea1
+UID:86f891ae-1659-4636-91ac-f753832676ce
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260402
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2302,9 +2362,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 71: Trừ hai phân số cùng m
  của Ô-xtrây-li-a\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:24afb842-c153-46f9-b8fa-4fae8dd19355
+UID:7ef3825d-2cb8-44ba-8eee-ec1f79ea68c5
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260403
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2314,13 +2374,14 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 72: Trừ hai phân số khác m
  ẫu số\n★ Tiết 2: Tiếng Việt – Nói và nghe: Giới thiệu 
  về một công trình kiến trúc\n★ Tiết 3: Tiếng Việt – Vi
  ết: Viết đoạn mở bài và đoạn kết bài cho bài văn miêu 
- tả con vật\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớ
- p: Chia sẻ ý tưởng làm đẹp trường lớp.  
+ tả con vật\n★ Tiết 4: LS-ĐL – Bài 24: Dân cư và hoạt đ
+ ộng sản xuất ở vùng Nam Bộ (Tiết 2)\n★ Tiết 5: HĐTN – 
+ Sinh hoạt lớp: Chia sẻ ý tưởng làm đẹp trường lớp.  
 END:VEVENT
 BEGIN:VEVENT
-UID:e0630257-c8b8-47dd-954f-eff855533db5
+UID:c975bf21-ebb0-4443-8e18-52e42f29ced9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260406
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2332,9 +2393,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia ho
  Tiếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:8ee654b8-c18a-47c4-bcee-c78ff5cab8fe
+UID:65f05b0d-fe79-4195-a443-2703ea624804
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260407
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2347,9 +2408,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ọc sách Chủ điểm: Thế giới quanh ta
 END:VEVENT
 BEGIN:VEVENT
-UID:ab3a8ef4-24a9-43d5-9d87-457df54f928d
+UID:dd045aeb-67e5-40e7-8494-b4c97ebeccb7
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260408
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2359,13 +2420,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Trạng ngữ chỉ th
  ời gian\, nơi chốn\nTiết 2: Âm nhạc\nTiết 3: Công Nghệ\n★
   Tiết 4: HĐTN – Hoạt động giáo dục theo chủ đề: Lập k
  ế hoạch làm đẹp trường\, lớp.  \n★ Tiết 6: Tiếng Việ
- t – Viết: Viết bài văn miêu tả con vật\nTiết 7: LS-ĐL\n★
-  Tiết 8: Toán – Bài 74: Phép nhân phân số - tiết 1
+ t – Viết: Viết bài văn miêu tả con vật\n★ Tiết 7: LS-ĐL 
+ – Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ (
+ Tiết 3)\n★ Tiết 8: Toán – Bài 74: Phép nhân phân số - tiế
+ t 1
 END:VEVENT
 BEGIN:VEVENT
-UID:c1285df9-6956-480f-b7d0-dcb31ccc850a
+UID:f5d986ba-0418-4ab7-ab67-30fed7f5dc80
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2376,9 +2439,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 74: Phép nhân phân số - ti
  ết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:4306a5f3-4616-418a-af1d-0e29fd6aeaab
+UID:eab83e31-3ead-4d31-b4b8-0705766ac1e0
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260410
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2387,13 +2450,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 75: Phép chia hai phân số - t
  iết 1\n★ Tiết 2: Tiếng Việt – LTVC: Mở rộng vốn từ: Du
   lịch\n★ Tiết 3: Tiếng Việt – Viết: Viết bài văn miêu t
- ả con vật\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp
- : Thực hiện kế hoạch làm đẹp trường lớp. 
+ ả con vật\n★ Tiết 4: LS-ĐL – Bài 25: Một số nét văn hóa
+  và truyền thống cách mạng ở vùng Nam Bộ (Tiết 1)\n★ Ti
+ ết 5: HĐTN – Sinh hoạt lớp: Thực hiện kế hoạch làm đẹ
+ p trường lớp. 
 END:VEVENT
 BEGIN:VEVENT
-UID:02c3d67e-da4c-4648-80fb-3c8e5aa79d11
+UID:dfb1ad97-6879-4971-8990-66f95033bd6d
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260413
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2405,9 +2470,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Phong trào
  Tiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:c37a76d0-a823-4d7b-981f-b86c7bf97b51
+UID:dec21432-e08d-417b-af29-f17e0d117aa9
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260414
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2420,9 +2485,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  Cá heo ở biển Trường Sa
 END:VEVENT
 BEGIN:VEVENT
-UID:25a0db94-955e-4f0c-aa73-7978a4687ad5
+UID:23ba0b71-e755-49e5-b7e5-d07c82a20611
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260415
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2434,13 +2499,15 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Trạng ngữ chỉ m
  ận diện về nghề truyền thống. Xây dựng phiếu thu thập t
  hông tin về nghề truyền thống của địa phương.  \n★ Ti
  ết 6: Tiếng Việt – Viết: Luyện tập lập dàn ý cho bài v
- ăn miêu tả con vật\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 7
- 6: Tìm phân số của một số - tiết 2
+ ăn miêu tả con vật\n★ Tiết 7: LS-ĐL – Bài 25: Một số né
+ t văn hóa và truyền thống cách mạng ở vùng Nam Bộ (Tiết 2
+ )\n★ Tiết 8: Toán – Bài 76: Tìm phân số của một số - ti
+ ết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:fcd43a22-a4ad-4562-97de-2e38be93b790
+UID:d8f79048-265b-47dd-bbe5-ec98c353fdb2
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260416
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2451,9 +2518,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 77: Em làm được những gì?
  nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:e52f4dbb-9f12-4877-9af7-6c097070eeb1
+UID:33e4f20a-bdce-4afd-afd3-987689c410a5
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260417
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2462,14 +2529,15 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 77: Em làm được những gì?
   - tiết 2\n★ Tiết 2: Tiếng Việt – Nói và nghe: Tranh luận 
  theo chủ đề: Thời gian là vốn quý\n★ Tiết 3: Tiếng Việt
-  – Viết: Trả bài văn miêu tả con vật\nTiết 4: LS-ĐL\n★ T
- iết 5: HĐTN – Sinh hoạt lớp: Giao lưu với nghệ nhân làm ng
- hề truyền thống ở địa phương. 
+  – Viết: Trả bài văn miêu tả con vật\n★ Tiết 4: LS-ĐL 
+ – Bài 26: Thành phố Hồ Chí Minh (Tiết 1)\n★ Tiết 5: HĐTN 
+ – Sinh hoạt lớp: Giao lưu với nghệ nhân làm nghề truyền t
+ hống ở địa phương. 
 END:VEVENT
 BEGIN:VEVENT
-UID:62b9ca38-800f-43af-9ab7-f15d3740a26d
+UID:0d5bc86f-85cc-4104-b90a-3fb70f6d5c87
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260420
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2481,9 +2549,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tiểu phẩ
  ếng Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:753fd781-b69f-4e23-bebe-4aed4cd0dff6
+UID:023536d2-dc52-4df4-8616-c595ddd98966
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260421
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2496,9 +2564,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ách: Chủ điểm: Vòng tay thân ái
 END:VEVENT
 BEGIN:VEVENT
-UID:aea2837a-175c-433b-b13f-43bce701fd8b
+UID:a2c8a6bf-b784-44f8-9757-02978be18953
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260422
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2510,13 +2578,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Trạng ngữ chỉ ph
  quả tìm hiểu thông tin về nghề truyền thống ở địa phư
  ơng.  Báo cáo kết quả trải nghiệm về nghề truyền thống
   ở địa phương  \n★ Tiết 6: Tiếng Việt – Viết: Luyện 
- tập viết đoạn văn cho bài văn miêu tả con vật\nTiết 7: LS
- -ĐL\n★ Tiết 8: Toán – Bài 78: Ôn tập cuối năm - tiết 2
+ tập viết đoạn văn cho bài văn miêu tả con vật\n★ Tiết 7
+ : LS-ĐL – Bài 26: Thành phố Hồ Chí Minh (Tiết 2)\n★ Tiết 8
+ : Toán – Bài 78: Ôn tập cuối năm - tiết 2
 END:VEVENT
 BEGIN:VEVENT
-UID:fc2f5d1c-2d2d-45fa-a08d-bccf77c02d2d
+UID:65438d49-34e3-4d76-9585-88d704f0ecf3
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260423
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2527,9 +2596,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 78: Ôn tập cuối năm - tiế
   3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:2b098e7a-e3b8-4b5e-ad22-7dbd7e735c37
+UID:da655519-b70f-4d0f-9b33-ddde918531a4
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260424
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2538,14 +2607,14 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 78: Ôn tập cuối năm - tiế
  t 4\n★ Tiết 2: Tiếng Việt – LTVC: Luyện tập về trạng ng
  ữ\n★ Tiết 3: Tiếng Việt – Viết: Luyện tập viết bài v
- ăn miêu tả con vật\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh h
- oạt lớp: Sưu tầm sản phẩm của nghề truyền thống ở đ
- ịa phương.  
+ ăn miêu tả con vật\n★ Tiết 4: LS-ĐL – Bài 26: Thành phố H
+ ồ Chí Minh (Tiết 3)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Sưu 
+ tầm sản phẩm của nghề truyền thống ở địa phương.  
 END:VEVENT
 BEGIN:VEVENT
-UID:b2bb72f3-7501-4542-976c-5cafb81fdda5
+UID:c4e66c5b-4ddf-44d6-919f-b124ad4149d1
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260427
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2557,9 +2626,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia k
  g Anh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:8e1b1fc9-bbcd-49d3-bb2f-9ecf772dc13a
+UID:9f308c30-f4b7-40c0-ba0b-7ae2f463af2b
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260428
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2572,9 +2641,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  a chim non
 END:VEVENT
 BEGIN:VEVENT
-UID:995b3720-6f22-472d-870d-9e80826f8fd8
+UID:120c37fd-5247-4c3c-85f7-5fc570b27235
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260429
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2586,13 +2655,14 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – LTVC: Mở rộng vốn từ:
  phẩm về nghề truyền thống ở địa phương. Thiết kế sả
  n phẩm truyền thông về nghề truyền thống ở địa phương.
     \n★ Tiết 6: Tiếng Việt – Viết: Viết hướng dẫn thự
- c hiện một công việc\nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bà
- i 78: Ôn tập cuối năm - tiết 7
+ c hiện một công việc\n★ Tiết 7: LS-ĐL – Bài 27: Địa đ
+ ạo Củ Chi\n★ Tiết 8: Toán – Bài 78: Ôn tập cuối năm - ti
+ ết 7
 END:VEVENT
 BEGIN:VEVENT
-UID:a7fe6886-992c-4036-b390-14027ea94c84
+UID:113bf1f1-5345-48fe-9c81-5321650d4bde
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260430
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2603,9 +2673,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 78: Ôn tập cuối năm - tiế
   lục\nTiết 3: Đạo Đức\nTiết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:4d0c91ee-254a-426a-a5eb-f47681e145a7
+UID:d55e82d4-4058-44c0-8b3f-716ea86d435c
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260501
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2614,14 +2684,14 @@ SUMMARY:Lịch Báo Giảng - Friday
 DESCRIPTION:★ Tiết 1: Toán – Bài 78: Ôn tập cuối năm - tiế
  t 9\n★ Tiết 2: Tiếng Việt – Nói và nghe: Nghe-kể câu chuy
  ện về một chuyện thám hiểm\n★ Tiết 3: Tiếng Việt – Vi
- ết: Trả bài văn miêu tả con vật\nTiết 4: LS-ĐL\n★ Tiết 5
- : HĐTN – Sinh hoạt lớp: Truyền thông về nghề truyền thốn
- g ở địa phương 
+ ết: Trả bài văn miêu tả con vật\n★ Tiết 4: LS-ĐL – Ôn t
+ ập Cuối năm (Tiết 1)\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Tr
+ uyền thông về nghề truyền thống ở địa phương 
 END:VEVENT
 BEGIN:VEVENT
-UID:8c1592f4-7f7b-4177-9ba4-d599c2c1c449
+UID:064afecc-3c64-40ea-8059-0f28c4aad69e
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2633,9 +2703,9 @@ DESCRIPTION:★ Tiết 1: HĐTN – Sinh hoạt dưới cờ: Tham gia “
  nh\nTiết 6: Tiếng Anh\nTiết 7: GDTC\nTiết 8: GDTC
 END:VEVENT
 BEGIN:VEVENT
-UID:98d5fe59-1732-4379-82b3-ae49db4569e9
+UID:8ec8779e-dc8f-464e-9de3-a4b5584bc38d
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260505
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2648,9 +2718,9 @@ DESCRIPTION:Tiết 1: Khoa học\nTiết 2: Khoa học\nTiết 3: Mỹ thu
  ện đọc thành tiếng và đọc hiểu: Chiều thu quê em
 END:VEVENT
 BEGIN:VEVENT
-UID:f53138b1-758d-422c-b23c-81572eb48013
+UID:fd277eee-fbf6-4663-8cf7-ef9b583454ab
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260506
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2664,13 +2734,13 @@ DESCRIPTION:★ Tiết 1: Tiếng Việt – Viết: Tiết 2: - Nghe-vi
   tặng thầy cô\, bạn bè  \n★ Tiết 6: Tiếng Việt – Nói v
  à nghe: Tiết 3: Ôn luyện Nói và nghe: : Tranh luận\, bày tỏ 
  ý kiến về câu nói\; Sức khỏe là vốn quý của con người\
- nTiết 7: LS-ĐL\n★ Tiết 8: Toán – Bài 79: Thực hành và trả
- i nghiệm - tiết 1
+ n★ Tiết 7: LS-ĐL – Ôn tập Cuối năm (Tiết 2)\n★ Tiết 8: 
+ Toán – Bài 79: Thực hành và trải nghiệm - tiết 1
 END:VEVENT
 BEGIN:VEVENT
-UID:d8f7bf35-7d60-4304-bf59-6234ffe18c9b
+UID:c9e04e55-b227-4bc5-b28d-c3f574c8cd27
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260507
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2683,9 +2753,9 @@ DESCRIPTION:★ Tiết 1: Toán – Bài 79: Thực hành và trải nghi
  iết 4: Tin Học
 END:VEVENT
 BEGIN:VEVENT
-UID:1470590b-6e24-4ac9-84d8-6121ba1eb0d9
+UID:e6af6f54-0f68-4c41-a0c1-ceed1c863c12
 SEQUENCE:0
-DTSTAMP:20251201T105127
+DTSTAMP:20251201T105909
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260508
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -2695,7 +2765,7 @@ DESCRIPTION:★ Tiết 1: Toán – Kiểm tra cuối năm\n★ Tiết 2:
  Tiếng Việt – Viết: Tiết 5: Ôn luyện Viết: : Viết: bài v
  ăn tả một con vật hoặc loài vật thông minh mà em biết\n★
   Tiết 3: Tiếng Việt – Viết: Tiết 6: Đánh giá cuối năm h
- ọc\nTiết 4: LS-ĐL\n★ Tiết 5: HĐTN – Sinh hoạt lớp: Chia ta
- y kết thúc năm học.
+ ọc\n★ Tiết 4: LS-ĐL – Kiểm tra Cuối năm\n★ Tiết 5: HĐTN
+  – Sinh hoạt lớp: Chia tay kết thúc năm học.
 END:VEVENT
 END:VCALENDAR

@@ -39,6 +39,8 @@ function getLessonsForSubject(subject, weekNumber) {
         'Tiếng Việt': 'literature',
         Toán: 'math',
         HĐTN: 'hdtn',
+        TNXH: 'tnxh',
+        'LS-ĐL': 'history',
     };
 
     const key = subjectMap[subject];
